@@ -1,0 +1,38 @@
+[
+  {
+    "sentiment": {
+      "positive": 0.1,
+      "neutral": 0.8,
+      "negative": 0.1
+    },
+    "chat_history": "I am Doug, from the health insurance. I need to talk to my insurance agent.",
+    "model": "llama-3.3-70b-versatile",
+    "customer_name": "Doug",
+    "insurance_type": 2,
+    "issue_summary": "Doug, a health insurance subscriber, needs to talk to his insurance agent.",
+    "query_category": "Human Support Escalations",
+    "query_subcategory": "Urgent Assistance",
+    "human_attendant_name": "Letícia",
+    "human_attendant_id": 24,
+    "urgency_score": 56,
+    "recommended_message": "Hello Doug, this is Letícia, your attendant from the health insurance area of Bradesco Seguros. I'm here to listen and help you with any questions or concerns you may have regarding your health insurance. I'd love to understand what's on your mind and how I can assist you today. What would you like to talk about regarding your health insurance coverage?"
+  },
+  {
+    "sentiment": {
+      "positive": 0.1,
+      "neutral": 0.8,
+      "negative": 0.1
+    },
+    "chat_history": "I am Doug, from the health insurance. I need to talk to my insurance agent.",
+    "model": "llama-3.3-70b-versatile",
+    "customer_name": "Doug",
+    "insurance_type": 2,
+    "issue_summary": "Doug, a health insurance subscriber, needs to contact his insurance agent.",
+    "query_category": "Human Support Escalations",
+    "query_subcategory": "Urgent Assistance",
+    "human_attendant_name": "Letícia",
+    "human_attendant_id": 24,
+    "urgency_score": 56,
+    "recommended_message": "Hello Doug, this is Letícia, your attendant from the health insurance area of Bradesco Seguros. I understand you'd like to discuss something regarding your health insurance, and I'm here to listen and assist you. I want to ensure that you receive the best possible support, so please feel free to share what's on your mind. What would you like to talk about regarding your health insurance today?"
+  }
+]

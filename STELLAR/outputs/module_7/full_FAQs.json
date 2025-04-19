@@ -1,0 +1,626 @@
+[
+  {
+    "id": 1,
+    "category": "auto_insurance",
+    "question": "Seguro de carro: O que devo fazer em caso de sinistro?",
+    "answer": "Você deve informar às autoridades policiais, fazendo o registro da ocorrência. Em seguida, deverá informar ao seu corretor ou à Central de Relacionamento da Bradesco Seguros, que dará as instruções necessárias."
+  },
+  {
+    "id": 2,
+    "category": "auto_insurance",
+    "question": "Seguro de carro: Em caso de sinistro, posso levar o veículo para uma oficina de minha confiança?",
+    "answer": "Sim, caso não possua nenhuma oficina de confiança a Bradesco Auto/RE possui uma ampla rede referenciada de oficinas que pode ser consultada em nosso site ou através de nossa Central de Relacionamento."
+  },
+  {
+    "id": 3,
+    "category": "auto_insurance",
+    "question": "Seguro de carro: No caso de sinistro, qual será o valor da indenização?",
+    "answer": "Se você contratar o seguro por valor determinado, receberá o valor informado na apólice no momento da contratação. Se o seu seguro foi contratado por valor de mercado referenciado, você receberá o valor que consta na Tabela Fipe vigente na data de pagamento da indenização, corrigido de acordo com o fator de ajuste informado na apólice."
+  },
+  {
+    "id": 4,
+    "category": "auto_insurance",
+    "question": "Seguro de carro: Qual é a vantagem de utilizar a Tabela Fipe?",
+    "answer": "A tabela é atualizada mensalmente, refletindo a média de valores do mercado. Além disso, a Fipe é uma instituição de reconhecida competência, independência e credibilidade e a tabela satisfaz as necessidades de referência do mercado de seguros."
+  },
+  {
+    "id": 5,
+    "category": "auto_insurance",
+    "question": "Seguro de carro: O que é a Tabela Fipe?",
+    "answer": "É uma tabela de preços dos diferentes modelos de veículos, desenvolvida pela Fundação Instituto de Pesquisas Econômicas da Universidade de São Paulo. Elaborada com base em pesquisas realizadas em todo o país, apresenta um valor médio de mercado para cada ano e modelo de veículos nacionais e/ou importados comercializados no Brasil."
+  },
+  {
+    "id": 6,
+    "category": "auto_insurance",
+    "question": "Seguro de carro: Em quais Produtos posso utilizar meus pontos Livelo na parceria com o Bradesco Seguro Auto?",
+    "answer": "Você poderá utilizar seus pontos Livelo para pagar parte ou o valor total do seu Seguro Auto. Será válido para todos os Produtos de Auto Individual, exceto Auto Assistência Total e Auto Lar."
+  },
+  {
+    "id": 7,
+    "category": "auto_insurance",
+    "question": "Seguro de carro: Como faço para usar os pontos Livelo com o Bradesco Seguro Auto?",
+    "answer": "Para usar seus pontos Livelo, siga o passo a passo a seguir: a) Solicite uma cotação do Seguro desejado para o corretor Bradesco; b) Caso esteja elegível, o Corretor oferecerá as opções de resgate disponíveis. c) Após a sua permissão, o corretor irá transmitir a proposta com a forma de pagamento em pontos, e será gerado um resgate pendente na sua conta Livelo; d) Você receberá uma notificação o avisando que há um resgate pendente e terá 48h (quarenta e oito horas) para aprovar ou rejeitar esse resgate; e) Para aprovar o resgate, você deverá entrar em sua conta Livelo, acessar a aba “Meus Pedidos”, identificar o pedido da Bradesco Seguros e clicar para aprovar; Pronto! Seu pagamento em pontos Livelo foi realizado e você receberá um e-mail de confirmação."
+  },
+  {
+    "id": 8,
+    "category": "auto_insurance",
+    "question": "Seguro de carro: Meu pedido está pendente, mas não consigo mais visualizar meus pontos. Eles já foram resgatados?",
+    "answer": "Não, os pontos utilizados como pagamento do seu Seguro ficam apenas reservados durante esse período de 48h. Caso você aceite o resgate, os pontos serão debitados. Caso contrário, os pontos serão desbloqueados para uso novamente."
+  },
+  {
+    "id": 9,
+    "category": "auto_insurance",
+    "question": "Seguro de carro: Posso demorar mais de 48h para aprovar o pedido?",
+    "answer": "Não, se após 48h o pedido não for nem aprovado e nem rejeitado, ele será automaticamente cancelado e será necessário entrar em contato novamente com o corretor para fazer um novo pedido."
+  },
+  {
+    "id": 10,
+    "category": "auto_insurance",
+    "question": "Seguro de carro: Posso desistir da opção de pagar com Pontos Livelo?",
+    "answer": "Sim, para isso, será preciso entrar em conta Livelo, acessar “Meus Pedidos”, identificar o pedido da Bradesco Seguros e clicar em “rejeitar”. Caso não faça isso, os seus pontos ficarão reservados durante as 48h. Após esse prazo, o pedido será expirado e os pontos liberados."
+  },
+  {
+    "id": 11,
+    "category": "auto_insurance",
+    "question": "Seguro de carro: Quantos pedidos eu posso fazer pagando com pontos Livelo?",
+    "answer": "Você poderá ter até 02 pedidos pendentes de aprovação simultaneamente na sua conta Livelo."
+  },
+  {
+    "id": 12,
+    "category": "auto_insurance",
+    "question": "Seguro de carro: Posso usar outra forma de pagamento junto com os pontos Livelo?",
+    "answer": "Sim, você poderá utilizar todas as opções de pagamento disponíveis na Bradesco Seguro Auto junto com os seus pontos Livelo para concluir sua compra."
+  },
+  {
+    "id": 13,
+    "category": "auto_insurance",
+    "question": "Seguro de carro: Posso pagar apenas com pontos Livelo?",
+    "answer": "Sim, caso você possua pontos Livelo suficientes para realizar o pagamento total da compra, essa opção estará disponível."
+  },
+  {
+    "id": 14,
+    "category": "auto_insurance",
+    "question": "Seguro de carro: Existe um valor mínimo de pontos Livelo que deve ser utilizado?",
+    "answer": "Sim, o valor mínimo é de 4.762 (quatro mil setecentos e sessenta e dois) pontos Livelo."
+  },
+  {
+    "id": 15,
+    "category": "auto_insurance",
+    "question": "Seguro de carro: Não tenho pontos suficientes para pagar o total do meu pedido. Mesmo assim, posso realizar a compra usando meus pontos?",
+    "answer": "Sim. Você poderá utilizar seus pontos Livelo para pagar parte do seu Seguro complementar com outra forma de pagamento em reais."
+  },
+  {
+    "id": 16,
+    "category": "auto_insurance",
+    "question": "Seguro de carro: Fiz uma compra utilizando pontos Livelo e a parte do pagamento com cartão de crédito foi recusada. O que faço?",
+    "answer": "Entre em contato com o seu corretor para rever sua forma de pagamento. Fique tranquilo, pois caso sua proposta seja cancelada e você já tenha aceitado o resgate de pontos, eles serão estornados para a sua conta."
+  },
+  {
+    "id": 17,
+    "category": "auto_insurance",
+    "question": "Seguro de carro: Quais são os critérios para ser elegível ao pagamento com pontos?",
+    "answer": "A quantidade mínima de pontos que pode ser utilizada é de 4.762 pontos Livelo; Somente segurados pessoa física; Todos os produtos do Auto Individual, exceto Auto Assistência Total e Auto Lar; Seguros Individuais e Contrato (exceto endosso); Veículos do tipo: Passeio, Picape, Moto e Carga."
+  },
+  {
+    "id": 18,
+    "category": "auto_insurance",
+    "question": "Seguro de carro: Quero cancelar minha apólice, serei reembolsado?",
+    "answer": "Para solicitar cancelamento da apólice, entre em contato com o Bradesco Seguro Auto. O reembolso proporcional será feito em reais."
+  },
+  {
+    "id": 19,
+    "category": "capitalization",
+    "question": "Capitalização: Como faço para cancelar meu título de capitalização?",
+    "answer": "Você pode cancelar seu título de capitalização através do Internet Banking, Bradesco Celular, Autoatendimento, Fone Fácil e agências Bradesco."
+  },
+  {
+    "id": 20,
+    "category": "capitalization",
+    "question": "Capitalização: Existe um valor mínimo de contribuição mensal?",
+    "answer": "Sim, cada produto possui valor mínimo de contribuição. Clique no produto da sua escolha e confira as características."
+  },
+  {
+    "id": 21,
+    "category": "capitalization",
+    "question": "Capitalização: Como resgatar meu título de capitalização?",
+    "answer": "É simples, rápido e sem burocracia. O resgate pode ser solicitado após o período de carência. Mas fique atento: Ao solicitar o resgate antes do término da vigência você perde algumas oportunidades: Deixa de concorrer aos sorteios oferecidos pelo título; Paralisará a formação de uma economia; Resgatará um valor inferior ao contratado. É melhor esperar até o término da vigência e resgatar 100% do valor pago, atualizado monetariamente. Para solicitar o resgate do seu título basta entrar em contato com o Fone Fácil: 4002-0022 (capitais e Regiões Metropolitanas) ou 0800 570 0022 (demais regiões). Atendimento de Segunda a Sexta, das 7h30 às 19h30 (dias úteis)."
+  },
+  {
+    "id": 22,
+    "category": "capitalization",
+    "question": "Capitalização: Tenho algum benefício após a contratação?",
+    "answer": "Sim, você participa do Clube de Vantagens Bradesco Seguros, concorre aos sorteios e recebe 100% do valor pago atualizado monetariamente ao final da vigência."
+  },
+  {
+    "id": 23,
+    "category": "capitalization",
+    "question": "Capitalização: Posso resgatar os valores pagos antes do final do plano?",
+    "answer": "Você pode resgatar, mas haverá a aplicação de uma carência, que varia conforme o título contratado, para a liberação do valor do resgate. É importante lembrar que o resgate antecipado não permite a devolução de 100% do valor pago."
+  },
+  {
+    "id": 24,
+    "category": "capitalization",
+    "question": "Capitalização: O que acontece com o título em caso de falecimento?",
+    "answer": "Deve ser aberto o inventário para saber quem serão os herdeiros. Não havendo outros bens, um pedido de alvará precisa ser feito e a transferência ocorrerá de acordo com o que determinar a justiça."
+  },
+  {
+    "id": 25,
+    "category": "capitalization",
+    "question": "Capitalização: Os prêmios dos sorteios são tributados pelo Imposto de Renda?",
+    "answer": "Sim, sobre os prêmios de capitalização há retenção na fonte do Imposto de Renda, com alíquotas de 25% ou 30%, conforme o plano contratado."
+  },
+  {
+    "id": 26,
+    "category": "capitalization",
+    "question": "Capitalização: Como acessar meu informe de rendimentos dos títulos de Capitalização?",
+    "answer": "Correntista: App Bradesco - Capitalização - Outros - Informe de rendimentos. Internet Banking - Capitalização - Informe de rendimentos. Não Correntista: Entre em contato com o Fone Fácil: 4002-0022 (capitais e Regiões Metropolitanas) ou 0800 570 0022 (demais regiões). Atendimento de Segunda a Sexta, das 7h30 às 19h30 (dias úteis)."
+  },
+  {
+    "id": 27,
+    "category": "home_insurance",
+    "question": "Seguro de casa: Quais são todas as coberturas disponíveis no Seguro Residencial?",
+    "answer": "O Bradesco Seguro Residencial Sob Medida se destaca com a cobertura básica mais completa do mercado, e oferece amparo para Incêndio; Queda de Raio; Explosão ou Implosão; Tumulto, greves e lockout; Fumaça; Queda de aeronaves; Impacto de veículos e Recomposição de documentos. Além disso, o produto oferece uma extensa variedade de coberturas acessórias/opcionais para ampliação da proteção da residência e dos bens contidos no seu interior. Entre elas estão: Roubos; Danos elétricos; Equipamentos portáteis; Equipamentos Eletrônicos e Eletrodomésticos; Alagamento e Inundação; Desmoronamento; Vendaval, furacão, ciclone, tornado, granizo, neve e geada; ruptura de tubulações; vidros, mármores, granitos e porcelanatos; Moradia Temporária; Responsabilidade Civil Familiar com Danos Morais; Gastos extras; Despesas de salvamento; e Tremor de terra, terremoto e maremoto."
+  },
+  {
+    "id": 28,
+    "category": "home_insurance",
+    "question": "Seguro de casa: Como funciona o Seguro Residencial?",
+    "answer": "O seguro Residencial funciona como uma proteção para imóvel. Ele garante que o cliente possa reconstruir sua residência ou repor bens danificados pela ocorrência de um sinistro. No portifólio da Bradesco Seguros, há algumas opções de seguros residenciais com diferentes coberturas e assistências. Para mais informações, consulte um corretor ou fale com o seu gerente na agência Bradesco ou disque para a Central de Relacionamento."
+  },
+  {
+    "id": 29,
+    "category": "home_insurance",
+    "question": "Seguro de casa: O que o Seguro Residencial não cobre?",
+    "answer": "Mesmo com a cobertura básica, todo seguro tem o que chamamos de 'riscos excluídos'. São ocorrências que geram prejuízos e danos que não podem ser cobertos devido à sua origem. Confira o que o Seguro Residencial cobre e o que não cobre na matéria que preparamos para você."
+  },
+  {
+    "id": 30,
+    "category": "home_insurance",
+    "question": "Seguro de casa: Moro em uma residência alugada, quem recebe a indenização é o proprietário ou o inquilino?",
+    "answer": "Se a cobertura incluir o prédio e o que está dentro dele, o inquilino recebe parte da indenização para cobrir o que havia dentro da residência, como móveis e eletrodomésticos. Já o proprietário recebe a outra parte, que corresponde aos danos causados ao imóvel, como paredes ou telhado."
+  },
+  {
+    "id": 31,
+    "category": "home_insurance",
+    "question": "Seguro de casa: O que é cobertura de responsabilidade civil?",
+    "answer": "Esse tipo de cobertura é acionado quando você, seus familiares, empregados domésticos ou animais de estimação causam algum dano a terceiros, como a quebra de uma vidraça por uma bola."
+  },
+  {
+    "id": 32,
+    "category": "home_insurance",
+    "question": "Seguro de casa: Como funciona a cobertura de moradia temporária?",
+    "answer": "Essa cobertura é exclusiva em casos de sinistro que interditem a residência, garantindo moradia temporária enquanto o imóvel segurado não pode ser habitado. Se o imóvel estava locado, a cobertura também garante as despesas de aluguel que deixem de ser recebidas em função do sinistro."
+  },
+  {
+    "id": 33,
+    "category": "home_insurance",
+    "question": "Seguro de casa: Existem limites para o uso da Assistência Residencial?",
+    "answer": "Sim. Cada serviço possui uma quantidade de usos por vigência do contrato. Você encontra essa informação nas condições gerais e na apólice do seu seguro."
+  },
+  {
+    "id": 34,
+    "category": "home_insurance",
+    "question": "Seguro de casa: Posso contratar um Seguro Residencial para casa de praia, veraneio ou férias?",
+    "answer": "Sim, mas não será o mesmo seguro residencial da sua residência padrão. A casa de férias precisará de um seguro próprio. Consulte seu corretor para proteger seu imóvel de veraneio."
+  },
+  {
+    "id": 35,
+    "category": "home_insurance",
+    "question": "Seguro de casa: O Seguro Residencial cobre escritório (home office) ou sala comercial na residência?",
+    "answer": "É possível contratar coberturas para escritório e atividades comerciais na residência, protegendo o conteúdo e os equipamentos de uso profissional."
+  },
+  {
+    "id": 36,
+    "category": "dental_insurance",
+    "question": "Seguro dental: Como contratar um plano odontológico Bradesco?",
+    "answer": "Para contratar os planos Pessoa Física do Bradesco Dental basta acessar nosso e-commerce: https://wwws.bradescoseguros.com.br/wps/portal/SHSG/home/produtos/produtoDental ou consultar um de nossos corretores parceiros. Para planos de rede Prime ou Exclusive, entre em contato com o gerente de sua conta Bradesco."
+  },
+  {
+    "id": 37,
+    "category": "dental_insurance",
+    "question": "Seguro dental: Quais os planos odontológicos mais indicados para a minha família?",
+    "answer": "Para toda a família - Ideal Doc: Sem coparticipação e com cobertura de várias especialidades: radiologia, dentística (restaurações), periodontia (tratamento de gengivas), endodontia (canais), cirurgias, odontopediatria (odontologia para crianças) e próteses. Também temos planos odontológicos exclusivos para seus filhos: planos Dente de Leite (0 a 7 anos) e o plano Júnior (8 a 17 anos)."
+  },
+  {
+    "id": 38,
+    "category": "dental_insurance",
+    "question": "Seguro dental: Qual plano Bradesco Dental cobre implante?",
+    "answer": "Atualmente, nenhum plano para pessoa física possui essa cobertura."
+  },
+  {
+    "id": 39,
+    "category": "dental_insurance",
+    "question": "Seguro dental: Como faço para cancelar meu plano odontológico Bradesco?",
+    "answer": "Através da central de atendimento Bradesco 0800 602 3332."
+  },
+  {
+    "id": 40,
+    "category": "dental_insurance",
+    "question": "Seguro dental: Onde atende o plano odontológico Bradesco?",
+    "answer": "Os planos Bradesco Dental contam com especialistas em todo o território nacional. Consulte a rede credenciada disponível clicando AQUI: wwws.bradescoseguros.com.br/wps/portal/SHSG/home/produtos/produtoDental"
+  },
+  {
+    "id": 41,
+    "category": "dental_insurance",
+    "question": "Seguro dental: Como funciona o plano odontológico Bradesco?",
+    "answer": "O plano Bradesco Dental é um convênio odontológico, semelhante ao de um plano de saúde, garantindo acesso a tratamentos odontológicos básicos, como limpeza e tratamento de cáries. Há uma ampla cobertura nacional com mais de 27 mil dentistas credenciados."
+  },
+  {
+    "id": 42,
+    "category": "dental_insurance",
+    "question": "Seguro dental: O que plano odontológico Bradesco cobre?",
+    "answer": "Procedimentos como extração, canal, cirurgias realizadas em consultório, dentre outros. Consulte a cobertura completa do seu plano em nosso portal."
+  },
+  {
+    "id": 43,
+    "category": "business_insurance",
+    "question": "Seguro empresarial: Quais são as coberturas disponíveis no Bradesco Seguro Empresarial?",
+    "answer": "O Bradesco Seguro Empresarial conta com coberturas básicas e opcionais que auxiliam as pessoas seguradas em diversos eventos. A cobertura básica cobre 8 tipos de eventos: Incêndio, Queda de Aeronaves, Queda de Raio, Explosão, Tumulto, Greve, Fumaça, e Impacto de veículos terrestres. Há também coberturas opcionais como Roubo, Danos Elétricos, Alagamentos, entre outras."
+  },
+  {
+    "id": 44,
+    "category": "business_insurance",
+    "question": "Seguro empresarial: Quais são as coberturas opcionais (acessórias) do Seguro Empresarial?",
+    "answer": "As coberturas opcionais do Bradesco Seguro Empresarial permitem personalizar o seguro para atender às necessidades específicas de cada empresa. Essas coberturas incluem, por exemplo, roubo, danos elétricos, desmoronamento, responsabilidade civil, entre outras."
+  },
+  {
+    "id": 45,
+    "category": "business_insurance",
+    "question": "Seguro empresarial: O que é a cobertura básica?",
+    "answer": "A cobertura básica é obrigatória em todos os contratos do Bradesco Seguro Empresarial, oferecendo amparo contra eventos como incêndio, queda de raios, explosão e outros. O cliente pode optar por incluir coberturas opcionais ao contratar o seguro."
+  },
+  {
+    "id": 46,
+    "category": "business_insurance",
+    "question": "Seguro empresarial: Qual a diferença entre roubo, furto qualificado e furto simples?",
+    "answer": "Roubo envolve violência ou ameaça, enquanto o furto qualificado deixa evidências (como danos ou uso de chave falsa). Já o furto simples não deixa vestígios ou evidências claras."
+  },
+  {
+    "id": 47,
+    "category": "business_insurance",
+    "question": "Seguro empresarial: O que é um sinistro?",
+    "answer": "Um sinistro é um evento em que o segurado precisa acionar o seguro para receber compensação financeira por danos ou perdas, como incêndios, roubos ou danos elétricos, desde que estejam previstos na apólice."
+  },
+  {
+    "id": 48,
+    "category": "business_insurance",
+    "question": "Seguro empresarial: Posso chamar a Assistência Empresarial a qualquer momento?",
+    "answer": "Sim, a Assistência Empresarial Dia e Noite pode ser acionada emergencialmente ou agendada em horário comercial, sujeita à disponibilidade da região. Para mais informações, entre em contato com a Central de Relacionamento."
+  },
+  {
+    "id": 49,
+    "category": "business_insurance",
+    "question": "Seguro empresarial: Quais serviços estão incluídos na Assistência Empresarial? Eles são cobrados?",
+    "answer": "A Assistência Empresarial oferece serviços adicionais como encanador, eletricista, limpeza de estabelecimento, vigilância, e outros. Esses serviços são cobertos até um limite de valor e acionamentos por período de vigência do seguro."
+  },
+  {
+    "id": 50,
+    "category": "business_insurance",
+    "question": "Seguro empresarial: Como funcionam as franquias?",
+    "answer": "Franquias são o valor que o segurado deve pagar ao acionar determinadas coberturas do seguro. O valor da franquia é definido no momento da contratação e representa uma porcentagem do valor necessário para cobrir os danos."
+  },
+  {
+    "id": 51,
+    "category": "private_pension",
+    "question": "Previdência privada: Como funciona a Previdência Privada?",
+    "answer": "A previdência privada é uma aplicação financeira destinada à aposentadoria. O participante escolhe e contribui com um plano, podendo resgatar o valor investido na data estabelecida."
+  },
+  {
+    "id": 52,
+    "category": "private_pension",
+    "question": "Previdência privada: O que é Renda Fixa?",
+    "answer": "Renda Fixa é um título de dívida emitido para captação de recursos, com remuneração baseada em estratégias como pré-fixada, pós-fixada ou atrelada a índices de preços, como o IPCA."
+  },
+  {
+    "id": 53,
+    "category": "private_pension",
+    "question": "Previdência privada: O que é Renda Variável?",
+    "answer": "Renda Variável refere-se a investimentos cuja rentabilidade não é pré-determinada, como ações e commodities. Esses investimentos têm maior risco e potencial de retorno, sendo indicados para o longo prazo."
+  },
+  {
+    "id": 54,
+    "category": "private_pension",
+    "question": "Previdência privada: Diferença entre PGBL e VGBL",
+    "answer": "PGBL é recomendado para quem faz a declaração completa do IR, permitindo deduzir até 12% da renda bruta. VGBL é indicado para quem usa o formulário simplificado ou é isento, sem dedução no IR sobre as contribuições."
+  },
+  {
+    "id": 55,
+    "category": "life_insurance",
+    "question": "Seguro de vida: O que é o Seguro de Vida?",
+    "answer": "O Seguro de Vida oferece apoio ao segurado e sua família em situações inesperadas, visando garantir segurança financeira."
+  },
+  {
+    "id": 56,
+    "category": "life_insurance",
+    "question": "Seguro de vida: Como funciona o Seguro de Vida?",
+    "answer": "O Seguro de Vida possui coberturas, assistências e benefícios que podem ser escolhidos de acordo com o perfil do cliente e podem incluir apoio financeiro em casos de incapacidade ou morte."
+  },
+  {
+    "id": 57,
+    "category": "life_insurance",
+    "question": "Seguro de vida: Como fazer o Seguro de Vida?",
+    "answer": "O Seguro de Vida pode ser contratado por meio de um corretor nas agências ou via app Bradesco para alguns produtos."
+  },
+  {
+    "id": 58,
+    "category": "life_insurance",
+    "question": "Seguro de vida: O que é Seguro de Vida Prestamista?",
+    "answer": "É um seguro que quita ou amortiza dívidas do segurado em casos de morte, invalidez, desemprego involuntário ou incapacidade física total temporária."
+  },
+  {
+    "id": 59,
+    "category": "life_insurance",
+    "question": "Seguro de vida: O que é apólice de Seguro de Vida?",
+    "answer": "A apólice é o documento emitido pela seguradora que especifica todas as condições, coberturas, garantias e responsabilidades do seguro contratado."
+  },
+  {
+    "id": 60,
+    "category": "condominium_insurance",
+    "question": "Seguro de condomínio: Quem deve contratar o seguro para condomínio?",
+    "answer": "O seguro Bradesco Condomínio Sob Medida pode ser contratado por pessoas jurídicas (CNPJ) de condomínios residenciais, comerciais ou mistos."
+  },
+  {
+    "id": 61,
+    "category": "condominium_insurance",
+    "question": "Seguro de condomínio: Como funciona a contratação?",
+    "answer": "A contratação envolve contato com corretores da Bradesco Seguros para tirar dúvidas, escolher coberturas e receber uma proposta. Após o aceite, a apólice é emitida e o condomínio está protegido."
+  },
+  {
+    "id": 62,
+    "category": "condominium_insurance",
+    "question": "Seguro de condomínio: Quais são as condições de pagamento e benefícios?",
+    "answer": "As condições incluem pagamentos em carnê, débito em conta e cartão de crédito, com opções de parcelamento sem juros e descontos especiais nas renovações."
+  },
+  {
+    "id": 63,
+    "category": "condominium_insurance",
+    "question": "Seguro de condomínio: Quais são todas as coberturas opcionais disponíveis para contratação?",
+    "answer": "As coberturas incluem Danos Elétricos, Roubo, Vidros, Alagamento, Desmoronamento, Responsabilidade Civil, Lucros Cessantes, Equipamentos Eletrônicos, entre outros."
+  },
+  {
+    "id": 64,
+    "category": "condominium_insurance",
+    "question": "Seguro de condomínio: Existem coberturas para bens de condôminos, proprietários e locatários?",
+    "answer": "Sim, existem coberturas como Responsabilidade Civil para veículos e proteção contra Incêndio, Queda de Raio e Explosão para bens de condôminos, proprietários e locatários."
+  },
+  {
+    "id": 65,
+    "category": "condominium_insurance",
+    "question": "Seguro de condomínio: Após a contratação do Bradesco Seguro Condomínio Sob Medida, a partir de quando o seguro começa a valer?",
+    "answer": "A vigência do seguro pode ser escolhida pelo cliente, iniciando em um mínimo de 24 horas ou até 30 dias após a emissão da apólice."
+  },
+  {
+    "id": 66,
+    "category": "travel_insurance",
+    "question": "Seguro de viagem: Como funciona o Seguro Viagem Bradesco?",
+    "answer": "O Seguro Viagem Bradesco oferece proteções para eventos como acidentes, extravio de malas e cancelamento de viagem. Basta contatar a Central de Assistências em caso de ocorrência. As proteções variam conforme o plano contratado."
+  },
+  {
+    "id": 67,
+    "category": "travel_insurance",
+    "question": "Seguro de viagem: Quem pode contratar?",
+    "answer": "Pessoas até 80 anos podem contratar o Seguro Viagem Bradesco, com responsáveis legais contratando para menores de 18 anos."
+  },
+  {
+    "id": 68,
+    "category": "travel_insurance",
+    "question": "Seguro de viagem: A partir de quando as proteções do Seguro Viagem Bradesco passam a valer?",
+    "answer": "As proteções começam a valer quando a pessoa segurada está a 100 ou mais quilômetros de sua residência."
+  },
+  {
+    "id": 69,
+    "category": "travel_insurance",
+    "question": "Seguro de viagem: Quais as formas de pagamento disponíveis?",
+    "answer": "Clientes correntistas podem contratar via débito em conta ou cartão de crédito pelo site do Banco Bradesco."
+  },
+  {
+    "id": 70,
+    "category": "travel_insurance",
+    "question": "Seguro de viagem: Qual a diferença entre “cobertura” e “assistência”?",
+    "answer": "Cobertura refere-se às despesas que o seguro cobre, enquanto assistência envolve serviços realizados ou facilitados pela seguradora durante a viagem."
+  },
+  {
+    "id": 71,
+    "category": "travel_insurance",
+    "question": "Seguro de viagem: O que é “acidente pessoal”?",
+    "answer": "Acidente pessoal é uma ocorrência involuntária que causa lesão física, podendo resultar em morte ou invalidez permanente, total ou parcial."
+  },
+  {
+    "id": 72,
+    "category": "travel_insurance",
+    "question": "Seguro de viagem: Por quanto tempo vale o Seguro Viagem Bradesco?",
+    "answer": "O seguro tem vigência máxima de 180 dias a partir da contratação."
+  },
+  {
+    "id": 73,
+    "category": "travel_insurance",
+    "question": "Seguro de viagem: Perdi minha bagagem e agora?",
+    "answer": "Você pode acionar seu seguro na Central de Assistências e solicitar a localização da bagagem. Caso não seja encontrada, você pode receber um reembolso conforme a cobertura contratada, após avaliação do caso."
+  },
+  {
+    "id": 74,
+    "category": "travel_insurance",
+    "question": "Seguro de viagem: O que é a carta Schengen ou carta viagem e onde encontrar?",
+    "answer": "A carta Schengen é um documento que indica as proteções do seguro viagem, necessário para entrar em países europeus do Tratado de Schengen. Ela pode ser emitida pelo Seguro Viagem Bradesco em inglês, espanhol e português."
+  },
+  {
+    "id": 75,
+    "category": "travel_insurance",
+    "question": "Seguro de viagem: Preciso cancelar minha viagem. Tenho cobertura?",
+    "answer": "Se você precisar cancelar sua viagem, pode acionar o seguro para receber um valor que cubra suas despesas, mediante análise dos motivos do cancelamento. O aviso deve ser feito antes do início da viagem."
+  },
+  {
+    "id": 76,
+    "category": "travel_insurance",
+    "question": "Seguro de viagem: Onde encontro os documentos do meu seguro?",
+    "answer": "Após a contratação, o certificado do seguro é enviado por e-mail. Outros documentos podem ser solicitados pela Central de Atendimento."
+  },
+  {
+    "id": 77,
+    "category": "travel_insurance",
+    "question": "Seguro de viagem: Onde encontro as proteções disponíveis no meu Seguro Viagem Bradesco?",
+    "answer": "As proteções estão detalhadas no certificado de seguro enviado por e-mail. Para informações mais completas, consulte as condições gerais do seu seguro."
+  },
+  {
+    "id": 78,
+    "category": "digital_insurance",
+    "question": "Seguro digital: O Seguro Proteção Digital é só um seguro para pix?",
+    "answer": "Não. O Seguro Proteção Digital também cobre transações indevidas de TED, boletos e recargas de celular, realizadas a partir do app Bradesco."
+  },
+  {
+    "id": 79,
+    "category": "digital_insurance",
+    "question": "Seguro digital: Se minha conta for conjunta, eu e meu dependente estaremos segurados?",
+    "answer": "O Seguro Proteção Digital é individual e cada titular deve ter seu próprio seguro."
+  },
+  {
+    "id": 80,
+    "category": "digital_insurance",
+    "question": "Seguro digital: Se mudar o segmento da minha conta, o seguro continua válido?",
+    "answer": "Sim, o seguro continua ativo, mas os limites podem mudar. O ideal é cancelar o atual e realizar uma nova adesão no novo segmento."
+  },
+  {
+    "id": 81,
+    "category": "digital_insurance",
+    "question": "Seguro digital: Meu celular está coberto?",
+    "answer": "Não. O seguro cobre transações realizadas pelo app Bradesco em dispositivos roubados, perdidos ou furtados, mas não o aparelho."
+  },
+  {
+    "id": 82,
+    "category": "digital_insurance",
+    "question": "Seguro digital: Estou no exterior e preciso acionar o seguro. Como faço?",
+    "answer": "Os canais de acionamento são os mesmos, mas é possível usar o serviço gratuito Brasil Direto da Embratel para evitar custos de ligação."
+  },
+  {
+    "id": 83,
+    "category": "digital_insurance",
+    "question": "Seguro digital: Existe franquia no Seguro Proteção Digital?",
+    "answer": "Não. O Seguro Proteção Digital não possui franquia."
+  },
+  {
+    "id": 84,
+    "category": "digital_insurance",
+    "question": "Seguro digital: O que é um sinistro?",
+    "answer": "Sinistro é o evento coberto pelo seguro, como uma transação indevida após o roubo, furto ou perda do celular."
+  },
+  {
+    "id": 85,
+    "category": "digital_insurance",
+    "question": "Seguro digital: Qual o valor da indenização do Seguro Proteção Digital?",
+    "answer": "Os limites variam conforme o segmento da conta. Bradesco Classic: R$10 mil para transferências e R$1 mil para boletos. Bradesco Prime: R$40 mil para transferências e R$5 mil para boletos."
+  },
+  {
+    "id": 86,
+    "category": "digital_insurance",
+    "question": "Seguro digital: Como cancelar meu seguro?",
+    "answer": "O cancelamento pode ser feito pelo app Bradesco e as coberturas serão canceladas a partir das 24 horas da solicitação."
+  },
+  {
+    "id": 87,
+    "category": "digital_insurance",
+    "question": "Seguro digital: O que é Assistência Cyber?",
+    "answer": "É um pacote de serviços que oferece proteção antivírus, blindagem contra hackers, otimização do dispositivo móvel e resolução de problemas técnicos."
+  },
+  {
+    "id": 88,
+    "category": "equipment_insurance",
+    "question": "Seguro de equipamentos: Existem equipamentos que não podem ser segurados?",
+    "answer": "Sim. O seguro não pode ser contratado para equipamentos oriundos de leilão, que operam sobre trilhos, obtidos ilegalmente, instalados em veículos, aeronaves e embarcações, ou desmontados."
+  },
+  {
+    "id": 89,
+    "category": "equipment_insurance",
+    "question": "Seguro de equipamentos: Como alterar dados da apólice (contrato do seguro) e demais características do seguro?",
+    "answer": "Entre em contato com os corretores responsáveis pelo seguro, que constam na sua apólice."
+  },
+  {
+    "id": 90,
+    "category": "equipment_insurance",
+    "question": "Seguro de equipamentos: Existem situações ou acidentes que não são cobertos pelo seguro?",
+    "answer": "Sim. São os 'riscos excluídos'. Para conhecê-los, consulte as condições gerais do seguro."
+  },
+  {
+    "id": 91,
+    "category": "equipment_insurance",
+    "question": "Seguro de equipamentos: Como encontro minha apólice (contrato do seguro) e outros documentos do meu seguro?",
+    "answer": "Você pode consultar sua apólice pelo WhatsApp Bradesco Seguros ou pela Central de Relacionamento."
+  },
+  {
+    "id": 92,
+    "category": "equipment_insurance",
+    "question": "Seguro de equipamentos: O que é uma cobertura básica?",
+    "answer": "É a proteção básica do seguro, como desmoronamento, explosão, incêndio, queda de aeronave, furto qualificado, vendaval, e mais."
+  },
+  {
+    "id": 93,
+    "category": "equipment_insurance",
+    "question": "Seguro de equipamentos: Como funciona a cobertura de Perda ou Pagamento de Aluguel?",
+    "answer": "Ela oferece indenizações em caso de sinistro, cobrindo a perda de valores do aluguel do equipamento segurado ou o aluguel temporário de outro equipamento."
+  },
+  {
+    "id": 94,
+    "category": "coverage_home_insurance",
+    "question": "Cobertura do seguro de casa: Como saber minhas coberturas e assistências?",
+    "answer": "Você encontra em sua apólice as coberturas e assistências contratadas. Também pode usar o aplicativo Bradesco Seguros e consultar as condições gerais do produto."
+  },
+  {
+    "id": 95,
+    "category": "coverage_home_insurance",
+    "question": "Cobertura do seguro de casa: Preciso acionar uma assistência, como devo fazer?",
+    "answer": "Use o aplicativo Bradesco Seguros para assistência de encanador, eletricista e chaveiro. Para outras assistências, contate o WhatsApp Bradesco Seguros ou a Central de Relacionamento."
+  },
+  {
+    "id": 96,
+    "category": "coverage_home_insurance",
+    "question": "Cobertura do seguro de casa: Como faço para incluir mais coberturas e assistências?",
+    "answer": "Entre em contato com seu corretor ou gerente se contratou na agência Bradesco."
+  },
+  {
+    "id": 97,
+    "category": "coverage_home_insurance",
+    "question": "Cobertura do seguro de casa: Onde encontro minha apólice?",
+    "answer": "Sua apólice é enviada para seu e-mail ao contratar o seguro. Você também pode acessá-la pelo aplicativo Bradesco Seguros ou solicitar ao seu corretor."
+  },
+  {
+    "id": 98,
+    "category": "coverage_home_insurance",
+    "question": "Cobertura do seguro de casa: Em caso de sinistro, qual é o procedimento?",
+    "answer": "Use a Central de Sinistro para comunicar e acompanhar sua solicitação ou entre em contato com seu corretor e a Central de Relacionamento."
+  },
+  {
+    "id": 99,
+    "category": "coverage_home_insurance",
+    "question": "Cobertura do seguro de casa: Qual é a vigência do meu seguro?",
+    "answer": "Os produtos residenciais têm vigência de 12 meses, podendo ser de até 36 meses em alguns casos. Acompanhe pelo aplicativo ou com seu corretor."
+  },
+  {
+    "id": 100,
+    "category": "coverage_home_insurance",
+    "question": "Cobertura do seguro de casa: Quero renovar meu seguro, o que preciso fazer?",
+    "answer": "Renove pelo aplicativo Bradesco Seguros, com seu corretor ou gerente, ou pela Central de Relacionamento."
+  },
+  {
+    "id": 101,
+    "category": "coverage_home_insurance",
+    "question": "Cobertura do seguro de casa: Consigo trocar a forma de pagamento?",
+    "answer": "Para trocar a forma de pagamento, entre em contato com seu corretor, gerente da sua conta Bradesco ou pela Central de Relacionamento."
+  },
+  {
+    "id": 102,
+    "category": "dental_insurance",
+    "question": "Como encontrar dentistas credenciados perto de mim?",
+    "answer": "Você pode encontrar dentistas credenciados por nossa Central de Relacionamento ou diretamente no nosso site, onde há uma ferramenta de busca para_facilitar a localização de profissionais da saúde para sua necessidade."
+  },
+  {
+    "id": 103,
+    "category": "cards_insurance",
+    "question": "O que fazer se o cartão de débito for roubado?",
+    "answer": "Entre em contato conosco imediatamente para bloquear o cartão e solicitar a emissão de um novo. Também é importante verificar suas contas para qualquer movimentação suspeita."
+  },
+  {
+    "id": 104,
+    "category": "default",
+    "question": "O que devo fazer se o sistema elétrico da minha empresa for danificado?",
+    "answer": "Entre em contato com a Bradesco Seguros para registrar o sinistro e iniciar o processo de avaliação e possível indenização."
+  }
+]

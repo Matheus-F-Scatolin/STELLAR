@@ -1,0 +1,632 @@
+[
+  {
+    "id": 1,
+    "category": "auto_insurance",
+    "question": "Car insurance: What should I do in case of an accident?",
+    "answer": "You must inform the police authorities, registering the occurrence. Then, you must inform your broker or the Bradesco Seguros Customer Service Center, which will give you the necessary instructions."
+  },
+  {
+    "id": 2,
+    "category": "auto_insurance",
+    "question": "Car insurance: In the event of an accident, can I take the vehicle to a workshop I trust?",
+    "answer": "Yes, if you do not have any trusted repair shop, Bradesco Auto/RE has a wide referenced network of repair shops that can be consulted on our website or through our Customer Service Center."
+  },
+  {
+    "id": 3,
+    "category": "auto_insurance",
+    "question": "Car insurance: In the event of an accident, what will be the amount of compensation?",
+    "answer": "If you take out insurance for a certain amount, you will receive the amount informed in the policy at the time of contracting. If your insurance was contracted at the referenced market value, you will receive the amount that appears in the Fipe Table in force on the date of payment of the indemnity, corrected according to the adjustment factor informed in the policy."
+  },
+  {
+    "id": 4,
+    "category": "auto_insurance",
+    "question": "Car insurance: What is the advantage of using the Fipe Table?",
+    "answer": "The table is updated monthly, reflecting the average market values. In addition, Fipe is an institution of recognized competence, independence and credibility and the table meets the reference needs of the insurance market."
+  },
+  {
+    "id": 5,
+    "category": "auto_insurance",
+    "question": "Car insurance: What is the Fipe Table?",
+    "answer": "It is a price list of different vehicle models, developed by the Economic Research Institute Foundation of the University of São Paulo. Based on research carried out throughout the country, it presents an average market value for each year and model of national and/or imported vehicles sold in Brazil."
+  },
+  {
+    "id": 6,
+    "category": "auto_insurance",
+    "question": "Car insurance: In which products can I use my Livelo points in partnership with Bradesco Seguro Auto?",
+    "answer": "You can use your Livelo points to pay part or all of your Auto Insurance. It will be valid for all Individual Auto Products, except Total Auto Assistance and Auto Lar."
+  },
+  {
+    "id": 7,
+    "category": "auto_insurance",
+    "question": "Car insurance: How do I use Livelo points with Bradesco Seguro Auto?",
+    "answer": "To use your Livelo points, follow the steps below: a) Request a quote for the desired Insurance from the Bradesco broker; b) If eligible, the Broker will offer the available redemption options. c) After your permission, the broker will transmit the proposal with the payment method in points, and a pending redemption will be generated in your Livelo account; d) You will receive a notification that there is a pending redemption and you will have 48 hours (forty-eight hours) to approve or reject this redemption; e) To approve the withdrawal, you must log in to your Livelo account, access the \"My Orders\" tab, identify the Bradesco Seguros request and click to approve; Ready! Your payment in Livelo points has been made and you will receive a confirmation email."
+  },
+  {
+    "id": 8,
+    "category": "auto_insurance",
+    "question": "Car insurance: My order is pending, but I can no longer view my points. Have they been rescued yet?",
+    "answer": "No, the points used as payment for your Insurance are only reserved during this 48-hour period. If you accept the redemption, the points will be debited. Otherwise, the points will be unlocked for use again."
+  },
+  {
+    "id": 9,
+    "category": "auto_insurance",
+    "question": "Car insurance: Can I take more than 48 hours to approve the request?",
+    "answer": "No, if after 48 hours the order is neither approved nor rejected, it will be automatically canceled and it will be necessary to contact the broker again to place a new order."
+  },
+  {
+    "id": 10,
+    "category": "auto_insurance",
+    "question": "Car insurance: Can I give up the option to pay with Livelo Points?",
+    "answer": "Yes, for this, you will need to enter a Livelo account, access \"My Orders\", identify the Bradesco Seguros request and click on \"reject\". If you don't, your points will be reserved for the duration of the 48 hours. After this period, the order will expire and the points will be released."
+  },
+  {
+    "id": 11,
+    "category": "auto_insurance",
+    "question": "Car insurance: How many orders can I make paying with Livelo points?",
+    "answer": "You can have up to 02 requests pending approval simultaneously in your Livelo account."
+  },
+  {
+    "id": 12,
+    "category": "auto_insurance",
+    "question": "Car insurance: Can I use another form of payment along with Livelo points?",
+    "answer": "Yes, you will be able to use all the payment options available at Bradesco Auto Insurance along with your Livelo points to complete your purchase."
+  },
+  {
+    "id": 13,
+    "category": "auto_insurance",
+    "question": "Car insurance: Can I pay only with Livelo points?",
+    "answer": "Yes, if you have enough Livelo points to make the full payment of the purchase, this option will be available."
+  },
+  {
+    "id": 14,
+    "category": "auto_insurance",
+    "question": "Car insurance: Is there a minimum amount of Livelo points that must be used?",
+    "answer": "Yes, the minimum value is 4,762 (four thousand seven hundred and sixty-two) Livelo points."
+  },
+  {
+    "id": 15,
+    "category": "auto_insurance",
+    "question": "Car insurance: I don't have enough points to pay for the total of my order. Can I still make the purchase using my points?",
+    "answer": "Yes. You can use your Livelo points to pay for part of your complementary insurance with another form of payment in reais."
+  },
+  {
+    "id": 16,
+    "category": "auto_insurance",
+    "question": "Car insurance: I made a purchase using Livelo points and the credit card payment part was declined. What do I do?",
+    "answer": "Contact your broker to review your payment method. Rest assured, if your proposal is canceled and you have already accepted the redemption of points, they will be returned to your account."
+  },
+  {
+    "id": 17,
+    "category": "auto_insurance",
+    "question": "Car insurance: What are the criteria to be eligible for payment with points?",
+    "answer": "The minimum amount of points that can be used is 4,762 Livelo points; Only insured individuals; All Auto Individual products, except Auto Total Assistance and Auto Lar; Individual Insurance and Contract (except endorsement); Vehicles of the type: Passenger, Pickup, Motorcycle and Cargo."
+  },
+  {
+    "id": 18,
+    "category": "auto_insurance",
+    "question": "Car insurance: I want to cancel my policy, will I be refunded?",
+    "answer": "To request cancellation of the policy, contact Bradesco Seguro Auto. The proportional refund will be made in reais."
+  },
+  {
+    "id": 19,
+    "category": "capitalization",
+    "question": "Capitalization: How do I cancel my savings bond?",
+    "answer": "You can cancel your savings bond through Internet Banking, Bradesco Celular, Self-Service, Fone Fácil and Bradesco branches."
+  },
+  {
+    "id": 20,
+    "category": "capitalization",
+    "question": "Capitalization: Is there a minimum monthly contribution amount?",
+    "answer": "Yes, each product has a minimum contribution amount. Click on the product of your choice and check out the features."
+  },
+  {
+    "id": 21,
+    "category": "capitalization",
+    "question": "Capitalization: How to redeem my savings bond?",
+    "answer": "It's simple, fast and without bureaucracy. Redemption can be requested after the grace period. But be aware: By requesting redemption before the end of the term you lose some opportunities: You stop competing for the draws offered by the title; It will paralyze the formation of an economy; It will redeem an amount lower than the contracted. It is better to wait until the end of the term and redeem 100% of the amount paid, monetarily adjusted. To request the redemption of your title, just contact Fone Fácil: 4002-0022 (capitals and Metropolitan Regions) or 0800 570 0022 (other regions). Service from Monday to Friday, from 7:30 am to 7:30 pm (weekdays)."
+  },
+  {
+    "id": 22,
+    "category": "capitalization",
+    "question": "Capitalization: Do I have any benefits after hiring?",
+    "answer": "Yes, you participate in the Bradesco Seguros Advantage Club, compete in the sweepstakes and receive 100% of the amount paid monetarily updated at the end of the term."
+  },
+  {
+    "id": 23,
+    "category": "capitalization",
+    "question": "Capitalization: Can I redeem the amounts paid before the end of the plan?",
+    "answer": "You can redeem, but there will be a grace period, which varies according to the contracted title, for the release of the redemption amount. It is important to remember that early redemption does not allow the refund of 100% of the amount paid."
+  },
+  {
+    "id": 24,
+    "category": "capitalization",
+    "question": "Capitalization: What happens to the bond in case of death?",
+    "answer": "The inventory must be opened to find out who the heirs will be. If there are no other assets, a permit application needs to be made and the transfer will occur according to what the court determines."
+  },
+  {
+    "id": 25,
+    "category": "capitalization",
+    "question": "Capitalization: Are the raffle prizes taxed by Income Tax?",
+    "answer": "Yes, there is a withholding tax on capitalization premiums, with rates of 25% or 30%, depending on the contracted plan."
+  },
+  {
+    "id": 26,
+    "category": "capitalization",
+    "question": "Capitalization: How to access my income report for Capitalization bonds?",
+    "answer": "Account holder: Bradesco App - Capitalization - Others - Income Report. Internet Banking - Capitalization - Income Report. Non-Account Holder: Contact Fone Fácil: 4002-0022 (capitals and Metropolitan Regions) or 0800 570 0022 (other regions). Service from Monday to Friday, from 7:30 am to 7:30 pm (weekdays)."
+  },
+  {
+    "id": 27,
+    "category": "home_insurance",
+    "question": "Home insurance: What are all the coverages available in Home Insurance?",
+    "answer": "Bradesco Tailored Home Insurance stands out with the most complete basic coverage on the market, and offers protection for Fire; Lightning Strike; Explosion or Implosion; Riots, strikes and lockouts; Smoke; Aircraft crash; Impact of vehicles and Recomposition of documents. In addition, the product offers an extensive variety of accessory/optional coverages to expand the protection of the residence and the goods contained inside. Among them are: Robberies; Electrical damage; Portable equipment; Electronic Equipment and Home Appliances; Flooding and Flooding; Collapse; Windstorm, hurricane, cyclone, tornado, hail, snow and frost; rupture of pipes; glass, marble, granite and porcelain tiles; Temporary Housing; Family Civil Liability with Moral Damages; Extra expenses; Salvage expenses; and Earthquake, earthquake and tidal wave."
+  },
+  {
+    "id": 28,
+    "category": "home_insurance",
+    "question": "Home insurance: How does Home Insurance work?",
+    "answer": "Home insurance works as a protection for property. It ensures that the customer can rebuild their residence or replace property damaged by the occurrence of an accident. In Bradesco Seguros' portfolio, there are some home insurance options with different coverages and assistance. For more information, consult a broker or talk to your manager at the Bradesco branch or dial the Customer Service Center."
+  },
+  {
+    "id": 29,
+    "category": "home_insurance",
+    "question": "Home Insurance: What does Home Insurance not cover?",
+    "answer": "Even with basic coverage, all insurance has what we call 'excluded risks'. These are occurrences that generate losses and damages that cannot be covered due to their origin. Check out what Home Insurance covers and what it doesn't cover in the article we have prepared for you."
+  },
+  {
+    "id": 30,
+    "category": "home_insurance",
+    "question": "Home insurance: I live in a rented residence, who receives the compensation is the owner or the tenant?",
+    "answer": "If the coverage includes the building and what is inside it, the tenant receives part of the compensation to cover what was inside the residence, such as furniture and appliances. The owner receives the other part, which corresponds to the damage caused to the property, such as walls or roof."
+  },
+  {
+    "id": 31,
+    "category": "home_insurance",
+    "question": "Home insurance: What is liability coverage?",
+    "answer": "This type of coverage is triggered when you, your family members, domestic servants or pets cause damage to third parties, such as the breaking of a window pane by a ball."
+  },
+  {
+    "id": 32,
+    "category": "home_insurance",
+    "question": "Home insurance: How does temporary housing coverage work?",
+    "answer": "This coverage is exclusive in cases of claims that prohibit residence, guaranteeing temporary housing while the insured property cannot be inhabited. If the property was leased, the coverage also guarantees the rental expenses that are no longer received due to the claim."
+  },
+  {
+    "id": 33,
+    "category": "home_insurance",
+    "question": "Home insurance: Are there any limits to the use of Home Assistance?",
+    "answer": "Yes. Each service has a number of uses per contract term. You can find this information in the general conditions and in your insurance policy."
+  },
+  {
+    "id": 34,
+    "category": "home_insurance",
+    "question": "Home insurance: Can I hire Home Insurance for a beach, summer or vacation home?",
+    "answer": "Yes, but it won't be the same as your standard homeowner's insurance. The holiday home will need its own insurance. Consult your broker to protect your vacation property."
+  },
+  {
+    "id": 35,
+    "category": "home_insurance",
+    "question": "Home insurance: Does Home Insurance cover an office (home office) or commercial room in the residence?",
+    "answer": "It is possible to hire coverage for office and commercial activities at home, protecting the contents and equipment for professional use."
+  },
+  {
+    "id": 36,
+    "category": "dental_insurance",
+    "question": "Dental insurance: How to hire a Bradesco dental plan?",
+    "answer": "To contract Bradesco Dental's Individual Plans, simply access our e-commerce: https://wwws.bradescoseguros.com.br/wps/portal/SHSG/home/produtos/produtoDental or consult one of our partner brokers. For Prime or Exclusive network plans, contact your Bradesco account manager."
+  },
+  {
+    "id": 37,
+    "category": "dental_insurance",
+    "question": "Dental insurance: What are the most suitable dental plans for my family?",
+    "answer": "For the whole family - Ideal Doc: Without co-participation and with coverage of several specialties: radiology, dentistry (restorations), periodontics (gum treatment), endodontics (root canals), surgeries, pediatric dentistry (dentistry for children) and prostheses. We also have exclusive dental plans for your children: Milk Tooth plans (0 to 7 years old) and the Junior plan (8 to 17 years old)."
+  },
+  {
+    "id": 38,
+    "category": "dental_insurance",
+    "question": "Dental insurance: Which Bradesco Dental plan covers implants?",
+    "answer": "Currently, no plan for individuals has this coverage."
+  },
+  {
+    "id": 39,
+    "category": "dental_insurance",
+    "question": "Dental insurance: How do I cancel my Bradesco dental plan?",
+    "answer": "Through the Bradesco call center 0800 602 3332."
+  },
+  {
+    "id": 40,
+    "category": "dental_insurance",
+    "question": "Dental insurance: Where does the Bradesco dental plan work?",
+    "answer": "Bradesco Dental plans have specialists throughout the country. Check the available accredited network by clicking HERE: wwws.bradescoseguros.com.br/wps/portal/SHSG/home/produtos/produtoDental"
+  },
+  {
+    "id": 41,
+    "category": "dental_insurance",
+    "question": "Dental insurance: How does the Bradesco dental plan work?",
+    "answer": "The Bradesco Dental plan is a dental plan, similar to a health plan, guaranteeing access to basic dental treatments, such as cleaning and treatment of cavities. There is a wide national coverage with more than 27 thousand accredited dentists."
+  },
+  {
+    "id": 42,
+    "category": "dental_insurance",
+    "question": "Dental insurance: What does Bradesco's dental plan cover?",
+    "answer": "Procedures such as extraction, root canal, surgeries performed in the office, among others. Check the complete coverage of your plan on our portal."
+  },
+  {
+    "id": 43,
+    "category": "business_insurance",
+    "question": "Business insurance: What are the coverages available at Bradesco Business Insurance?",
+    "answer": "Bradesco Business Insurance has basic and optional coverages that help insured people in various events. The basic coverage covers 8 types of events: Fire, Aircraft Crash, Lightning Strike, Explosion, Riot, Strike, Smoke, and Ground Vehicle Impact. There are also optional coverages such as Theft, Electrical Damage, Flooding, among others."
+  },
+  {
+    "id": 44,
+    "category": "business_insurance",
+    "question": "Business Insurance: What are the optional (accessory) coverages of Business Insurance?",
+    "answer": "The optional coverages of Bradesco Business Insurance allow you to customize the insurance to meet the specific needs of each company. These coverages include, for example, theft, electrical damage, collapse, civil liability, among others."
+  },
+  {
+    "id": 45,
+    "category": "business_insurance",
+    "question": "Business insurance: What is basic coverage?",
+    "answer": "Basic coverage is mandatory in all Bradesco Business Insurance contracts, offering protection against events such as fire, lightning strikes, explosions and others. The customer can choose to include optional coverage when contracting the insurance."
+  },
+  {
+    "id": 46,
+    "category": "business_insurance",
+    "question": "Business insurance: What is the difference between theft, aggravated theft and simple theft?",
+    "answer": "Theft involves violence or threat, while aggravated theft leaves evidence (such as damage or use of a false key). Simple theft, on the other hand, leaves no traces or clear evidence."
+  },
+  {
+    "id": 47,
+    "category": "business_insurance",
+    "question": "Business Insurance: What is a Claim?",
+    "answer": "A claim is an event in which the insured needs to activate the insurance to receive financial compensation for damages or losses, such as fires, theft, or electrical damage, as long as they are provided for in the policy."
+  },
+  {
+    "id": 48,
+    "category": "business_insurance",
+    "question": "Business insurance: Can I call Business Assistance at any time?",
+    "answer": "Yes, Day and Night Business Assistance can be activated on an emergency basis or scheduled during business hours, subject to availability in the region. For more information, contact the Customer Service Center."
+  },
+  {
+    "id": 49,
+    "category": "business_insurance",
+    "question": "Business Insurance: What services are included in Business Assistance? Are they charged?",
+    "answer": "Business Assistance offers additional services such as plumber, electrician, establishment cleaning, surveillance, and others. These services are covered up to a limit of value and claims per period of validity of the insurance."
+  },
+  {
+    "id": 50,
+    "category": "business_insurance",
+    "question": "Business insurance: How do deductibles work?",
+    "answer": "Deductibles are the amount that the insured must pay when activating certain insurance coverages. The amount of the deductible is defined at the time of contracting and represents a percentage of the amount needed to cover the damages."
+  },
+  {
+    "id": 51,
+    "category": "private_pension",
+    "question": "Private Pension: How does Private Pension Work?",
+    "answer": "Private pension is a financial investment intended for retirement. The participant chooses and contributes to a plan, being able to redeem the amount invested on the established date."
+  },
+  {
+    "id": 52,
+    "category": "private_pension",
+    "question": "Private pension: What is Fixed Income?",
+    "answer": "Fixed Income is a debt security issued to raise funds, with remuneration based on strategies such as pre-fixed, post-fixed or linked to price indexes, such as the IPCA."
+  },
+  {
+    "id": 53,
+    "category": "private_pension",
+    "question": "Private pension: What is Variable Income?",
+    "answer": "Variable Income refers to investments whose profitability is not predetermined, such as stocks and commodities. These investments have higher risk and potential returns, and are suitable for the long term."
+  },
+  {
+    "id": 54,
+    "category": "private_pension",
+    "question": "Private pension: Difference between PGBL and VGBL",
+    "answer": "PGBL is recommended for those who make the complete income tax return, allowing you to deduct up to 12% of gross income. VGBL is indicated for those who use the simplified form or are exempt, without deduction in the IR on contributions."
+  },
+  {
+    "id": 55,
+    "category": "life_insurance",
+    "question": "Life Insurance: What is Life Insurance?",
+    "answer": "Life Insurance offers support to the insured and their family in unexpected situations, aiming to ensure financial security."
+  },
+  {
+    "id": 56,
+    "category": "life_insurance",
+    "question": "Life Insurance: How does Life Insurance work?",
+    "answer": "Life Insurance has coverage, assistance and benefits that can be chosen according to the customer's profile and may include financial support in cases of disability or death."
+  },
+  {
+    "id": 57,
+    "category": "life_insurance",
+    "question": "Life insurance: How to take out Life Insurance?",
+    "answer": "Life Insurance can be contracted through a broker at the branches or via the Bradesco app for some products."
+  },
+  {
+    "id": 58,
+    "category": "life_insurance",
+    "question": "Life Insurance: What is Lender Life Insurance?",
+    "answer": "It is an insurance that settles or amortizes the insured's debts in cases of death, disability, involuntary unemployment or temporary total physical disability."
+  },
+  {
+    "id": 59,
+    "category": "life_insurance",
+    "question": "Life insurance: What is a Life Insurance policy?",
+    "answer": "The policy is the document issued by the insurance company that specifies all the conditions, coverage, guarantees, and liabilities of the insurance contracted."
+  },
+  {
+    "id": 60,
+    "category": "condominium_insurance",
+    "question": "Condominium insurance: Who should hire condominium insurance?",
+    "answer": "Bradesco Condominium Under Measure insurance can be contracted by legal entities (CNPJ) of residential, commercial or mixed condominiums."
+  },
+  {
+    "id": 61,
+    "category": "condominium_insurance",
+    "question": "Condominium insurance: How does contracting work?",
+    "answer": "Contracting involves contacting Bradesco Seguros brokers to ask questions, choose coverage and receive a proposal. After acceptance, the policy is issued and the condominium is protected."
+  },
+  {
+    "id": 62,
+    "category": "condominium_insurance",
+    "question": "Condominium insurance: What are the payment terms and benefits?",
+    "answer": "The conditions include payments in carnet, debit account and credit card, with interest-free installment options and special discounts on renewals."
+  },
+  {
+    "id": 63,
+    "category": "condominium_insurance",
+    "question": "Condominium insurance: What are all the optional coverages available for contracting?",
+    "answer": "Coverages include Electrical Damage, Theft, Glass, Flooding, Collapse, Civil Liability, Loss of Profits, Electronic Equipment, among others."
+  },
+  {
+    "id": 64,
+    "category": "condominium_insurance",
+    "question": "Condominium insurance: Are there coverages for property of condominium owners, owners and tenants?",
+    "answer": "Yes, there are coverages such as Civil Liability for vehicles and protection against Fire, Lightning Strike and Explosion for property of condominium owners, owners and tenants."
+  },
+  {
+    "id": 65,
+    "category": "condominium_insurance",
+    "question": "Condominium insurance: After contracting Bradesco Seguro Condomínio Sob Medida, when does the insurance start to take effect?",
+    "answer": "The term of the insurance can be chosen by the customer, starting at a minimum of 24 hours or up to 30 days after the policy is issued."
+  },
+  {
+    "id": 66,
+    "category": "travel_insurance",
+    "question": "Travel insurance: How does Bradesco Travel Insurance work?",
+    "answer": "Bradesco Travel Insurance offers protection for events such as accidents, lost luggage and trip cancellation. Just contact the Assistance Center in case of an occurrence. Protections vary according to the plan contracted."
+  },
+  {
+    "id": 67,
+    "category": "travel_insurance",
+    "question": "Travel insurance: Who can hire?",
+    "answer": "People up to 80 years old can take out Bradesco Travel Insurance, with legal guardians hiring for people under 18 years old."
+  },
+  {
+    "id": 68,
+    "category": "travel_insurance",
+    "question": "Travel insurance: When do Bradesco Travel Insurance protections come into effect?",
+    "answer": "The protections begin to take effect when the insured person is 100 or more kilometers from his residence."
+  },
+  {
+    "id": 69,
+    "category": "travel_insurance",
+    "question": "Travel insurance: What forms of payment are available?",
+    "answer": "Account holders can contract via debit account or credit card through the Banco Bradesco website."
+  },
+  {
+    "id": 70,
+    "category": "travel_insurance",
+    "question": "Travel insurance: What is the difference between \"coverage\" and \"assistance\"?",
+    "answer": "Coverage refers to the expenses that the insurance covers, while assistance involves services performed or facilitated by the insurer during the trip."
+  },
+  {
+    "id": 71,
+    "category": "travel_insurance",
+    "question": "Travel Insurance: What is \"Personal Accident\"?",
+    "answer": "A personal accident is an involuntary occurrence that causes physical injury, which can result in death or permanent, total or partial disability."
+  },
+  {
+    "id": 72,
+    "category": "travel_insurance",
+    "question": "Travel insurance: How long is Bradesco Travel Insurance valid for?",
+    "answer": "The insurance is valid for a maximum of 180 days from the date of contracting."
+  },
+  {
+    "id": 73,
+    "category": "travel_insurance",
+    "question": "Travel insurance: I lost my luggage now what?",
+    "answer": "You can activate your insurance at the Assistance Center and request the location of the luggage. If it is not found, you can receive a refund according to the contracted coverage, after evaluating the case."
+  },
+  {
+    "id": 74,
+    "category": "travel_insurance",
+    "question": "Travel insurance: What is the Schengen charter or travel charter and where to find it?",
+    "answer": "The Schengen letter is a document that indicates the travel insurance protections, which are required to enter European Schengen Treaty countries. It can be issued by Bradesco Travel Insurance in English, Spanish and Portuguese."
+  },
+  {
+    "id": 75,
+    "category": "travel_insurance",
+    "question": "Travel Insurance: I need to cancel my trip. Do I have coverage?",
+    "answer": "If you need to cancel your trip, you can activate the insurance to receive an amount that covers your expenses, by analyzing the reasons for the cancellation. Notice must be given prior to the start of travel."
+  },
+  {
+    "id": 76,
+    "category": "travel_insurance",
+    "question": "Travel insurance: Where can I find my insurance documents?",
+    "answer": "After contracting, the insurance certificate is sent by email. Other documents can be requested through the Call Center."
+  },
+  {
+    "id": 77,
+    "category": "travel_insurance",
+    "question": "Travel insurance: Where can I find the protections available in my Bradesco Travel Insurance?",
+    "answer": "The protections are detailed in the insurance certificate sent by email. For more complete information, consult the general conditions of your insurance."
+  },
+  {
+    "id": 78,
+    "category": "digital_insurance",
+    "question": "Digital insurance: Is Digital Protection Insurance just insurance for pix?",
+    "answer": "No. The Digital Protection Insurance also covers improper transactions of TED, slips and cell phone recharges, carried out from the Bradesco app."
+  },
+  {
+    "id": 79,
+    "category": "digital_insurance",
+    "question": "Digital insurance: If my account is joint, will my dependent and I be insured?",
+    "answer": "Digital Protection Insurance is individual and each holder must have their own insurance."
+  },
+  {
+    "id": 80,
+    "category": "digital_insurance",
+    "question": "Digital insurance: If I change the segment of my account, is the insurance still valid?",
+    "answer": "Yes, the insurance is still active, but the limits may change. The ideal is to cancel the current one and make a new membership in the new segment."
+  },
+  {
+    "id": 81,
+    "category": "digital_insurance",
+    "question": "Digital insurance: Is my cell phone covered?",
+    "answer": "No. The insurance covers transactions carried out through the Bradesco app on stolen, lost or stolen devices, but not the device."
+  },
+  {
+    "id": 82,
+    "category": "digital_insurance",
+    "question": "Digital insurance: I am abroad and I need to activate the insurance. How do I do it?",
+    "answer": "The activation channels are the same, but it is possible to use Embratel's free Brasil Direto service to avoid call costs."
+  },
+  {
+    "id": 83,
+    "category": "digital_insurance",
+    "question": "Digital insurance: Is there a deductible in Digital Protection Insurance?",
+    "answer": "No. Digital Protection Insurance has no deductible."
+  },
+  {
+    "id": 84,
+    "category": "digital_insurance",
+    "question": "Digital insurance: What is a claim?",
+    "answer": "Claim is the event covered by insurance, such as an improper transaction after the theft, theft or loss of the cell phone."
+  },
+  {
+    "id": 85,
+    "category": "digital_insurance",
+    "question": "Digital insurance: What is the amount of compensation for Digital Protection Insurance?",
+    "answer": "Limits vary by account segment. Bradesco Classic: R$10 thousand for transfers and R$1 thousand for bank slips. Bradesco Prime: R$40 thousand for transfers and R$5 thousand for bank slips."
+  },
+  {
+    "id": 86,
+    "category": "digital_insurance",
+    "question": "Digital insurance: How do I cancel my insurance?",
+    "answer": "Cancellation can be done through the Bradesco app and coverage will be canceled from 24 hours of the request."
+  },
+  {
+    "id": 87,
+    "category": "digital_insurance",
+    "question": "Digital Insurance: What is Cyber Assistance?",
+    "answer": "It is a package of services that offers antivirus protection, shielding against hackers, optimizing the mobile device, and solving technical issues."
+  },
+  {
+    "id": 88,
+    "category": "equipment_insurance",
+    "question": "Equipment insurance: Is there equipment that cannot be insured?",
+    "answer": "Yes. Insurance cannot be contracted for equipment from auctions, which operate on rails, illegally obtained, installed in vehicles, aircraft and vessels, or disassembled."
+  },
+  {
+    "id": 89,
+    "category": "equipment_insurance",
+    "question": "Equipment insurance: How to change policy data (insurance contract) and other insurance features?",
+    "answer": "Contact the brokers responsible for the insurance, which appear in your policy."
+  },
+  {
+    "id": 90,
+    "category": "equipment_insurance",
+    "question": "Equipment insurance: Are there situations or accidents that are not covered by insurance?",
+    "answer": "Yes. These are the 'excluded risks'. To find out about them, consult the general conditions of the insurance."
+  },
+  {
+    "id": 91,
+    "category": "equipment_insurance",
+    "question": "Equipment insurance: How do I find my policy (insurance contract) and other documents for my insurance?",
+    "answer": "You can consult your policy through WhatsApp Bradesco Seguros or through the Customer Service Center."
+  },
+  {
+    "id": 92,
+    "category": "equipment_insurance",
+    "question": "Equipment insurance: What is basic coverage?",
+    "answer": "It is the basic protection of insurance, such as collapse, explosion, fire, aircraft crash, aggravated theft, windstorm, and more."
+  },
+  {
+    "id": 93,
+    "category": "equipment_insurance",
+    "question": "Equipment Insurance: How does Rental Loss or Payment coverage work?",
+    "answer": "It offers compensation in the event of a claim, covering the loss of rental values of the insured equipment or the temporary rental of other equipment."
+  },
+  {
+    "id": 94,
+    "category": "coverage_home_insurance",
+    "question": "Home insurance coverage: How do I know my coverage and assistance?",
+    "answer": "You can find the contracted coverage and assistance in your policy. You can also use the Bradesco Seguros app and consult the general conditions of the product."
+  },
+  {
+    "id": 95,
+    "category": "coverage_home_insurance",
+    "question": "Home insurance coverage: I need to call assistance, how should I do it?",
+    "answer": "Use the Bradesco Seguros app for assistance from a plumber, electrician and locksmith. For other assistance, contact WhatsApp Bradesco Seguros or the Customer Service Center."
+  },
+  {
+    "id": 96,
+    "category": "coverage_home_insurance",
+    "question": "Home insurance coverage: How do I include more coverage and assistance?",
+    "answer": "Contact your broker or manager if you hired at the Bradesco branch."
+  },
+  {
+    "id": 97,
+    "category": "coverage_home_insurance",
+    "question": "Home insurance coverage: Where can I find my policy?",
+    "answer": "Your policy is sent to your email when you take out the insurance. You can also access it through the Bradesco Seguros app or request it from your broker."
+  },
+  {
+    "id": 98,
+    "category": "coverage_home_insurance",
+    "question": "Home insurance coverage: In the event of a claim, what is the procedure?",
+    "answer": "Use the Claims Center to communicate and track your request, or contact your broker and the Customer Service Center."
+  },
+  {
+    "id": 99,
+    "category": "coverage_home_insurance",
+    "question": "Home insurance coverage: How long does my insurance last?",
+    "answer": "Residential products are valid for 12 months, and may be up to 36 months in some cases. Follow up through the app or with your broker."
+  },
+  {
+    "id": 100,
+    "category": "coverage_home_insurance",
+    "question": "Home insurance coverage: I want to renew my insurance, what do I need to do?",
+    "answer": "Renew through the Bradesco Seguros app, with your broker or manager, or through the Customer Service Center."
+  },
+  {
+    "id": 101,
+    "category": "coverage_home_insurance",
+    "question": "Home insurance coverage: Can I change the payment method?",
+    "answer": "To change the payment method, contact your broker, your Bradesco account manager or the Customer Service Center."
+  },
+  {
+    "id": 102,
+    "category": "travel_insurance",
+    "question": "How do I activate my travel insurance in case of missing luggage?",
+    "answer": "You can access our app, go to 'my insurance'. 'travel insurance' and 'I lost my luggage'."
+  },
+  {
+    "id": 103,
+    "category": "travel_insurance",
+    "question": "How do I activate my travel insurance in case of missing luggage?",
+    "answer": "You can access our app, go to 'my insurance'. 'travel insurance' and 'I lost my luggage'."
+  },
+  {
+    "id": 104,
+    "category": "dental_insurance",
+    "question": "How do I find credentialed dentists near me?",
+    "answer": "You can find accredited dentists near you through our website or app, where Bradesco Seguros' network of accredited professionals is available."
+  },
+  {
+    "id": 105,
+    "category": "travel_insurance",
+    "question": "How do I activate my travel insurance in case of missing luggage?",
+    "answer": "You can access our app, go to 'my insurance'. 'travel insurance' and 'I lost my luggage'."
+  }
+]

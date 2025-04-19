@@ -1,0 +1,62 @@
+[
+  {
+    "draft_faq": {
+      "question": "O que fazer se o cartão de débito for roubado?",
+      "draft_answer": "Entre em contato conosco imediatamente para bloquear o cartão e solicitar a emissão de um novo. Também é importante verificar suas contas para qualquer movimentação suspeita.",
+      "category": "cards_insurance"
+    },
+    "user_question": "Sou cliente do seguro de cartões. Meu cartão de débito foi roubado. O que posso fazer?",
+    "time": {
+      "year": 2024,
+      "month": 12,
+      "day": 27,
+      "hour": 10
+    },
+    "status": "approved"
+  },
+  {
+    "draft_faq": {
+      "question": "O que fazer se o cartão de débito for roubado?",
+      "draft_answer": "Entre em contato conosco imediatamente para bloquear o cartão e solicitar a emissão de um novo. Também é importante verificar suas contas para qualquer movimentação suspeita.",
+      "category": "cards_insurance"
+    },
+    "user_question": "Sou cliente do seguro de cartões. Meu cartão de débito foi roubado. O que posso fazer?",
+    "time": {
+      "year": 2024,
+      "month": 12,
+      "day": 27,
+      "hour": 10
+    },
+    "status": "approved"
+  },
+  {
+    "draft_faq": {
+      "question": "O que devo fazer se o sistema elétrico da minha empresa for danificado?",
+      "draft_answer": "Entre em contato com a Bradesco Seguros para registrar o sinistro e iniciar o processo de avaliação e possível indenização.",
+      "category": "default"
+    },
+    "user_question": "Sou cliente do seguro empresarial. Minha empresa teve o sistema elétrico danificado devido a uma forte chuva. O que devo fazer?",
+    "time": {
+      "year": 2024,
+      "month": 12,
+      "day": 27,
+      "hour": 10
+    },
+    "status": "approved"
+  },
+  {
+    "draft_faq": {
+      "question": "Como encontrar dentistas credenciados perto de mim?",
+      "draft_answer": "Você pode encontrar dentistas credenciados perto de você através do nosso site ou aplicativo, onde está disponível a rede de profissionais credenciados da Bradesco Seguros.",
+      "category": "dental_insurance"
+    },
+    "user_question": "Preciso acionar meu seguro dental, mas não sei como faço para encontrar dentistas credenciados perto de mim.",
+    "time": {
+      "year": 2024,
+      "month": 12,
+      "day": 27,
+      "hour": 10
+    },
+    "status": "approved"
+  }
+]

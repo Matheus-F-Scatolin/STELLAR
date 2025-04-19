@@ -1,0 +1,340 @@
+[
+  {
+    "feedback": {
+      "resolution_satisfaction": {
+        "rating": 3,
+        "follow_up_response": "",
+        "categories": []
+      },
+      "agent_friendliness": {
+        "rating": 4,
+        "follow_up_response": null,
+        "categories": []
+      },
+      "ease_of_interaction": {
+        "rating": 5,
+        "follow_up_response": null,
+        "categories": []
+      },
+      "overall_experience": {
+        "rating": 5,
+        "follow_up_response": null,
+        "categories": []
+      },
+      "general": {
+        "rating": 4,
+        "follow_up_response": "4",
+        "categories": []
+      }
+    },
+    "time": {
+      "year": 2025,
+      "month": 4,
+      "day": 18,
+      "hour": 21
+    },
+    "chat_history": "\n\u001b[32mUser\u001b[0m: I'm José and I would like to know how Bradesco dental insurance works.\n\u001b[36mSystem\u001b[0m: We're looking for an answer to it in the FAQ database.\n\u001b[34mModule 2\u001b[0m: \u001b[34mAnswer: The Bradesco Dental plan works by guaranteeing access to basic dental treatments, such as cleaning and treatment of cavities, with a wide national coverage of more than 27 thousand accredited dentists. It also covers procedures like extraction, root canal, and surgeries performed in the office. You can check the complete coverage of the plan on their portal.\u001b[0m\n\u001b[32mSources (FAQ ids): [41, 42, 40, 36, 38]\u001b[0m\n\u001b[34mModule 8\u001b[0m: I hope I helped, José! Were you able to understand how the Bradesco dental insurance works?\n\u001b[32mUser\u001b[0m: Y\n\u001b[36mSystem\u001b[0m: I'm glad your issue has been resolved! Now, could you please provide us with a quick review to improve our service?",
+    "insurance_type": 0
+  },
+  {
+    "feedback": {
+      "resolution_satisfaction": {
+        "rating": 5,
+        "follow_up_response": null,
+        "categories": []
+      },
+      "agent_friendliness": {
+        "rating": 5,
+        "follow_up_response": null,
+        "categories": []
+      },
+      "ease_of_interaction": {
+        "rating": 4,
+        "follow_up_response": null,
+        "categories": []
+      },
+      "overall_experience": {
+        "rating": 4,
+        "follow_up_response": null,
+        "categories": []
+      },
+      "general": {
+        "rating": 4,
+        "follow_up_response": "no",
+        "categories": []
+      }
+    },
+    "time": {
+      "year": 2025,
+      "month": 4,
+      "day": 18,
+      "hour": 10
+    },
+    "chat_history": "\n\u001b[32mUser\u001b[0m: I'm José and I would like to know how Bradesco dental insurance works.\n\u001b[36mSystem\u001b[0m: We're looking for an answer to it in the FAQ database.\n\u001b[34mAgent 2\u001b[0m: \u001b[34mAnswer: The Bradesco Dental plan works by guaranteeing access to basic dental treatments, such as cleaning and treatment of cavities, with a wide national coverage of more than 27 thousand accredited dentists. It also covers procedures like extraction, root canal, and surgeries performed in the office. You can check the complete coverage of the plan on their portal.\u001b[0m\n\u001b[32mSources (FAQ ids): [41, 42, 36, 40, 38]\u001b[0m\n\u001b[34mAgent 8\u001b[0m: I hope I helped, José! Were you able to understand how the Bradesco dental insurance works?\n\u001b[32mUser\u001b[0m: Y\n\u001b[36mSystem\u001b[0m: I'm glad your issue has been resolved! Now, could you please provide us with a quick review to improve our service?",
+    "insurance_type": 0
+  },
+  {
+    "feedback": {
+      "resolution_satisfaction": {
+        "rating": 5,
+        "follow_up_response": null,
+        "categories": []
+      },
+      "agent_friendliness": {
+        "rating": 4,
+        "follow_up_response": null,
+        "categories": []
+      },
+      "ease_of_interaction": {
+        "rating": 5,
+        "follow_up_response": null,
+        "categories": []
+      },
+      "overall_experience": {
+        "rating": 4,
+        "follow_up_response": null,
+        "categories": []
+      },
+      "general": {
+        "rating": 4,
+        "follow_up_response": "5",
+        "categories": []
+      }
+    },
+    "time": {
+      "year": 2025,
+      "month": 3,
+      "day": 5,
+      "hour": 14
+    },
+    "chat_history": "\n\u001b[32mUser\u001b[0m: I'm Gabriel, customer from the life insurance plan. I need the help of an attendant urgently.\n\u001b[36mSystem\u001b[0m: We will forward you to a human agent. Please wait a moment.\n\u001b[34mHuman Agent (Camila)\u001b[0m: Hello Gabriel! This is Camila, your attendant from the life insurance area of Bradesco Seguros. I understand that you need urgent assistance, and I'm here to help you as quickly as possible. I've taken note of your life insurance plan, and I'm ready to give you the attention you need. Can you please tell me a little more about what's happening and how I can assist you today?",
+    "human_attendant_name": "Camila",
+    "insurance_type": 3,
+    "issue_summary": "Gabriel, a life insurance customer, needs urgent assistance from a human attendant.",
+    "query_category": "Human Support Escalations",
+    "query_subcategory": "Urgent Assistance"
+  },
+  {
+    "feedback": {
+      "resolution_satisfaction": {
+        "rating": 5,
+        "follow_up_response": null,
+        "categories": []
+      },
+      "agent_friendliness": {
+        "rating": 5,
+        "follow_up_response": null,
+        "categories": []
+      },
+      "ease_of_interaction": {
+        "rating": 5,
+        "follow_up_response": null,
+        "categories": []
+      },
+      "overall_experience": {
+        "rating": 5,
+        "follow_up_response": null,
+        "categories": []
+      },
+      "general": {
+        "rating": 5,
+        "follow_up_response": "",
+        "categories": []
+      }
+    },
+    "time": {
+      "year": 2025,
+      "month": 3,
+      "day": 5,
+      "hour": 14
+    },
+    "chat_history": "\n\u001b[32mUser\u001b[0m: I'm José and I would like to know how Bradesco dental insurance works.\n\u001b[36mSystem\u001b[0m: We're looking for an answer to it in the FAQ database.\n\u001b[34mAgent 2\u001b[0m: \u001b[34mRespota: The Bradesco Dental plan works by guaranteeing access to basic dental treatments, such as cleaning and treatment of cavities, with a wide national coverage of more than 27 thousand accredited dentists. It also covers procedures like extraction, root canal, and surgeries performed in the office. You can find more information about the complete coverage of the plan on their portal.\u001b[0m\n\u001b[32mFontes (id das FAQs utilizadas): [41, 42, 40, 36, 38]\u001b[0m\n\u001b[34mAgent 8\u001b[0m: I hope I helped, José! Were you able to understand how Bradesco dental insurance works?\n\u001b[32mUser\u001b[0m: N\n\u001b[36mSystem\u001b[0m: It's a shame your issue wasn't resolved. We'll forward you to a human representative.\n\u001b[34mHuman Agent (Pedro)\u001b[0m: Hello José! I'm Pedro, a Bradesco Seguros attendant, and I'm here to help you with your questions about Bradesco dental insurance. I saw that you were trying to understand how our dental plan works, but unfortunately, the previous explanations didn't quite clarify your doubts. I apologize if the information provided didn't fully meet your needs. I'm committed to helping you find the answers you're looking for. Can you tell me what specific aspects of the dental insurance are still unclear to you, so we can work together to find a solution?",
+    "human_attendant_name": "Pedro",
+    "insurance_type": 4,
+    "issue_summary": "The customer, José, wanted to know how Bradesco dental insurance works and was provided with information about the plan's coverage but still needs further assistance.",
+    "query_category": "General Questions",
+    "query_subcategory": "Product Information"
+  },
+  {
+    "feedback": {
+      "resolution_satisfaction": {
+        "rating": 3,
+        "follow_up_response": "",
+        "categories": []
+      },
+      "agent_friendliness": {
+        "rating": 4,
+        "follow_up_response": null,
+        "categories": []
+      },
+      "ease_of_interaction": {
+        "rating": 4,
+        "follow_up_response": null,
+        "categories": []
+      },
+      "overall_experience": {
+        "rating": 5,
+        "follow_up_response": null,
+        "categories": []
+      },
+      "general": {
+        "rating": 4,
+        "follow_up_response": "",
+        "categories": []
+      }
+    },
+    "time": {
+      "year": 2025,
+      "month": 3,
+      "day": 5,
+      "hour": 14
+    },
+    "chat_history": "\n\u001b[32mUser\u001b[0m: I'm José and I would like to know how Bradesco dental insurance works.\n\u001b[36mSystem\u001b[0m: We're looking for an answer to it in the FAQ database.\n\u001b[34mAgent 2\u001b[0m: \u001b[34mRespota: The Bradesco Dental plan works by guaranteeing access to basic dental treatments, such as cleaning and treatment of cavities, with a wide national coverage of more than 27 thousand accredited dentists. It also covers procedures like extraction, root canal, and surgeries performed in the office. You can find more information about the complete coverage of the plan on their portal.\u001b[0m\n\u001b[32mFontes (id das FAQs utilizadas): [41, 42, 40, 36, 38]\u001b[0m\n\u001b[34mAgent 8\u001b[0m: I hope I helped, José! Were you able to understand how Bradesco dental insurance works?\n\u001b[32mUser\u001b[0m: Y\n\u001b[36mSystem\u001b[0m: I'm glad your issue has been resolved! Now, could you please provide us with a quick review to improve our service?",
+    "insurance_type": 0
+  },
+  {
+    "feedback": {
+      "resolution_satisfaction": {
+        "rating": 3,
+        "follow_up_response": "My problem was not solved due to humans lack of knowledg",
+        "categories": [
+          "Agent Performance",
+          "Improvement Suggestion in Process"
+        ]
+      },
+      "agent_friendliness": {
+        "rating": 2,
+        "follow_up_response": "The interaction with the humna was terrible",
+        "categories": [
+          "Agent Performance"
+        ]
+      },
+      "ease_of_interaction": {
+        "rating": 4,
+        "follow_up_response": null,
+        "categories": []
+      },
+      "overall_experience": {
+        "rating": 5,
+        "follow_up_response": null,
+        "categories": []
+      },
+      "general": {
+        "rating": 4,
+        "follow_up_response": "",
+        "categories": []
+      }
+    },
+    "time": {
+      "year": 2025,
+      "month": 3,
+      "day": 5,
+      "hour": 13
+    },
+    "chat_history": "Hello, I am Matheus. I am very frustrated with the delay in the action of my health insurance.",
+    "human_attendant_name": "Gabriel",
+    "sentiment_analysis": {
+      "positive": 0.022862698882818222,
+      "neutral": 0.031627094745636,
+      "negative": 0.9455101765692234
+    },
+    "insurance_type": 2,
+    "issue_summary": "Matheus needs help with the health insurance action.",
+    "query_category": "Claims",
+    "query_subcategory": "Opening of Claim"
+  },
+  {
+    "feedback": {
+      "resolution_satisfaction": {
+        "rating": 2,
+        "follow_up_response": "",
+        "categories": []
+      },
+      "agent_friendliness": {
+        "rating": 4,
+        "follow_up_response": null,
+        "categories": []
+      },
+      "ease_of_interaction": {
+        "rating": 2,
+        "follow_up_response": "The system interface is terrible.",
+        "categories": [
+          "Usability Issue"
+        ]
+      },
+      "overall_experience": {
+        "rating": 5,
+        "follow_up_response": null,
+        "categories": []
+      },
+      "general": {
+        "rating": 3,
+        "follow_up_response": "",
+        "categories": []
+      }
+    },
+    "time": {
+      "year": 2025,
+      "month": 3,
+      "day": 5,
+      "hour": 13
+    },
+    "chat_history": "Hello, I am Matheus. I am very frustrated with the delay in the action of my health insurance.",
+    "human_attendant_name": "Gabriel",
+    "sentiment_analysis": {
+      "positive": 0.022862698882818222,
+      "neutral": 0.031627094745636,
+      "negative": 0.9455101765692234
+    },
+    "insurance_type": 2,
+    "issue_summary": "Matheus needs help with the health insurance action.",
+    "query_category": "Claims",
+    "query_subcategory": "Opening of Claim"
+  },
+  {
+    "feedback": {
+      "resolution_satisfaction": {
+        "rating": 4,
+        "follow_up_response": null,
+        "categories": []
+      },
+      "agent_friendliness": {
+        "rating": 2,
+        "follow_up_response": "3",
+        "categories": []
+      },
+      "ease_of_interaction": {
+        "rating": 4,
+        "follow_up_response": null,
+        "categories": []
+      },
+      "overall_experience": {
+        "rating": 4,
+        "follow_up_response": null,
+        "categories": []
+      },
+      "general": {
+        "rating": 4,
+        "follow_up_response": "",
+        "categories": []
+      }
+    },
+    "time": {
+      "year": 2025,
+      "month": 3,
+      "day": 5,
+      "hour": 13
+    },
+    "chat_history": "Hello, I am Matheus. I am very frustrated with the delay in the action of my health insurance.",
+    "human_attendant_name": "Gabriel",
+    "sentiment_analysis": {
+      "positive": 0.022862698882818222,
+      "neutral": 0.031627094745636,
+      "negative": 0.9455101765692234
+    },
+    "insurance_type": 2,
+    "issue_summary": "Matheus needs help with the health insurance action.",
+    "query_category": "Claims",
+    "query_subcategory": "Opening of Claim"
+  }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "draft_faq": {
+            "question": "How do I find licensed dentists near me for my dental insurance?",
+            "draft_answer": "You can find licensed dentists near you through our website or by contacting our Customer Service Center, who can provide you with a list of network dentists in your area.",
+            "category": "dental_insurance"
+        },
+        "chat_history": "I need to activate my dental insurance, but I don't know how to find licensed dentists near me.",
+        "time": {
+            "year": 2025,
+            "month": 3,
+            "day": 5,
+            "hour": 14
+        },
+        "status": "pending"
+    },
+    {
+        "draft_faq": {
+            "question": "How can I find licensed dentists near me for my dental insurance?",
+            "draft_answer": "You can find licensed dentists near you through our website or by contacting our Customer Service Center, who can provide you with a list of participating dentists in your area.",
+            "category": "dental_insurance"
+        },
+        "chat_history": "I need to activate my dental insurance, but I don't know how to find licensed dentists near me.",
+        "time": {
+            "year": 2025,
+            "month": 3,
+            "day": 5,
+            "hour": 14
+        },
+        "status": "pending"
+    },
+    {
+        "draft_faq": {
+            "question": "How does Bradesco dental insurance work?",
+            "draft_answer": "Bradesco Dental plan covers basic dental treatments like cleaning, cavity treatment, extraction, root canal, and office surgeries, with over 27,000 accredited dentists nationwide.",
+            "category": "dental_insurance"
+        },
+        "chat_history": "\n\u001b[32mUser\u001b[0m: I'm José and I would like to know how Bradesco dental insurance works.\n\u001b[36mSystem\u001b[0m: We're looking for an answer to it in the FAQ database.\n\u001b[34mAgent 2\u001b[0m: \u001b[34mRespota: The Bradesco Dental plan works by guaranteeing access to basic dental treatments, such as cleaning and treatment of cavities, with a wide national coverage of more than 27 thousand accredited dentists. It also covers procedures like extraction, root canal, and surgeries performed in the office. You can find more information about the complete coverage of the plan on their portal.\u001b[0m\n\u001b[32mFontes (id das FAQs utilizadas): [41, 42, 40, 36, 38]\u001b[0m\n\u001b[34mAgent 8\u001b[0m: I hope I helped, José! Were you able to understand how Bradesco dental insurance works?\n\u001b[32mUser\u001b[0m: N\n\u001b[36mSystem\u001b[0m: It's a shame your issue wasn't resolved. We'll forward you to a human representative.",
+        "time": {
+            "year": 2025,
+            "month": 3,
+            "day": 5,
+            "hour": 14
+        },
+        "status": "pending"
+    },
+    {
+        "draft_faq": {
+            "question": "How can I find a dentist for dental cleaning near me through my insurance?",
+            "draft_answer": "You can find accredited dentists near you through the Bradesco Seguros website or app.",
+            "category": "dental_insurance"
+        },
+        "chat_history": "\n\u001b[32mUser\u001b[0m: I need my insurance's dental cleaning near me. Where can I find a dentist?\n\u001b[36mSystem\u001b[0m: Thank you for your question! We are looking for an answer to it in the contact database.\n\u001b[36mSystem\u001b[0m: Unfortunately, there was an error searching for your answer. Let's try to find it in the FAQ database.\n\u001b[34mAgent 2\u001b[0m: \u001b[34mAnswer: You can find accredited dentists near you through the Bradesco Seguros website or app, where their network of accredited professionals is available.\u001b[0m\n\u001b[32mSources (FAQ ids): [104, 40, 38, 37, 36]\u001b[0m\n\u001b[34mAgent 8\u001b[0m: Were you able to find a dentist near you for your insurance's dental cleaning?\n\u001b[32mUser\u001b[0m: N\n\u001b[36mSystem\u001b[0m: It's a shame your issue wasn't resolved. We'll forward you to a human representative.",
+        "time": {
+            "year": 2025,
+            "month": 3,
+            "day": 5,
+            "hour": 14
+        },
+        "status": "pending"
+    },
+    {
+        "draft_faq": {
+            "question": "How can I get urgent assistance as a life insurance plan customer?",
+            "draft_answer": "For urgent matters, life insurance plan customers can contact our Customer Service Center or request assistance through our website for immediate support.",
+            "category": "life_insurance"
+        },
+        "chat_history": "\n\u001b[32mUser\u001b[0m: I'm Gabriel, customer from the life insurance plan. I need the help of an attendant urgently.\n\u001b[36mSystem\u001b[0m: We will forward you to a human agent. Please wait a moment.",
+        "time": {
+            "year": 2025,
+            "month": 3,
+            "day": 5,
+            "hour": 14
+        },
+        "status": "pending"
+    },
+    {
+        "draft_faq": {
+            "question": "How can I get urgent assistance as a life insurance plan customer?",
+            "draft_answer": "For urgent matters, life insurance plan customers can contact our Customer Service Center or request assistance through our online portal for immediate support.",
+            "category": "life_insurance"
+        },
+        "chat_history": "\n\u001b[32mUser\u001b[0m: I'm Gabriel, customer from the life insurance plan. I need the help of an attendant urgently.\n\u001b[36mSystem\u001b[0m: We will forward you to a human agent. Please wait a moment.",
+        "time": {
+            "year": 2025,
+            "month": 3,
+            "day": 5,
+            "hour": 14
+        },
+        "status": "pending"
+    },
+    {
+        "draft_faq": {
+            "question": "How can I get urgent assistance as a life insurance plan customer?",
+            "draft_answer": "For urgent matters, life insurance plan customers can contact our Customer Service Center or wait to be assisted by a human agent through our online chat system.",
+            "category": "life_insurance"
+        },
+        "chat_history": "\n\u001b[32mUser\u001b[0m: I'm Gabriel, customer from the life insurance plan. I need the help of an attendant urgently.\n\u001b[36mSystem\u001b[0m: We will forward you to a human agent. Please wait a moment.",
+        "time": {
+            "year": 2025,
+            "month": 3,
+            "day": 5,
+            "hour": 14
+        },
+        "status": "pending"
+    },
+    {
+        "draft_faq": {
+            "question": "How can I get urgent assistance as a life insurance plan customer?",
+            "draft_answer": "For urgent matters, life insurance plan customers can contact our Customer Service Center or request assistance through our website, and we will direct you to a human agent for immediate support.",
+            "category": "life_insurance"
+        },
+        "chat_history": "\n\u001b[32mUser\u001b[0m: I'm Gabriel, customer from the life insurance plan. I need the help of an attendant urgently.\n\u001b[36mSystem\u001b[0m: We will forward you to a human agent. Please wait a moment.",
+        "time": {
+            "year": 2025,
+            "month": 3,
+            "day": 5,
+            "hour": 14
+        },
+        "status": "pending"
+    },
+    {
+        "draft_faq": {
+            "question": "How can I find licensed dentists near me for my dental insurance?",
+            "draft_answer": "You can find licensed dentists near you through our Bradesco Insurance website or mobile app, which provides a directory of our network providers.",
+            "category": "dental_insurance"
+        },
+        "chat_history": "I need to activate my dental insurance, but I don't know how to find licensed dentists near me.",
+        "time": {
+            "year": 2025,
+            "month": 4,
+            "day": 18,
+            "hour": 10
+        },
+        "status": "pending"
+    },
+    {
+        "draft_faq": {
+            "question": "How can I find licensed dentists near me for my dental insurance?",
+            "draft_answer": "You can find licensed dentists near you by visiting our website or contacting our Customer Service Center for a list of our network providers.",
+            "category": "dental_insurance"
+        },
+        "chat_history": "I need to activate my dental insurance, but I don't know how to find licensed dentists near me.",
+        "time": {
+            "year": 2025,
+            "month": 4,
+            "day": 18,
+            "hour": 21
+        },
+        "status": "pending"
+    },
+    {
+        "draft_faq": {
+            "question": "How do I find licensed dentists near me to use my dental insurance?",
+            "draft_answer": "You can find licensed dentists near you through our website or by contacting Bradesco Insurance's Customer Service Center for a list of providers in your area.",
+            "category": "dental_insurance"
+        },
+        "chat_history": "I need to activate my dental insurance, but I don't know how to find licensed dentists near me.",
+        "time": {
+            "year": 2025,
+            "month": 4,
+            "day": 18,
+            "hour": 22
+        },
+        "status": "pending"
+    }
+]

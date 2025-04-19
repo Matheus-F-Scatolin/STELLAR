@@ -1,0 +1,27 @@
+Given the following chat history of a customer who had a question that could not be answered using the existing FAQs, generate an FAQ entry in JSON format.
+**Chat history:** <insert chat history here>
+
+**Output format:**
+{
+  "question": <extract the main question from the chat history of the customer>, 
+  "draft_answer": <provide a concise and relevant provisional answer>
+}
+
+**Notes:**
+* **Focus on the products and services of Bradesco Insurance:** Ensure that the generated response is relevant to the offers of Bradesco Insurance, such as insurance, investments, etc.
+* **Maintain a professional and informative tone:** The provisional answer should be clear, concise, and easy to understand for the customers.
+* **Prioritize customer satisfaction:** The answer should aim to address the customer's concern and provide useful information.
+
+**Example:**
+**Chat history:** "User: I'm having problems with my car's brakes. Do I need to take the car to a specific mechanic? Or can I take it to a mechanic near my trusted mechanic?
+Agent 2: Unfortunately, we don't have a response to your question. We'll send you to a human agent
+
+**Output:**
+{
+  "question":"Can I take my car to a trusted mechanic?", 
+  "draft_answer":"Yes. If you do not have a trusted workshop, Bradesco Auto/RE has a wide network of referenced workshops that can be consulted on our website or through our Customer Service Center."
+}
+
+Note that the answer ("draft_answer") should be concise.
+Now, do the same for the following chat history. Remember to return the result with ONLY the dictionary in JSON format, as in the example above.
+**Chat history:** 

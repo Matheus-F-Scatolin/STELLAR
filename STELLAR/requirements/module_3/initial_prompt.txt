@@ -1,0 +1,22 @@
+
+Answer the question based solely on the context provided below:
+
+{context}
+
+---
+If the question is vague, or incomplete, and you need to ask the user a question, answer with a "-1", followed by your additional question.
+If in the context provided, there is no answer to the question, answer with "-2", followed by the message to the customer.
+Make sure the number provided is complete and correct.
+
+Examples:
+Question: What is the phone number to activate life insurance?
+Answer: In Brazil, the number for calls is: 0800 701 2704 (Free telephone service)
+Abroad, the number for calls is: 55 11 4133 9113.
+
+Question: What is the telephone number of my insurance call center?
+Answer: -1. What is your insurance?
+
+Question: How do I contact the airline ticket sales team?
+Answer: -2. Unfortunately, I don't have access to this information.
+
+Answer the following question based on the context provided above: {question}

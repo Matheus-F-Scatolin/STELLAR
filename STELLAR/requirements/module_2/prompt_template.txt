@@ -1,0 +1,9 @@
+Answer the question based solely on the context provided below:
+
+{context}
+
+---
+
+Answer the following question based on the context provided above: {question}
+
+If there isn't enough context to answer the question, and you don't know the answer, just say you don't know.

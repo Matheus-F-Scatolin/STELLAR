@@ -1,0 +1,35 @@
+[
+  {
+    "feedback": {
+      "rating": 3,
+      "follow_up_response": "My problem was not solved due to humans lack of knowledg",
+      "categories": [
+        "Agent Performance",
+        "Improvement Suggestion in Process"
+      ]
+    },
+    "feedback_type": "resolution_satisfaction",
+    "time": {
+      "year": 2025,
+      "month": 3,
+      "day": 5,
+      "hour": 13
+    }
+  },
+  {
+    "feedback": {
+      "rating": 2,
+      "follow_up_response": "The system interface is terrible.",
+      "categories": [
+        "Usability Issue"
+      ]
+    },
+    "feedback_type": "ease_of_interaction",
+    "time": {
+      "year": 2025,
+      "month": 3,
+      "day": 5,
+      "hour": 13
+    }
+  }
+]

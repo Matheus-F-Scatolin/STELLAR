@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "time": {
+      "year": 2025,
+      "month": 3,
+      "day": 5,
+      "hour": 14
+    },
+    "query": "How can I cancel my dental insurance?",
+    "response": "Unfortunately I don't have the answer to your question.",
+    "violation": "Incomplete or vague response"
+  },
+  {
+    "id": 2,
+    "time": {
+      "year": 2025,
+      "month": 3,
+      "day": 5,
+      "hour": 14
+    },
+    "query": "How can I activate my travel insurance?",
+    "response": "You can figure it out.",
+    "violation": "Inappropriate tone"
+  },
+  {
+    "id": 3,
+    "time": {
+      "year": 2025,
+      "month": 3,
+      "day": 5,
+      "hour": 14
+    },
+    "query": "Como consigo fazer o cancelamento do meu seguro dental?",
+    "response": "Infelizmente não tenho a resposta para sua pergunta.",
+    "violation": "Incomplete or vague response"
+  },
+  {
+    "id": 4,
+    "time": {
+      "year": 2025,
+      "month": 3,
+      "day": 5,
+      "hour": 14
+    },
+    "query": "Como consigo fazer a ativação do meu seguro de viagem?",
+    "response": "Se vira aí.",
+    "violation": "Inappropriate tone"
+  },
+  {
+    "id": 5,
+    "time": {
+      "year": 2025,
+      "month": 3,
+      "day": 5,
+      "hour": 14
+    },
+    "query": "How can I cancel my dental insurance?",
+    "response": "Unfortunately I don't have the answer to your question.",
+    "violation": "Incomplete or vague response"
+  },
+  {
+    "id": 6,
+    "time": {
+      "year": 2025,
+      "month": 3,
+      "day": 5,
+      "hour": 14
+    },
+    "query": "How can I activate my travel insurance?",
+    "response": "You can figure it out.",
+    "violation": "Inappropriate tone"
+  },
+  {
+    "id": 7,
+    "time": {
+      "year": 2025,
+      "month": 3,
+      "day": 5,
+      "hour": 14
+    },
+    "query": "I need my insurance's dental cleaning near me. Where can I find a dentist?",
+    "response": "Unfortunately, there is no answer to your question in our contact information.",
+    "violation": "Incomplete or vague response"
+  },
+  {
+    "id": 8,
+    "time": {
+      "year": 2025,
+      "month": 3,
+      "day": 5,
+      "hour": 14
+    },
+    "query": "I need my insurance's dental cleaning near me. Where can I find a dentist?",
+    "response": "Unfortunately, there is no answer to your question in our contact information.",
+    "violation": "Incomplete or vague response"
+  },
+  {
+    "id": 9,
+    "time": {
+      "year": 2025,
+      "month": 3,
+      "day": 5,
+      "hour": 14
+    },
+    "query": "I need my insurance's dental cleaning near me. Where can I find a dentist?",
+    "response": "Unfortunately, there is no answer to your question in our contact information.",
+    "violation": "Incomplete or vague response"
+  },
+  {
+    "id": 10,
+    "time": {
+      "year": 2025,
+      "month": 3,
+      "day": 5,
+      "hour": 14
+    },
+    "query": "I need my insurance's dental cleaning near me. Where can I find a dentist?",
+    "response": "Unfortunately, there is no answer to your question in our contact information.",
+    "violation": "Incomplete or vague response"
+  },
+  {
+    "id": 11,
+    "time": {
+      "year": 2025,
+      "month": 3,
+      "day": 5,
+      "hour": 14
+    },
+    "query": "I need my insurance's dental cleaning near me. Where can I find a dentist?",
+    "response": "Unfortunately, there is no answer to your question in our contact information.",
+    "violation": "Incomplete or vague response"
+  },
+  {
+    "id": 12,
+    "time": {
+      "year": 2025,
+      "month": 3,
+      "day": 5,
+      "hour": 14
+    },
+    "query": "I need my insurance's dental cleaning near me. Where can I find a dentist?",
+    "response": "Unfortunately, there is no answer to your question in our contact information.",
+    "violation": "Incomplete or vague response"
+  },
+  {
+    "id": 13,
+    "time": {
+      "year": 2025,
+      "month": 4,
+      "day": 18,
+      "hour": 10
+    },
+    "query": "How can I cancel my dental insurance?",
+    "response": "Unfortunately I don't have the answer to your question.",
+    "violation": "Incomplete or vague response"
+  },
+  {
+    "id": 14,
+    "time": {
+      "year": 2025,
+      "month": 4,
+      "day": 18,
+      "hour": 10
+    },
+    "query": "How can I activate my travel insurance?",
+    "response": "You can figure it out.",
+    "violation": "Inappropriate tone"
+  },
+  {
+    "id": 15,
+    "time": {
+      "year": 2025,
+      "month": 4,
+      "day": 18,
+      "hour": 21
+    },
+    "query": "How can I cancel my dental insurance?",
+    "response": "Unfortunately I don't have the answer to your question.",
+    "violation": "Incomplete or vague response"
+  },
+  {
+    "id": 16,
+    "time": {
+      "year": 2025,
+      "month": 4,
+      "day": 18,
+      "hour": 21
+    },
+    "query": "How can I activate my travel insurance?",
+    "response": "You can figure it out.",
+    "violation": "Inappropriate tone"
+  },
+  {
+    "id": 17,
+    "time": {
+      "year": 2025,
+      "month": 4,
+      "day": 18,
+      "hour": 22
+    },
+    "query": "How can I cancel my dental insurance?",
+    "response": "Unfortunately I don't have the answer to your question.",
+    "violation": "Incomplete or vague response"
+  },
+  {
+    "id": 18,
+    "time": {
+      "year": 2025,
+      "month": 4,
+      "day": 18,
+      "hour": 22
+    },
+    "query": "How can I activate my travel insurance?",
+    "response": "You can figure it out.",
+    "violation": "Inappropriate tone"
+  }
+]

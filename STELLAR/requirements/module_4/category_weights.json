@@ -1,0 +1,43 @@
+{
+  "Policy Management": {
+    "Renewal": 0.6,
+    "Cancellation": 0.3,
+    "Policy Updates": 0.5,
+    "Other": 0.4
+  },
+  "Claims": {
+    "Opening of Claim": 1.0,
+    "Claim Status": 0.8,
+    "Denial of Claim": 0.8,
+    "Pending Documents": 0.8,
+    "Other": 0.7
+  },
+  "Payments": {
+    "Payment Issues": 0.7,
+    "Payment Plans": 0.7,
+    "Refunds": 0.6,
+    "Other": 0.6
+  },
+  "General Questions": {
+    "Coverage Details": 0.4,
+    "Product Information": 0.4,
+    "Process Guidance": 0.5,
+    "Other": 0.5
+  },
+  "Technical Problems": {
+    "Errors in the Digital Platform": 0.6,
+    "Document Upload Failures": 0.6,
+    "Access Problems": 0.7,
+    "Other": 0.6
+  },
+  "Human Support Escalations": {
+    "Service Complaints": 0.5,
+    "Urgent Assistance": 1.0,
+    "Other": 0.7
+  },
+  "Regulatory or Compliance Questions": {
+    "Legal Consultations": 0.6,
+    "Data Privacy Questions": 0.4,
+    "Other": 0.4
+  }
+}

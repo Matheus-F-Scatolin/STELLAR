@@ -1,0 +1,16 @@
+{
+  "Agent Performance": "Customer Support Team",
+  "Response Time": "Customer Support Team",
+  "General Inquiry": "Customer Support Team",
+  "Other": "Customer Support Team",
+  "Usability Issue": "Product Development Team",
+  "Accessibility Issue": "Product Development Team",
+  "Resource Request": "Product Development Team",
+  "Improvement Suggestion in Process": "Product Development Team",
+  "Insurance Policy Issue": "Insurance Operations Team",
+  "Claims Processing Issue": "Insurance Operations Team",
+  "Payment or Billing Issue": "Insurance Operations Team",
+  "System Error": "Technical Support Team",
+  "Positive Experience": "Customer Experience & Quality Team",
+  "Diverse Feedback": "Customer Experience & Quality Team"
+}

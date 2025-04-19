@@ -1,0 +1,147 @@
+Bradesco Seguros - Contact Information
+
+SAC:
+  - Phone: 0800 727 9966
+  - Hours: 24 hours, 7 days a week
+  - Description: Complaints, cancellations and general information
+  - Additional information: Free telephone service
+
+Auto:
+  WhatsApp Auto:
+    - Phone: (21) 4004-2702
+    - Hours: Monday to Friday, from 8 am to 6 pm (Brasília time)
+  Auto Assistance Activations:
+    - Capitals and Metropolitan Regions: 4004 2757
+    - Other Regions: 0800 701 2757
+    - Hours: 24 hours, 7 days a week
+  Self Relationship Center:
+    - Capitals and Metropolitan Regions: 4004 2757
+    - Other Regions: 0800 701 2757
+    - Hours: Monday to Friday, from 8 am to 6 pm (Brasília time)
+
+Health:
+  WhatsApp Health:
+    - Phone: (21) 4004-2702
+    - Hours: 24 hours, 7 days a week
+  Health Relationship Center:
+    - Capitals and Metropolitan Regions: 4004 2700
+    - Other Regions: 0800 701 2700
+    - Hours: 24 hours, 7 days a week
+    - Description: Transactional queries, information, and services
+  Health Referral Service:
+    - Capitals and Metropolitan Regions: 4004 4580
+    - Other Regions: 0800 701 2744
+
+Life:
+  WhatsApp Life:
+    - Phone: (21) 4004-2702
+    - Hours: Monday to Friday, from 8 am to 6 pm (Brasília time)
+  Life Relationship Center:
+    - Capitals and Metropolitan Regions: 4004 2704
+    - Other Regions: 0800 701 2714
+    - Hours: Monday to Friday, from 8 am to 6 pm (Brasília time)
+    - Description: Transactional assistance, queries, information, and services
+  Life Claim Call Center:
+    - Capitals and Metropolitan Regions: 4004 2794
+    - Other Regions: 0800 701 2794
+    - Hours: Monday to Friday, from 8 am to 6 pm (except holidays, Brasília time)
+  Life Assistance Center:
+    -Drives:
+      - Brazil: 0800 701 2704 (Toll Free)
+      - Outside: 55 11 4133 9113
+      - Hours: 24 hours, 7 days a week
+    - Alarm - Travel Insurance:
+      - Brazil: 0800 775 3415
+      - Outside: 55 11 2664 4014
+      - Hours: 24 hours, 7 days a week
+  Sinister Lender Life:
+    - Bradesco Consortium Lender Insurance, INSS Payroll Lender Insurance, PJ Working Capital Insurance, Public Payroll Lender Insurance and Rural Credit Lender Insurance:
+      - Capitals and Metropolitan Regions: (11) 4004-2794
+      - Other Regions: 0800 701 2794
+    - Credit Limit Lender Insurance - EP Lime:
+      - Capitals and Metropolitan Regions: (11) 3003-4172
+      - Other Regions: 0800 200 0672
+    - Lender Insurance for Consumer Accounts:
+      - Capitals and Metropolitan Regions: (11) 3003-4245
+      - Other Regions: 0800 200 0985
+    - CDC Vehicles Lender Insurance, Goods and Services Lender Insurance, Private Payroll Loan Insurance, Overdraft Loan Insurance, Global Credit Lender Insurance and Personal Credit Lender Insurance:
+      - Capitals and Metropolitan Regions: (11) 3003-4199
+      - Other Regions: 0800 200 0999
+
+Dental:
+  Dental Relationship Center:
+    - Capitals and Metropolitan Regions: 4004 2700
+    - Other Regions: 0800 701 2700
+    - Beneficiaries of business plans: 0800 602 3332
+    - Individual plan beneficiaries: 0800 722 2191
+    - Hearing or speech impairment: 0800 722 2191
+    - Description: Transactional information and services
+  Dental Ombudsman:
+    - Phone: 0800 772 2073
+    - Description: Compliments, suggestions and complaints
+
+Security:
+  WhatsApp Social Security:
+    - Phone: (21) 4004-2702
+    - Description: Mon. to Fri. from 8 am to 6 pm/*Brasília time.
+
+Individual Pension Relationship Center:
+    - Capitals and Metropolitan Regions: 4002 0022
+    - Other Regions: 0800 570 0022
+    - Description: Transactional queries, information, and services. Service from Monday to Friday, from 7:30 am to 6 pm, except holidays. Redemption request: Service from Monday to Friday, from 9 am to 6 pm (business days) / *Brasília time.
+
+Private Pension Relationship Center:
+    - Capitals and Metropolitan Regions: 4003 3007
+    - Other Regions: 0800 883 3007
+    - Description: Transactional queries, information, and services. Service from Monday to Friday, from 8 am to 6 pm, except holidays. Redemption request: Service from Monday to Friday, from 9 am to 6 pm (business days) / *Brasília time.
+
+Corporate Pension Relationship Center:
+    - Capitals and Metropolitan Regions: 4003 4630
+    - Other Regions: 0800 883 4630
+    - Description: Service from Monday to Friday, except holidays, from 8 am to 6 pm (Brasília time).
+
+Pension Fund Relationship Center:
+    - Capitals and Metropolitan Regions: 4004 5926
+    - Other Regions: 0800 723 5926
+    - Description: Service from Monday to Friday, except holidays, from 8 am to 6 pm (Brasília time).
+
+Residential:
+  WhatsApp Residential:
+    - Phone: (21) 4004-2702
+    - Description: Mon. to Fri. from 08h to 18h/*Brasília time.
+
+Residential Relationship Center:
+    - Capitals and Metropolitan Regions: 4004 2757
+    - Other Regions: 0800 701 2757
+    - Description: Transactional queries, information, and services. Mon service to Fri. from 08h to 18h/*Brasília time.
+
+Residential Assistance Activations:
+    - Capitals and Metropolitan Regions: 4004 2757
+    - Other Regions: 0800 701 2757
+    - Description: 24/7 service.
+
+Capitalization:
+  Capitalization Relationship Center:
+    - Capitals and Metropolitan Regions: 4002 0022
+    - Other Regions: 0800 570 0022
+    - Access from outside: 55 11 4002 0022
+    - Description: Transactional assistance, queries, information, and services. Mon service to Fri. from 07:30 am to 06:00 pm/*Brasília time.
+
+Award-winning Economy Call Center:
+    - Visa, Mastercard and Elo cards: 0800 727 9506
+    - American Express Cards: 0800 701 3030
+    - Casas Bahia Cards: 0800 722 9838
+    - Coop, Comper and Luigi Bertolli cards: 0800 703 0074
+    - Description: 24-hour service.
+
+Cards:
+  Relationship Center Cards:
+    - Capitals and Metropolitan Regions: 4002 0022
+    - Other Regions: 0800 570 0022
+    - Hearing or speech impairment: 0800 722 0099
+    - Description: Mon. to Fri., from 7:30 a.m. to 7:30 p.m., except holidays / *Brasília time.
+
+Redemption of Elo and Visa Card Points:
+    - Capitals and Metropolitan Regions: 4002 0022
+    - Other Regions: 0800 570 0022
+    - Description: Service related to the redemption of points.

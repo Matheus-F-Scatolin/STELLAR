@@ -1,0 +1,32 @@
+[
+  {
+    "draft_faq": {
+      "question": "Quem recebe a indenização em caso de sinistro em uma residência alugada?",
+      "draft_answer": "A indenização é paga ao proprietário da residência, pois o seguro cobre danos ao imóvel. No entanto, é importante verificar as condições específicas do seu seguro e consultar a Bradesco Seguros para mais informações.",
+      "category": "home_insurance"
+    },
+    "user_question": "Moro em uma residência alugada, quem recebe a indenização é o proprietário ou o inquilino?",
+    "time": {
+      "year": 2024,
+      "month": 12,
+      "day": 27,
+      "hour": 10
+    },
+    "status": "rejected"
+  },
+  {
+    "draft_faq": {
+      "question": "Como encontrar dentistas credenciados perto de mim?",
+      "draft_answer": "Você pode encontrar dentistas credenciados por nossa Central de Relacionamento ou diretamente no nosso site, onde há uma ferramenta de busca para_facilitar a localização de profissionais da saúde para sua necessidade.",
+      "category": "dental_insurance"
+    },
+    "user_question": "Preciso acionar meu seguro dental, mas não sei como faço para encontrar dentistas credenciados perto de mim.",
+    "time": {
+      "year": 2024,
+      "month": 12,
+      "day": 27,
+      "hour": 14
+    },
+    "status": "rejected"
+  }
+]
