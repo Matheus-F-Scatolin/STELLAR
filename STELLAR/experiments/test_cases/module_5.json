@@ -1,0 +1,252 @@
+[
+    {
+        "id": 0,
+        "question": "Why is my car insurance deductible so absurd after a claim?",
+        "correct_sentiment": "negative"
+    },
+    {
+        "id": 1,
+        "question": "How do you expect me to trust a health plan that never approves my authorizations?",
+        "correct_sentiment": "negative"
+    },
+    {
+        "id": 2,
+        "question": "Why does the service take so long to pay life insurance in case of death?",
+        "correct_sentiment": "negative"
+    },
+    {
+        "id": 3,
+        "question": "Don't you check anything? My home insurance was denied even with clear evidence of the incident!",
+        "correct_sentiment": "negative"
+    },
+    {
+        "id": 4,
+        "question": "How is it possible for me to pay for card insurance and still not have fraud coverage?",
+        "correct_sentiment": "negative"
+    },
+    {
+        "id": 5,
+        "question": "Why Does It Take That Long To Authorize My Car Repair After A Minor Accident?",
+        "correct_sentiment": "negative"
+    },
+    {
+        "id": 6,
+        "question": "Is it normal to have to wait hours on the phone to be able to authorize an appointment?",
+        "correct_sentiment": "negative"
+    },
+    {
+        "id": 7,
+        "question": "Doesn't your dental plan cover a treatment as simple as whitening?",
+        "correct_sentiment": "negative"
+    },
+    {
+        "id": 8,
+        "question": "Is there any way to improve the profitability of my pension plan? It looks very low.",
+        "correct_sentiment": "negative"
+    },
+    {
+        "id": 9,
+        "question": "Why is the redemption of my savings bond no longer accessible online?",
+        "correct_sentiment": "negative"
+    },
+    {
+        "id": 10,
+        "question": "How does Bradesco's health plan manage to be so fast in approving exams? Congratulations!",
+        "correct_sentiment": "positive"
+    },
+    {
+        "id": 11,
+        "question": "Your life insurance is really an excellent guarantee for my family, how can I increase coverage?",
+        "correct_sentiment": "positive"
+    },
+    {
+        "id": 12,
+        "question": "I am impressed with how quickly the reimbursement of my car repair is made. You guys have an amazing service!",
+        "correct_sentiment": "positive"
+    },
+    {
+        "id": 13,
+        "question": "Home insurance saved me! The technical assistance was solved in less than a day, congratulations!",
+        "correct_sentiment": "positive"
+    },
+    {
+        "id": 14,
+        "question": "How do I recommend your card insurance to a friend? I am very satisfied.",
+        "correct_sentiment": "positive"
+    },
+    {
+        "id": 15,
+        "question": "The claims process is very practical, but is there any way to make it even faster?",
+        "correct_sentiment": "positive"
+    },
+    {
+        "id": 16,
+        "question": "I found the dental plan very complete, but is there any promotion for extra treatments?",
+        "correct_sentiment": "positive"
+    },
+    {
+        "id": 17,
+        "question": "My pension plan seems stable and safe, are there any recommendations for optimization?",
+        "correct_sentiment": "positive"
+    },
+    {
+        "id": 18,
+        "question": "The savings bond was a good choice, is there any additional benefit for loyal investors?",
+        "correct_sentiment": "positive"
+    },
+    {
+        "id": 19,
+        "question": "The service was good, but is there a way to reduce the waiting time in the affiliated clinics?",
+        "correct_sentiment": "positive"
+    },
+    {
+        "id": 20,
+        "question": "If I have a joint account, are my spouse and I included in the insurance coverage?",
+        "correct_sentiment": "neutral"
+    },
+    {
+        "id": 21,
+        "question": "What is the validity period of Bradesco home insurance?",
+        "correct_sentiment": "neutral"
+    },
+    {
+        "id": 22,
+        "question": "What is the procedure in case of death of the holder of the title?",
+        "correct_sentiment": "neutral"
+    },
+    {
+        "id": 23,
+        "question": "Does Home Insurance include coverage for damage caused by domestic employees or pets?",
+        "correct_sentiment": "neutral"
+    },
+    {
+        "id": 24,
+        "question": "If I migrate to a new account segment, will the insurance still be active?",
+        "correct_sentiment": "neutral"
+    },
+    {
+        "id": 25,
+        "question": "How can I hire a Bradesco Dental plan, and what are the differences between the modalities offered?",
+        "correct_sentiment": "neutral"
+    },
+    {
+        "id": 26,
+        "question": "What are the maximum severance amounts for different account segments?",
+        "correct_sentiment": "neutral"
+    },
+    {
+        "id": 27,
+        "question": "What is a claim in the context of business insurance and how does the claim process work?",
+        "correct_sentiment": "neutral"
+    },
+    {
+        "id": 28,
+        "question": "What should I do if my car is stolen or has an accident?",
+        "correct_sentiment": "neutral"
+    },
+    {
+        "id": 29,
+        "question": "What are the main coverages of Bradesco Business Insurance and how do they apply to different types of businesses?",
+        "correct_sentiment": "neutral"
+    },
+    {
+        "id": 30,
+        "question": "How can I customize my business insurance with optional coverages, and what are the implications of these choices?",
+        "correct_sentiment": "neutral"
+    },
+    {
+        "id": 31,
+        "question": "What is the difference between PGBL and VGBL, and how do I choose the best one for my tax situation?",
+        "correct_sentiment": "neutral"
+    },
+    {
+        "id": 32,
+        "question": "What protections does insurance provide against fire, lightning strikes, and other natural events?",
+        "correct_sentiment": "neutral"
+    },
+    {
+        "id": 33,
+        "question": "What is the importance of liability coverage in business insurance and how does it apply to specific cases?",
+        "correct_sentiment": "neutral"
+    },
+    {
+        "id": 34,
+        "question": "Who should hire condominium insurance and what are the responsibilities of the manager in this process?",
+        "correct_sentiment": "neutral"
+    },
+    {
+        "id": 35,
+        "question": "How do I cancel my policy and get reimbursed?",
+        "correct_sentiment": "neutral"
+    },
+    {
+        "id": 36,
+        "question": "Can I use my Livelo points to pay for car insurance?",
+        "correct_sentiment": "neutral"
+    },
+    {
+        "id": 37,
+        "question": "What is Life Insurance and what benefits does it offer to the insured and their family?",
+        "correct_sentiment": "neutral"
+    },
+    {
+        "id": 38,
+        "question": "What do I need to know before canceling my Bradesco dental plan?",
+        "correct_sentiment": "neutral"
+    },
+    {
+        "id": 39,
+        "question": "What does the Cyber Assistance service include in Digital Protection Insurance?",
+        "correct_sentiment": "neutral"
+    },
+    {
+        "id": 40,
+        "question": "What is the Schengen letter and how can I apply for it in Bradesco Travel Insurance?",
+        "correct_sentiment": "neutral"
+    },
+    {
+        "id": 41,
+        "question": "What are the benefits and limitations of Bradesco dental plans?",
+        "correct_sentiment": "neutral"
+    },
+    {
+        "id": 42,
+        "question": "Can I participate in sweepstakes with my savings bond?",
+        "correct_sentiment": "neutral"
+    },
+    {
+        "id": 43,
+        "question": "What is the basic coverage offered by the Bradesco dental plan, and how can I check my specific coverage?",
+        "correct_sentiment": "neutral"
+    },
+    {
+        "id": 44,
+        "question": "How can I access my home insurance policy?",
+        "correct_sentiment": "neutral"
+    },
+    {
+        "id": 45,
+        "question": "How can I contact you for more information about taking out Life Insurance?",
+        "correct_sentiment": "neutral"
+    },
+    {
+        "id": 46,
+        "question": "How does Business Assistance work and what services are included? Are there any additional limits or costs?",
+        "correct_sentiment": "neutral"
+    },
+    {
+        "id": 47,
+        "question": "What is the difference between traditional Life Insurance and Lender Life Insurance, and in which situations is each more suitable?",
+        "correct_sentiment": "neutral"
+    },
+    {
+        "id": 48,
+        "question": "Is there a report of income from savings bonds? How can I access it",
+        "correct_sentiment": "neutral"
+    },
+    {
+        "id": 49,
+        "question": "How do I take out Bradesco car insurance?",
+        "correct_sentiment": "neutral"
+    }
+]

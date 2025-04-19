@@ -1,0 +1,370 @@
+[
+    {
+        "id": 0,
+        "chat_history": "The attendant was polite, but did not solve my problem with life insurance.",
+        "correct_categories": [
+            "Agent Performance"
+        ]
+    },
+    {
+        "id": 1,
+        "chat_history": "The attendant seemed lost and it took him a long time to find the information about my home insurance.",
+        "correct_categories": [
+            "Agent Performance",
+            "Response Time"
+        ]
+    },
+    {
+        "id": 2,
+        "chat_history": "I received mixed answers from the attendant about the conditions of the health insurance.",
+        "correct_categories": [
+            "Agent Performance"
+        ]
+    },
+    {
+        "id": 3,
+        "chat_history": "The telephone service was rude and unprofessional.",
+        "correct_categories": [
+            "Agent Performance"
+        ]
+    },
+    {
+        "id": 4,
+        "chat_history": "I waited more than 30 minutes to get an answer about auto insurance.",
+        "correct_categories": [
+            "Response Time"
+        ]
+    },
+    {
+        "id": 5,
+        "chat_history": "The response about the claim took so long that I had to look for another service.",
+        "correct_categories": [
+            "Response Time",
+            "Claims Processing Issue"
+        ]
+    },
+    {
+        "id": 6,
+        "chat_history": "It took me days to be able to activate the home insurance.",
+        "correct_categories": [
+            "Response Time",
+            "Claims Processing Issue"
+        ]
+    },
+    {
+        "id": 7,
+        "chat_history": "The online system is slow, making it difficult to consult the policies. I spent a lot of time sailing.",
+        "correct_categories": [
+            "Response Time",
+            "Usability Issue"
+        ]
+    },
+    {
+        "id": 8,
+        "chat_history": "The site crashed several times while trying to simulate life insurance.",
+        "correct_categories": [
+            "Usability Issue",
+            "System Error"
+        ]
+    },
+    {
+        "id": 9,
+        "chat_history": "The app's interface is confusing, making it difficult to search for information about dental insurance.",
+        "correct_categories": [
+            "Usability Issue"
+        ]
+    },
+    {
+        "id": 10,
+        "chat_history": "I was unable to access my auto insurance policy through the app due to navigation issues.",
+        "correct_categories": [
+            "Usability Issue"
+        ]
+    },
+    {
+        "id": 11,
+        "chat_history": "The website menu does not work properly on mobile.",
+        "correct_categories": [
+            "Usability Issue"
+        ]
+    },
+    {
+        "id": 12,
+        "chat_history": "The site does not support screen readers, making it difficult for people with visual impairments to use them.",
+        "correct_categories": [
+            "Accessibility Issue"
+        ]
+    },
+    {
+        "id": 13,
+        "chat_history": "The app does not allow you to adjust the size of the text, making it difficult to read for those with low vision.",
+        "correct_categories": [
+            "Accessibility Issue",
+            "Usability Issue"
+        ]
+    },
+    {
+        "id": 14,
+        "chat_history": "There are no subtitles in the explanatory videos about health insurance on the website.",
+        "correct_categories": [
+            "Accessibility Issue"
+        ]
+    },
+    {
+        "id": 15,
+        "chat_history": "Keyboard navigation on the portal is limited, making it impossible to access policy information.",
+        "correct_categories": [
+            "Accessibility Issue"
+        ]
+    },
+    {
+        "id": 16,
+        "chat_history": "My auto insurance policy contains incorrect information and I was unable to correct it through the system.",
+        "correct_categories": [
+            "Insurance Policy Issue",
+            "System Error"
+        ]
+    },
+    {
+        "id": 17,
+        "chat_history": "The home insurance policy was canceled without notice.",
+        "correct_categories": [
+            "Insurance Policy Issue"
+        ]
+    },
+    {
+        "id": 18,
+        "chat_history": "I'm having problems with my health insurance contract. I was unable to obtain the policy by email, even after several attempts and a lot of time spent.",
+        "correct_categories": [
+            "Insurance Policy Issue",
+            "Response Time"
+        ]
+    },
+    {
+        "id": 19,
+        "chat_history": "The conditions of the life insurance contract are not clear in the policy submitted.",
+        "correct_categories": [
+            "Insurance Policy Issue"
+        ]
+    },
+    {
+        "id": 20,
+        "chat_history": "My claim claim for home insurance has been pending for over a month.",
+        "correct_categories": [
+            "Claims Processing Issue",
+            "Response Time"
+        ]
+    },
+    {
+        "id": 21,
+        "chat_history": "The system rejected my auto insurance claim claim without proper explanation.",
+        "correct_categories": [
+            "Claims Processing Issue"
+        ]
+    },
+    {
+        "id": 22,
+        "chat_history": "The claim documentation has been submitted correctly, but the health insurance has not yet reimbursed you.",
+        "correct_categories": [
+            "Claims Processing Issue"
+        ]
+    },
+    {
+        "id": 23,
+        "chat_history": "The service in relation to an accident was very bad, and I did not receive guidance on the next step.",
+        "correct_categories": [
+            "Claims Processing Issue",
+            "Agent Performance"
+        ]
+    },
+    {
+        "id": 24,
+        "chat_history": "I was charged an extra fee on my car insurance without explanation.",
+        "correct_categories": [
+            "Payment or Billing Issue"
+        ]
+    },
+    {
+        "id": 25,
+        "chat_history": "My life insurance payment was not recognized, and the policy was suspended.",
+        "correct_categories": [
+            "Payment or Billing Issue",
+            "Insurance Policy Issue"
+        ]
+    },
+    {
+        "id": 26,
+        "chat_history": "The system does not allow you to register a credit card for the payment of home insurance.",
+        "correct_categories": [
+            "Payment or Billing Issue"
+        ]
+    },
+    {
+        "id": 27,
+        "chat_history": "I received duplicate billing notifications on health insurance, causing confusion.",
+        "correct_categories": [
+            "Payment or Billing Issue"
+        ]
+    },
+    {
+        "id": 28,
+        "chat_history": "The system crashes every time I try to access my auto insurance policy.",
+        "correct_categories": [
+            "System Error",
+            "Insurance Policy Issue"
+        ]
+    },
+    {
+        "id": 29,
+        "chat_history": "I can't attach documents to the health insurance claim due to an error.",
+        "correct_categories": [
+            "System Error",
+            "Claims Processing Issue"
+        ]
+    },
+    {
+        "id": 30,
+        "chat_history": "When trying to renew dental insurance, the website displays an unknown error message.",
+        "correct_categories": [
+            "System Error"
+        ]
+    },
+    {
+        "id": 31,
+        "chat_history": "I can't afford my home insurance. The payment page does not load in the browser.",
+        "correct_categories": [
+            "System Error",
+            "Payment or Billing Issue"
+        ]
+    },
+    {
+        "id": 32,
+        "chat_history": "I would like to add theft coverage to my auto insurance, but I didn't find this option in the app.",
+        "correct_categories": [
+            "Resource Request"
+        ]
+    },
+    {
+        "id": 33,
+        "chat_history": "Could you include a feature to track the status of reimbursement in health insurance?",
+        "correct_categories": [
+            "Resource Request"
+        ]
+    },
+    {
+        "id": 34,
+        "chat_history": "I suggest a more accessible app with more tools to manage life insurance.",
+        "correct_categories": [
+            "Resource Request",
+            "Accessibility Issue"
+        ]
+    },
+    {
+        "id": 35,
+        "chat_history": "It would be helpful to have an option on the website to prepay for home insurance.",
+        "correct_categories": [
+            "Resource Request"
+        ]
+    },
+    {
+        "id": 36,
+        "chat_history": "It would be better if customer service was faster in analyzing claims.",
+        "correct_categories": [
+            "Improvement Suggestion in Process",
+            "Response Time"
+        ]
+    },
+    {
+        "id": 37,
+        "chat_history": "I suggest a more transparent process for reviewing health insurance policies.",
+        "correct_categories": [
+            "Improvement Suggestion in Process",
+            "Insurance Policy Issue"
+        ]
+    },
+    {
+        "id": 38,
+        "chat_history": "The auto insurance renewal process could be automated to make it easier.",
+        "correct_categories": [
+            "Improvement Suggestion in Process"
+        ]
+    },
+    {
+        "id": 39,
+        "chat_history": "I recommend simplifying the submission of documents for claims in home insurance. As it stands, it sucks.",
+        "correct_categories": [
+            "Improvement Suggestion in Process",
+            "Claims Processing Issue"
+        ]
+    },
+    {
+        "id": 40,
+        "chat_history": "The service was excellent and my question about auto insurance was quickly resolved.",
+        "correct_categories": [
+            "Positive Experience"
+        ]
+    },
+    {
+        "id": 41,
+        "chat_history": "I am very satisfied with the support offered for my life insurance.",
+        "correct_categories": [
+            "Positive Experience"
+        ]
+    },
+    {
+        "id": 42,
+        "chat_history": "The platform to access health insurance is easy to use and very intuitive.",
+        "correct_categories": [
+            "Positive Experience"
+        ]
+    },
+    {
+        "id": 43,
+        "chat_history": "I was impressed with the speed in approving the home insurance claim.",
+        "correct_categories": [
+            "Positive Experience"
+        ]
+    },
+    {
+        "id": 44,
+        "chat_history": "I had a question about my capitalization insurance, but I haven't tried to contact customer service yet.",
+        "correct_categories": [
+            "Diverse Feedback"
+        ]
+    },
+    {
+        "id": 45,
+        "chat_history": "My experience was reasonably good.",
+        "correct_categories": [
+            "Diverse Feedback"
+        ]
+    },
+    {
+        "id": 46,
+        "chat_history": "I had a neutral experience with home insurance, nothing to report.",
+        "correct_categories": [
+            "Diverse Feedback"
+        ]
+    },
+    {
+        "id": 47,
+        "chat_history": "I would like to better understand how dental insurance coverage works.",
+        "correct_categories": [
+            "General Inquiry"
+        ]
+    },
+    {
+        "id": 48,
+        "chat_history": "What are the coverages included in basic life insurance?",
+        "correct_categories": [
+            "General Inquiry"
+        ]
+    },
+    {
+        "id": 49,
+        "chat_history": "I would like to know how to change the beneficiary in my health insurance.",
+        "correct_categories": [
+            "General Inquiry"
+        ]
+    }
+]

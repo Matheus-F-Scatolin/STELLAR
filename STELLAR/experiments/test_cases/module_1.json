@@ -1,0 +1,627 @@
+[
+    {
+        "question": "Car insurance: What should I do in case of an accident?",
+        "category": "0",
+        "id": 0
+    },
+    {
+        "question": "What is the advantage of using the Fipe Table?",
+        "category": "0",
+        "id": 1
+    },
+    {
+        "question": "Car insurance: In the event of an accident, can I take the vehicle to a workshop I trust?",
+        "category": "0",
+        "id": 2
+    },
+    {
+        "question": "My life insurance payment is pending, but I can no longer view my points. Have they been rescued yet?",
+        "category": "0",
+        "id": 3
+    },
+    {
+        "question": "Capitalization: How do I cancel my savings bond?",
+        "category": "0",
+        "id": 4
+    },
+    {
+        "question": "If I change the segment of my account, is the insurance still valid?",
+        "category": "0",
+        "id": 5
+    },
+    {
+        "question": "Capitalization: Is there a minimum monthly contribution amount?",
+        "category": "0",
+        "id": 6
+    },
+    {
+        "question": "Capitalization: How to redeem my savings bond?",
+        "category": "0",
+        "id": 7
+    },
+    {
+        "question": "Home insurance: What are all the coverages available in Home Insurance?",
+        "category": "0",
+        "id": 8
+    },
+    {
+        "question": "I live in a rented residence, who receives the compensation is the owner or the tenant?",
+        "category": "0",
+        "id": 9
+    },
+    {
+        "question": "Home insurance: How does Home Insurance work?",
+        "category": "0",
+        "id": 10
+    },
+    {
+        "question": "Home Insurance: What does Home Insurance not cover?",
+        "category": "0",
+        "id": 11
+    },
+    {
+        "question": "How does temporary housing coverage work?",
+        "category": "0",
+        "id": 12
+    },
+    {
+        "question": "Dental insurance: How to hire a Bradesco dental plan?",
+        "category": "0",
+        "id": 13
+    },
+    {
+        "question": "Dental insurance: What are the most suitable dental plans for my family?",
+        "category": "0",
+        "id": 14
+    },
+    {
+        "question": "Dental insurance: Which Bradesco Dental plan covers implants?",
+        "category": "0",
+        "id": 15
+    },
+    {
+        "question": "Business insurance: What are the coverages available at Bradesco Business Insurance?",
+        "category": "0",
+        "id": 16
+    },
+    {
+        "question": "Can I take out Home Insurance for a beach, summer or vacation home?",
+        "category": "0",
+        "id": 17
+    },
+    {
+        "question": "Business Insurance: What are the optional (accessory) coverages of Business Insurance?",
+        "category": "0",
+        "id": 18
+    },
+    {
+        "question": "Business insurance: What is basic coverage?",
+        "category": "0",
+        "id": 19
+    },
+    {
+        "question": "How do I cancel my Bradesco dental plan?",
+        "category": "0",
+        "id": 20
+    },
+    {
+        "question": "Private Pension: How does Private Pension Work?",
+        "category": "0",
+        "id": 21
+    },
+    {
+        "question": "Private pension: What is Fixed Income?",
+        "category": "0",
+        "id": 22
+    },
+    {
+        "question": "Private pension: What is Variable Income?",
+        "category": "0",
+        "id": 23
+    },
+    {
+        "question": "Life Insurance: What is Life Insurance?",
+        "category": "0",
+        "id": 24
+    },
+    {
+        "question": "How does the Bradesco dental plan work?",
+        "category": "0",
+        "id": 25
+    },
+    {
+        "question": "Life Insurance: How does Life Insurance work?",
+        "category": "0",
+        "id": 26
+    },
+    {
+        "question": "Life insurance: How to take out Life Insurance?",
+        "category": "0",
+        "id": 27
+    },
+    {
+        "question": "Condominium insurance: Who should hire condominium insurance?",
+        "category": "0",
+        "id": 28
+    },
+    {
+        "question": "What services are included in Business Assistance? Are they charged?",
+        "category": "0",
+        "id": 29
+    },
+    {
+        "question": "Condominium insurance: How does contracting work?",
+        "category": "0",
+        "id": 30
+    },
+    {
+        "question": "Condominium insurance: What are the payment terms and benefits?",
+        "category": "0",
+        "id": 31
+    },
+    {
+        "question": "Travel insurance: How does Bradesco Travel Insurance work?",
+        "category": "0",
+        "id": 32
+    },
+    {
+        "question": " What is Lender Life Insurance?",
+        "category": "0",
+        "id": 33
+    },
+    {
+        "question": "Travel insurance: Who can hire?",
+        "category": "0",
+        "id": 34
+    },
+    {
+        "question": "Travel insurance: When do Bradesco Travel Insurance protections come into effect?",
+        "category": "0",
+        "id": 35
+    },
+    {
+        "question": "Digital insurance: Is Digital Protection Insurance just insurance for pix?",
+        "category": "0",
+        "id": 36
+    },
+    {
+        "question": "What is the difference between 'coverage' and 'assistance'?",
+        "category": "0",
+        "id": 37
+    },
+    {
+        "question": "Digital insurance: If my account is joint, will my dependent and I be insured?",
+        "category": "0",
+        "id": 38
+    },
+    {
+        "question": "Digital insurance: If I change the segment of my account, is the insurance still valid?",
+        "category": "0",
+        "id": 39
+    },
+    {
+        "question": "Equipment insurance: Is there equipment that cannot be insured?",
+        "category": "0",
+        "id": 40
+    },
+    {
+        "question": "How long is Bradesco Travel Insurance valid for?",
+        "category": "0",
+        "id": 41
+    },
+    {
+        "question": "Equipment insurance: How to change policy data (insurance contract) and other insurance features?",
+        "category": "0",
+        "id": 42
+    },
+    {
+        "question": "Equipment insurance: Are there situations or accidents that are not covered by insurance?",
+        "category": "0",
+        "id": 43
+    },
+    {
+        "question": "Home insurance coverage: How do I know my coverage and assistance?",
+        "category": "0",
+        "id": 44
+    },
+    {
+        "question": "Where can I find the protections available in my Bradesco Travel Insurance?",
+        "category": "0",
+        "id": 45
+    },
+    {
+        "question": "Home insurance coverage: I need to call assistance, can I do it using the app?",
+        "category": "0",
+        "id": 46
+    },
+    {
+        "question": "Home insurance coverage: How do I include more coverage and assistance?",
+        "category": "0",
+        "id": 47
+    },
+    {
+        "question": "Are the prizes of the draws taxed by Income Tax?",
+        "category": "0",
+        "id": 48
+    },
+    {
+        "question": "Are there any limits to the use of Residential Assistance?",
+        "category": "0",
+        "id": 49
+    },
+    {
+        "question": "Where can I find information about the price of condominium insurance?",
+        "category": "0",
+        "id": 50
+    },
+    {
+        "question": "Where can I get a copy of my travel insurance policy?",
+        "category": "0",
+        "id": 51
+    },
+    {
+        "question": "Where can I update my data in business insurance?",
+        "category": "0",
+        "id": 52
+    },
+    {
+        "question": "How do I check the conditions of my auto insurance?",
+        "category": "0",
+        "id": 53
+    },
+    {
+        "question": "I would like to know the complete coverage of my home insurance.",
+        "category": "0",
+        "id": 54
+    },
+    {
+        "question": "How do I get a duplicate of my life insurance policy?",
+        "category": "0",
+        "id": 55
+    },
+    {
+        "question": "What is the deadline for renewing digital insurance?",
+        "category": "0",
+        "id": 56
+    },
+    {
+        "question": "Where can I find the details of dental insurance benefits?",
+        "category": "0",
+        "id": 57
+    },
+    {
+        "question": "Where can I update my private pension plan?",
+        "category": "0",
+        "id": 58
+    },
+    {
+        "question": "What is the process for getting extra home assistance from home insurance?",
+        "category": "0",
+        "id": 59
+    },
+    {
+        "question": "How do I check my balance in the savings bond?",
+        "category": "0",
+        "id": 60
+    },
+    {
+        "question": "Please let me know about the dental insurance plans available.",
+        "category": "0",
+        "id": 61
+    },
+    {
+        "question": "I need to know the validity of my travel insurance policy.",
+        "category": "0",
+        "id": 62
+    },
+    {
+        "question": "What is the procedure for requesting a home insurance quote?",
+        "category": "0",
+        "id": 63
+    },
+    {
+        "question": "Where can I learn more about the clauses of my auto insurance?",
+        "category": "0",
+        "id": 64
+    },
+    {
+        "question": "What is the phone number to activate residential assistance?",
+        "category": "1",
+        "id": 65
+    },
+    {
+        "question": "I would like to know the contact number to contract a basic life insurance plan.",
+        "category": "1",
+        "id": 66
+    },
+    {
+        "question": "Who can I contact to renew business insurance?",
+        "category": "1",
+        "id": 67
+    },
+    {
+        "question": "What is the contact number for dental insurance?",
+        "category": "1",
+        "id": 68
+    },
+    {
+        "question": "Who should I contact for travel insurance reimbursement?",
+        "category": "1",
+        "id": 69
+    },
+    {
+        "question": "I would like to call someone to explain to me the available options and prices of the life insurance plans.",
+        "category": "1",
+        "id": 70
+    },
+    {
+        "question": "What is the e-mail for questions about equipment insurance?",
+        "category": "1",
+        "id": 71
+    },
+    {
+        "question": "What is the phone number to activate life insurance in the event of a claim?",
+        "category": "1",
+        "id": 72
+    },
+    {
+        "question": "What is the contact number for business insurance questions?",
+        "category": "1",
+        "id": 73
+    },
+    {
+        "question": "Which phone to call if there is a problem with the car?",
+        "category": "1",
+        "id": 74
+    },
+    {
+        "question": "My home insurance does not cover a claim I had. I want to talk to an attendant.",
+        "category": "2",
+        "id": 75
+    },
+    {
+        "question": "My trip is about to start and I can't activate the travel insurance! I want help now.",
+        "category": "2",
+        "id": 76
+    },
+    {
+        "question": "I crashed my car and I am without assistance on site. Connect me with an attendant.",
+        "category": "2",
+        "id": 77
+    },
+    {
+        "question": "I am facing difficulties redeeming my private pension plan and I need to talk to an attendant immediately.",
+        "category": "2",
+        "id": 78
+    },
+    {
+        "question": "My store was robbed and I urgently need to talk about business insurance.",
+        "category": "2",
+        "id": 79
+    },
+    {
+        "question": "My house is being flooded! I need assistance right now.",
+        "category": "2",
+        "id": 80
+    },
+    {
+        "question": "My car was stolen and I have no contact with insurance. I need to talk to someone now.",
+        "category": "2",
+        "id": 81
+    },
+    {
+        "question": "I want to cancel my business insurance and I need the help of an attendant.",
+        "category": "2",
+        "id": 82
+    },
+    {
+        "question": "I need urgent assistance for a claim in my condo.",
+        "category": "2",
+        "id": 83
+    },
+    {
+        "question": "I am having trouble using the assistance of my auto insurance. I need help now.",
+        "category": "2",
+        "id": 84
+    },
+    {
+        "question": "My insurance payment has not been processed. I want to talk to an attendant right away.",
+        "category": "2",
+        "id": 85
+    },
+    {
+        "question": "My company was in an accident and I need insurance coverage. I want urgent assistance.",
+        "category": "2",
+        "id": 86
+    },
+    {
+        "question": "I'm traveling and can't access my travel insurance policy. I need urgent help.",
+        "category": "2",
+        "id": 87
+    },
+    {
+        "question": "I need immediate assistance to resolve an issue with my home insurance.",
+        "category": "2",
+        "id": 88
+    },
+    {
+        "question": "My dental insurance is inactive and I need help urgently.",
+        "category": "2",
+        "id": 89
+    },
+    {
+        "question": "I can't access my capitalization insurance portal. I want to talk to an attendant.",
+        "category": "2",
+        "id": 90
+    },
+    {
+        "question": "My auto insurance policy has been suspended and I need urgent assistance.",
+        "category": "2",
+        "id": 91
+    },
+    {
+        "question": "I had an accident in my condominium and I need to talk to an attendant immediately.",
+        "category": "2",
+        "id": 92
+    },
+    {
+        "question": "I'm having trouble renewing my private pension. I need urgent help.",
+        "category": "2",
+        "id": 93
+    },
+    {
+        "question": "I want to resolve an outstanding issue with my life insurance. Connect me with an attendant.",
+        "category": "2",
+        "id": 94
+    },
+    {
+        "question": "I'm having trouble paying for my home insurance. I need help now.",
+        "category": "2",
+        "id": 95
+    },
+    {
+        "question": "My travel insurance coverage has been denied and I need to speak to someone urgently.",
+        "category": "2",
+        "id": 96
+    },
+    {
+        "question": "I am unable to use my business insurance benefits. I need immediate help.",
+        "category": "2",
+        "id": 97
+    },
+    {
+        "question": "I want to solve a critical problem with my savings bond. Connect me with an attendant.",
+        "category": "2",
+        "id": 98
+    },
+    {
+        "question": "My home care coverage is not working. I want to talk to someone now.",
+        "category": "2",
+        "id": 99
+    },
+    {
+        "question": "What is the capital of France?",
+        "category": "3",
+        "id": 101
+    },
+    {
+        "question": "How does photosynthesis work?",
+        "category": "3",
+        "id": 102
+    },
+    {
+        "question": "How many continents are there in the world?",
+        "category": "3",
+        "id": 103
+    },
+    {
+        "question": "What is the best movie of 2024?",
+        "category": "3",
+        "id": 104
+    },
+    {
+        "question": "What is artificial intelligence?",
+        "category": "3",
+        "id": 105
+    },
+    {
+        "question": "How can I improve my daily productivity?",
+        "category": "3",
+        "id": 106
+    },
+    {
+        "question": "What is the recipe for a chocolate cake?",
+        "category": "3",
+        "id": 107
+    },
+    {
+        "question": "How to learn to play the guitar on your own?",
+        "category": "3",
+        "id": 108
+    },
+    {
+        "question": "What is quantum physics in simple form?",
+        "category": "3",
+        "id": 109
+    },
+    {
+        "question": "How does an internal combustion engine work?",
+        "category": "3",
+        "id": 110
+    },
+    {
+        "question": "What are the main causes of climate change?",
+        "category": "3",
+        "id": 111
+    },
+    {
+        "question": "What is the difference between Python and Java languages?",
+        "category": "3",
+        "id": 112
+    },
+    {
+        "question": "What should I know about space travel?",
+        "category": "3",
+        "id": 113
+    },
+    {
+        "question": "How can I save energy at home?",
+        "category": "3",
+        "id": 114
+    },
+    {
+        "question": "What is the most influential book of the twentieth century?",
+        "category": "3",
+        "id": 115
+    },
+    {
+        "question": "How is a self-taught artist formed?",
+        "category": "3",
+        "id": 116
+    },
+    {
+        "question": "What is the true meaning of life?",
+        "category": "3",
+        "id": 117
+    },
+    {
+        "question": "How to solve a Rubik's Cube efficiently?",
+        "category": "3",
+        "id": 118
+    },
+    {
+        "question": "What are the benefits of daily meditation?",
+        "category": "3",
+        "id": 119
+    },
+    {
+        "question": "How to assemble a computer step by step?",
+        "category": "3",
+        "id": 120
+    },
+    {
+        "question": "What causes global warming?",
+        "category": "3",
+        "id": 121
+    },
+    {
+        "question": "How does blockchain technology work?",
+        "category": "3",
+        "id": 122
+    },
+    {
+        "question": "What is the most recommended sport for health?",
+        "category": "3",
+        "id": 123
+    },
+    {
+        "question": "What should I know to start gardening?",
+        "category": "3",
+        "id": 124
+    },
+    {
+        "question": "What is the origin of the universe?",
+        "category": "3",
+        "id": 125
+    }
+]

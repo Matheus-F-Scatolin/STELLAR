@@ -1,0 +1,830 @@
+[
+    {
+        "test_id": 0,
+        "category": "auto_insurance",
+        "question": "I need to pay the deductible on my car insurance. Can I do this with Livelo points?",
+        "correct_FAQs_ids": [
+            13
+            ]
+    },
+    {
+        "test_id": 1,
+        "category": "auto_insurance",
+        "question": "What should I do if my car is stolen or has an accident?",
+        "correct_FAQs_ids": [
+            1
+        ]
+    },
+    {
+        "test_id": 2,
+        "category": "auto_insurance",
+        "question": "Can I use a workshop I trust for repair after an accident?",
+        "correct_FAQs_ids": [
+            2
+        ]
+    },
+    {
+        "test_id": 3,
+        "category": "auto_insurance",
+        "question": "What is the amount of compensation in case of total loss?",
+        "correct_FAQs_ids": [
+            3
+        ]
+    },
+    {
+        "test_id": 4,
+        "category": "auto_insurance",
+        "question": "What is the importance of using the Fipe Table in insurance?",
+        "correct_FAQs_ids": [
+            4,
+            5
+        ]
+    },
+    {
+        "test_id": 5,
+        "category": "auto_insurance",
+        "question": "Can I use my Livelo points to pay for car insurance?",
+        "correct_FAQs_ids": [
+            6,
+            7
+        ]
+    },
+    {
+        "test_id": 6,
+        "category": "auto_insurance",
+        "question": "How do I cancel my policy and get reimbursed?",
+        "correct_FAQs_ids": [
+            18
+        ]
+    },
+    {
+        "test_id": 7,
+        "category": "auto_insurance",
+        "question": "Can I make more than one order with Livelo points?",
+        "correct_FAQs_ids": [
+            11
+            ]
+    },
+    {
+        "test_id": 8,
+        "category": "auto_insurance",
+        "question": "Can I use a combination of Livelo points and another form of payment for insurance?",
+        "correct_FAQs_ids": [
+            12
+        ]
+    },
+    {
+        "test_id": 9,
+        "category": "auto_insurance",
+        "question": "Is there a minimum amount of Livelo points that I need to use for payment?",
+        "correct_FAQs_ids": [
+            14
+        ]
+    },
+    {
+        "test_id": 10,
+        "category": "auto_insurance",
+        "question": "Can I cancel the payment with Livelo points after the request?",
+        "correct_FAQs_ids": [
+            10
+        ]
+    },
+    {
+        "test_id": 11,
+        "category": "auto_insurance",
+        "question": "Do I need to approve car insurance in a specific timeframe?",
+        "correct_FAQs_ids": [
+            9
+        ]
+    },
+    {
+        "test_id": 12,
+        "category": "capitalization",
+        "question": "How can I redeem my savings bond before the deadline?",
+        "correct_FAQs_ids": [
+            21,
+            23
+        ]
+    },
+    {
+        "test_id": 13,
+        "category": "capitalization",
+        "question": "What are the advantages offered by the savings bond?",
+        "correct_FAQs_ids": [
+            22
+        ]
+    },
+    {
+        "test_id": 14,
+        "category": "capitalization",
+        "question": "Can I cancel my savings bond at any time?",
+        "correct_FAQs_ids": [
+            19,
+            23
+        ]
+    },
+    {
+        "test_id": 15,
+        "category": "capitalization",
+        "question": "Is there a minimum amount for contribution in a savings bond?",
+        "correct_FAQs_ids": [
+            20
+        ]
+    },
+    {
+        "test_id": 16,
+        "category": "capitalization",
+        "question": "What is the procedure in case of death of the holder of the title?",
+        "correct_FAQs_ids": [
+            24
+        ]
+    },
+    {
+        "test_id": 17,
+        "category": "capitalization",
+        "question": "Are the raffle prizes of my bond taxed by Income Tax?",
+        "correct_FAQs_ids": [
+            25
+        ]
+    },
+    {
+        "test_id": 18,
+        "category": "capitalization",
+        "question": "Is there a report of income from savings bonds? How can I access it",
+        "correct_FAQs_ids": [
+            26
+        ]
+    },
+    {
+        "test_id": 19,
+        "category": "capitalization",
+        "question": "Is it possible to cancel a savings bond?",
+        "correct_FAQs_ids": [
+            19
+            ]
+    },
+    {
+        "test_id": 20,
+        "category": "capitalization",
+        "question": "What are the benefits of the Bradesco Seguros Advantage Club for those who have a savings bond?",
+        "correct_FAQs_ids": [
+            22
+        ]
+    },
+    {
+        "test_id": 21,
+        "category": "capitalization",
+        "question": "Can I participate in sweepstakes with my savings bond?",
+        "correct_FAQs_ids": [
+            22
+        ]
+    },
+    {
+        "test_id": 22,
+        "category": "capitalization",
+        "question": "Are there any penalties or costs if I redeem my bond before maturity?",
+        "correct_FAQs_ids": [
+            23
+        ]
+    },
+    {
+        "test_id": 23,
+        "category": "capitalization",
+        "question": "I want to purchase a savings bond. Is there a minimum monthly or annual amount?",
+        "correct_FAQs_ids": [
+            20
+            ]
+    },
+    {
+        "test_id": 24,
+        "category": "home_insurance",
+        "question": "What are all the coverages and limitations of Home Insurance?",
+        "correct_FAQs_ids": [
+            27,
+            29
+        ]
+    },
+    {
+        "test_id": 25,
+        "category": "home_insurance",
+        "question": "Can I take out insurance for a vacation home or vacation property? How does this work in relation to home insurance?",
+        "correct_FAQs_ids": [
+            34,
+            28
+        ]
+    },
+    {
+        "test_id": 26,
+        "category": "home_insurance",
+        "question": "Who receives compensation in the event of a claim on a rental property, the landlord or the tenant?",
+        "correct_FAQs_ids": [
+            30
+        ]
+    },
+    {
+        "test_id": 27,
+        "category": "home_insurance",
+        "question": "Does Home Insurance include coverage for damage caused by domestic employees or pets?",
+        "correct_FAQs_ids": [
+            31
+        ]
+    },
+    {
+        "test_id": 28,
+        "category": "home_insurance",
+        "question": "How does the coverage for 'temporary housing' in Home Insurance work?",
+        "correct_FAQs_ids": [
+            32
+        ]
+    },
+    {
+        "test_id": 29,
+        "category": "home_insurance",
+        "question": "Can I take out insurance that covers a home office or a commercial room in my home?",
+        "correct_FAQs_ids": [
+            35
+        ]
+    },
+    {
+        "test_id": 30,
+        "category": "home_insurance",
+        "question": "Is there a limit to the use of residential assistance included in the insurance?",
+        "correct_FAQs_ids": [
+            33
+        ]
+    },
+    {
+        "test_id": 31,
+        "category": "home_insurance",
+        "question": "What are the situations that Home Insurance does not cover?",
+        "correct_FAQs_ids": [
+            29
+        ]
+    },
+    {
+        "test_id": 32,
+        "category": "home_insurance",
+        "question": "What protections does insurance provide against fire, lightning strikes, and other natural events?",
+        "correct_FAQs_ids": [
+            27
+        ]
+    },
+    {
+        "test_id": 33,
+        "category": "home_insurance",
+        "question": "Does the home insurance plan covers the replacement of items damaged by an accident?",
+        "correct_FAQs_ids": [
+            28
+            ]
+    },
+    {
+        "test_id": 34,
+        "category": "dental_insurance",
+        "question": "What are the dental plan options for the whole family and what specialties are covered?",
+        "correct_FAQs_ids": [
+            37,
+            42
+        ]
+    },
+    {
+        "test_id": 35,
+        "category": "dental_insurance",
+        "question": "How can I hire a Bradesco Dental plan, and what are the differences between the modalities offered?",
+        "correct_FAQs_ids": [
+            36,
+            41
+        ]
+    },
+    {
+        "test_id": 36,
+        "category": "dental_insurance",
+        "question": "Do Bradesco dental plans include coverage for implants?",
+        "correct_FAQs_ids": [
+            38
+        ]
+    },
+    {
+        "test_id": 37,
+        "category": "dental_insurance",
+        "question": "How to consult the accredited network of the Bradesco dental plan?",
+        "correct_FAQs_ids": [
+            40
+        ]
+    },
+    {
+        "test_id": 38,
+        "category": "dental_insurance",
+        "question": "Which dental procedures are covered by the Bradesco Dental plan?",
+        "correct_FAQs_ids": [
+            42,
+            41
+        ]
+    },
+    {
+        "test_id": 39,
+        "category": "dental_insurance",
+        "question": "What do I need to know before canceling my Bradesco dental plan?",
+        "correct_FAQs_ids": [
+            39,
+            41
+        ]
+    },
+    {
+        "test_id": 40,
+        "category": "dental_insurance",
+        "question": "What are the benefits and limitations of Bradesco dental plans?",
+        "correct_FAQs_ids": [
+            41,
+            42
+        ]
+    },
+    {
+        "test_id": 41,
+        "category": "dental_insurance",
+        "question": "Is there a specific plan for children? How is it different from adult plans?",
+        "correct_FAQs_ids": [
+            37,
+            41
+        ]
+    },
+    {
+        "test_id": 42,
+        "category": "dental_insurance",
+        "question": "What is the basic coverage offered by the Bradesco dental plan, and how can I check my specific coverage?",
+        "correct_FAQs_ids": [
+            42,
+            40
+        ]
+    },
+    {
+        "test_id": 43,
+        "category": "business_insurance",
+        "question": "What are the main coverages of Bradesco Business Insurance and how do they apply to different types of businesses?",
+        "correct_FAQs_ids": [
+            43,
+            44,
+            45
+        ]
+    },
+    {
+        "test_id": 44,
+        "category": "business_insurance",
+        "question": "How can I customize my business insurance with optional coverages, and what are the implications of these choices?",
+        "correct_FAQs_ids": [
+            44,
+            45
+        ]
+    },
+    {
+        "test_id": 45,
+        "category": "business_insurance",
+        "question": "What is a claim in the context of business insurance and how does the claim process work?",
+        "correct_FAQs_ids": [
+            47,
+            50
+        ]
+    },
+    {
+        "test_id": 46,
+        "category": "business_insurance",
+        "question": "How does Business Assistance work and what services are included? Are there any additional limits or costs?",
+        "correct_FAQs_ids": [
+            48,
+            49
+        ]
+    },
+    {
+        "test_id": 47,
+        "category": "business_insurance",
+        "question": "What are the differences between theft, aggravated theft and simple theft, and how does this impact insurance coverage?",
+        "correct_FAQs_ids": [
+            46,
+            43
+        ]
+    },
+    {
+        "test_id": 48,
+        "category": "business_insurance",
+        "question": "What is the importance of liability coverage in business insurance and how does it apply to specific cases?",
+        "correct_FAQs_ids": [
+            44
+        ]
+    },
+    {
+        "test_id": 49,
+        "category": "business_insurance",
+        "question": "What events are covered by the basic policy and how does this relate to the contracting of optional coverages?",
+        "correct_FAQs_ids": [
+            45,
+            44,
+            43
+        ]
+    },
+    {
+        "test_id": 50,
+        "category": "business_insurance",
+        "question": "How do deductibles work in business insurance and how can I calculate them when activating my insurance?",
+        "correct_FAQs_ids": [
+            50
+        ]
+    },
+    {
+        "test_id": 51,
+        "category": "private_pension",
+        "question": "How does Private Pension work and what are the steps to participate in a plan?",
+        "correct_FAQs_ids": [
+            51
+        ]
+    },
+    {
+        "test_id": 52,
+        "category": "private_pension",
+        "question": "What are the main differences between Fixed Income and Variable Income, and how do they apply to Private Pension?",
+        "correct_FAQs_ids": [
+            52,
+            53
+        ]
+    },
+    {
+        "test_id": 53,
+        "category": "private_pension",
+        "question": "What is the difference between PGBL and VGBL, and how do I choose the best one for my tax situation?",
+        "correct_FAQs_ids": [
+            54
+        ]
+    },
+    {
+        "test_id": 54,
+        "category": "private_pension",
+        "question": "I purchased a bond that has its yield based on inflation. Does it qualify as fixed or variable income?",
+        "correct_FAQs_ids": [
+            52,
+            53
+            ]
+    },
+    {
+        "test_id": 55,
+        "category": "life_insurance",
+        "question": "What is Life Insurance and what benefits does it offer to the insured and their family?",
+        "correct_FAQs_ids": [
+            55,
+            56
+        ]
+    },
+    {
+        "test_id": 56,
+        "category": "life_insurance",
+        "question": "How does Life Insurance work and what coverages can be customized according to the customer's needs?",
+        "correct_FAQs_ids": [
+            56
+        ]
+    },
+    {
+        "test_id": 57,
+        "category": "life_insurance",
+        "question": "What is the difference between traditional Life Insurance and Lender Life Insurance, and in which situations is each more suitable?",
+        "correct_FAQs_ids": [
+            55,
+            56,
+            58
+        ]
+    },
+    {
+        "test_id": 58,
+        "category": "life_insurance",
+        "question": "How can I purchase a Life Insurance plan?",
+        "correct_FAQs_ids": [
+            57
+            ]
+    },
+    {
+        "test_id": 59,
+        "category": "condominium_insurance",
+        "question": "Who should hire condominium insurance and what are the responsibilities of the manager in this process?",
+        "correct_FAQs_ids": [
+            60
+        ]
+    },
+    {
+        "test_id": 60,
+        "category": "condominium_insurance",
+        "question": "How does contracting condominium insurance work and what steps are necessary to ensure adequate protection?",
+        "correct_FAQs_ids": [
+            61
+        ]
+    },
+    {
+        "test_id": 61,
+        "category": "condominium_insurance",
+        "question": "What are the payment terms for condo insurance and what additional benefits are available during the renewal?",
+        "correct_FAQs_ids": [
+            62
+        ]
+    },
+    {
+        "test_id": 62,
+        "category": "condominium_insurance",
+        "question": "What are the coverages available for property of condominium owners, owners and tenants and how can they be customized?",
+        "correct_FAQs_ids": [
+            64
+        ]
+    },
+    {
+        "test_id": 63,
+        "category": "condominium_insurance",
+        "question": "Is it possible to contract a coverage for flooding in my Condominium insurance?",
+        "correct_FAQs_ids": [
+            63]
+    },
+    {
+        "test_id": 64,
+        "category": "travel_insurance",
+        "question": "From what point does Bradesco Travel Insurance start to cover events during the trip?",
+        "correct_FAQs_ids": [
+            68
+        ]
+    },
+    {
+        "test_id": 65,
+        "category": "travel_insurance",
+        "question": "What are the protections offered by Bradesco Travel Insurance in case of lost luggage?",
+        "correct_FAQs_ids": [
+            66,
+            73
+        ]
+    },
+    {
+        "test_id": 66,
+        "category": "travel_insurance",
+        "question": "What is the Schengen letter and how can I apply for it in Bradesco Travel Insurance?",
+        "correct_FAQs_ids": [
+            74
+        ]
+    },
+    {
+        "test_id": 67,
+        "category": "travel_insurance",
+        "question": "How can I pay for Bradesco Travel Insurance?",
+        "correct_FAQs_ids": [
+            69
+        ]
+    },
+    {
+        "test_id": 68,
+        "category": "travel_insurance",
+        "question": "What is the difference between assistance and coverage in Bradesco Travel Insurance?",
+        "correct_FAQs_ids": [
+            70
+        ]
+    },
+    {
+        "test_id": 69,
+        "category": "travel_insurance",
+        "question": "What should I do if I need to cancel my trip?",
+        "correct_FAQs_ids": [
+            75
+        ]
+    },
+    {
+        "test_id": 70,
+        "category": "travel_insurance",
+        "question": "Where can I access my documents and the Travel Insurance certificate?",
+        "correct_FAQs_ids": [
+            75
+        ]
+    },
+    {
+        "test_id": 71,
+        "category": "travel_insurance",
+        "question": "How long coverage can I contract for Bradesco Travel Insurance?",
+        "correct_FAQs_ids": [
+            72
+        ]
+    },
+    {
+        "test_id": 72,
+        "category": "digital_insurance",
+        "question": "Does Digital Protection Insurance only cover Pix transactions?",
+        "correct_FAQs_ids": [
+            78
+        ]
+    },
+    {
+        "test_id": 73,
+        "category": "digital_insurance",
+        "question": "If I have a joint account, are my spouse and I included in the insurance coverage?",
+        "correct_FAQs_ids": [
+            79
+        ]
+    },
+    {
+        "test_id": 74,
+        "category": "digital_insurance",
+        "question": "If I migrate to a new account segment, will the insurance still be active?",
+        "correct_FAQs_ids": [
+            80
+        ]
+    },
+    {
+        "test_id": 75,
+        "category": "digital_insurance",
+        "question": "Does this insurance cover the cell phone device or only the transactions made by it?",
+        "correct_FAQs_ids": [
+            81
+        ]
+    },
+    {
+        "test_id": 76,
+        "category": "digital_insurance",
+        "question": "I'm out of Brazil and I need to activate the insurance. What are the contact options?",
+        "correct_FAQs_ids": [
+            82
+        ]
+    },
+    {
+        "test_id": 77,
+        "category": "digital_insurance",
+        "question": "Do I need to pay any deductible to use Digital Protection Insurance?",
+        "correct_FAQs_ids": [
+            83
+        ]
+    },
+    {
+        "test_id": 78,
+        "category": "digital_insurance",
+        "question": "What is the concept of claim in the context of digital insurance?",
+        "correct_FAQs_ids": [
+            84
+        ]
+    },
+    {
+        "test_id": 79,
+        "category": "digital_insurance",
+        "question": "What are the maximum severance amounts for different account segments?",
+        "correct_FAQs_ids": [
+            85
+        ]
+    },
+    {
+        "test_id": 80,
+        "category": "digital_insurance",
+        "question": "How to cancel Digital Protection Insurance through the application?",
+        "correct_FAQs_ids": [
+            86
+        ]
+    },
+    {
+        "test_id": 81,
+        "category": "digital_insurance",
+        "question": "What does the Cyber Assistance service include in Digital Protection Insurance?",
+        "correct_FAQs_ids": [
+            87
+        ]
+    },
+    {
+        "test_id": 82,
+        "category": "equipment_insurance",
+        "question": "What types of equipment are not accepted for insurance coverage?",
+        "correct_FAQs_ids": [
+            88
+        ]
+    },
+    {
+        "test_id": 83,
+        "category": "equipment_insurance",
+        "question": "How can I update information on my equipment insurance policy?",
+        "correct_FAQs_ids": [
+            89
+        ]
+    },
+    {
+        "test_id": 84,
+        "category": "equipment_insurance",
+        "question": "Are there specific accidents that equipment insurance does not cover?",
+        "correct_FAQs_ids": [
+            90
+        ]
+    },
+    {
+        "test_id": 85,
+        "category": "equipment_insurance",
+        "question": "What is the basic coverage that equipment insurance offers?",
+        "correct_FAQs_ids": [
+            92
+        ]
+    },
+    {
+        "test_id": 86,
+        "category": "equipment_insurance",
+        "question": "If I need to rent other equipment temporarily, does insurance coverage apply?",
+        "correct_FAQs_ids": [
+            93
+        ]
+    },
+    {
+        "test_id": 87,
+        "category": "equipment_insurance",
+        "question": "Where can I find and access all my equipment insurance documents?",
+        "correct_FAQs_ids": [
+            91
+        ]
+    },
+    {
+        "test_id": 88,
+        "category": "equipment_insurance",
+        "question": "Is it possible to take out insurance for equipment from auctions?",
+        "correct_FAQs_ids": [
+            88
+            ]
+    },
+    {
+        "test_id": 89,
+        "category": "equipment_insurance",
+        "question": "If I need to cancel or change my equipment insurance, which service channels should I use?",
+        "correct_FAQs_ids": [
+            89
+        ]
+    },
+    {
+        "test_id": 90,
+        "category": "coverage_home_insurance",
+        "question": "Where can I check the coverage and assistance included in home insurance?",
+        "correct_FAQs_ids": [
+            94
+        ]
+    },
+    {
+        "test_id": 91,
+        "category": "coverage_home_insurance",
+        "question": "What are the steps to request a plumber or locksmith assistance through home insurance?",
+        "correct_FAQs_ids": [
+            95
+        ]
+    },
+    {
+        "test_id": 92,
+        "category": "coverage_home_insurance",
+        "question": "How to add new coverage to home insurance already contracted?",
+        "correct_FAQs_ids": [
+            96
+        ]
+    },
+    {
+        "test_id": 93,
+        "category": "coverage_home_insurance",
+        "question": "How can I access my home insurance policy?",
+        "correct_FAQs_ids": [
+            97
+        ]
+    },
+    {
+        "test_id": 94,
+        "category": "coverage_home_insurance",
+        "question": "What actions should I take in the event of a claim with home insurance?",
+        "correct_FAQs_ids": [
+            98
+        ]
+    },
+    {
+        "test_id": 95,
+        "category": "coverage_home_insurance",
+        "question": "What is the validity period of Bradesco home insurance?",
+        "correct_FAQs_ids": [
+            99
+        ]
+    },
+    {
+        "test_id": 96,
+        "category": "coverage_home_insurance",
+        "question": "What are the channels available to renew my home insurance?",
+        "correct_FAQs_ids": [
+            100
+        ]
+    },
+    {
+        "test_id": 97,
+        "category": "coverage_home_insurance",
+        "question": "Can I change the payment method for home insurance after contracting?",
+        "correct_FAQs_ids": [
+            101
+        ]
+    },
+    {
+        "test_id": 98,
+        "category": "coverage_home_insurance",
+        "question": "What documents and steps are required to request a claim reimbursement in home insurance?",
+        "correct_FAQs_ids": [
+            98
+        ]
+    },
+    {
+        "test_id": 99,
+        "category": "coverage_home_insurance",
+        "question": "What are the main methods to track and manage my home insurance through the Bradesco Seguros app?",
+        "correct_FAQs_ids": [
+            94,
+            95,
+            97
+        ]
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "chat_history": "Hello, my name is Roberto. I'm having trouble renewing my life insurance and I need urgent help!",
+        "correct_name": "Roberto",
+        "correct_insurance_type": 3
+    },
+    {
+        "id": 2,
+        "chat_history": "Good morning, I want information on how to activate home insurance. Where do I find the details?",
+        "correct_name": "null",
+        "correct_insurance_type": 6
+    },
+    {
+        "id": 3,
+        "chat_history": "Hi, I'm Mariana and I would like to know more about pension plans.",
+        "correct_name": "Mariana",
+        "correct_insurance_type": 5
+    },
+    {
+        "id": 4,
+        "chat_history": "I need help with my car insurance. How does renewal work?",
+        "correct_name": "null",
+        "correct_insurance_type": 1
+    },
+    {
+        "id": 5,
+        "chat_history": "My name is Eduardo and I want information about health insurance.",
+        "correct_name": "Eduardo",
+        "correct_insurance_type": 2
+    },
+    {
+        "id": 6,
+        "chat_history": "Please, where can I check the conditions of dental insurance?",
+        "correct_name": "null",
+        "correct_insurance_type": 4
+    },
+    {
+        "id": 7,
+        "chat_history": "I'm Joana and I'd like details about capitalization.",
+        "correct_name": "Joana",
+        "correct_insurance_type": 7
+    },
+    {
+        "id": 8,
+        "chat_history": "How do I talk to an agent about my credit card?",
+        "correct_name": "null",
+        "correct_insurance_type": 8
+    },
+    {
+        "id": 9,
+        "chat_history": "Hi, I'm Marcelo. I need support with my auto insurance, it's giving an error on renewal.",
+        "correct_name": "Marcelo",
+        "correct_insurance_type": 1
+    },
+    {
+        "id": 10,
+        "chat_history": "My name is Ana Paula, and I need help with my life insurance policy.",
+        "correct_name": "Ana Paula",
+        "correct_insurance_type": 3
+    },
+    {
+        "id": 11,
+        "chat_history": "Please, how do I get support about health insurance?",
+        "correct_name": "null",
+        "correct_insurance_type": 2
+    },
+    {
+        "id": 12,
+        "chat_history": "Hello, I'm Rodrigo. I need urgent help to activate home insurance!",
+        "correct_name": "Rodrigo",
+        "correct_insurance_type": 6
+    },
+    {
+        "id": 13,
+        "chat_history": "My name is Fabiana and I have doubts about how capitalization works.",
+        "correct_name": "Fabiana",
+        "correct_insurance_type": 7
+    },
+    {
+        "id": 14,
+        "chat_history": "How can I hire a health insurance plan for my family?",
+        "correct_name": "null",
+        "correct_insurance_type": 2
+    },
+    {
+        "id": 15,
+        "chat_history": "Hi, my name is Lucas. I want to better understand the dental insurance offered.",
+        "correct_name": "Lucas",
+        "correct_insurance_type": 4
+    },
+    {
+        "id": 16,
+        "chat_history": "I need urgent human assistance!",
+        "correct_name": "null",
+        "correct_insurance_type": 0
+    },
+    {
+        "id": 17,
+        "chat_history": "How do I get general support? I don't understand anything about insurance.",
+        "correct_name": "null",
+        "correct_insurance_type": 0
+    },
+    {
+        "id": 18,
+        "chat_history": "I need help, but I don't know what insurance my company has contracted.",
+        "correct_name": "null",
+        "correct_insurance_type": 0
+    },
+    {
+        "id": 19,
+        "chat_history": "Please, I want to talk to someone now, it's very urgent!",
+        "correct_name": "null",
+        "correct_insurance_type": 0
+    },
+    {
+        "id": 20,
+        "chat_history": "Hi, I'm Clara and I'm interested in life insurance information.",
+        "correct_name": "Clara",
+        "correct_insurance_type": 3
+    }
+]
