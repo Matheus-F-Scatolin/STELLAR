@@ -1,0 +1,318 @@
+[
+  {
+    "chat_history": "\n\u001b[32mUser\u001b[0m: I'm José and I would like to know how Bradesco dental insurance works.\n\u001b[36mSystem\u001b[0m: We're looking for an answer to it in the FAQ database.\n\u001b[34mAgent 2\u001b[0m: \u001b[34mRespota: The Bradesco Dental plan works by guaranteeing access to basic dental treatments, such as cleaning and treatment of cavities, with a wide national coverage of more than 27 thousand accredited dentists. It also covers procedures like extraction, root canal, and surgeries performed in the office. You can find more information about the complete coverage of the plan on their portal.\u001b[0m\n\u001b[32mFontes (id das FAQs utilizadas): [41, 42, 40, 36, 38]\u001b[0m\n\u001b[34mAgent 8\u001b[0m: I hope I helped, José! Were you able to understand how Bradesco dental insurance works?\n\u001b[32mUser\u001b[0m: Y\n\u001b[36mSystem\u001b[0m: I'm glad your issue has been resolved! Now, could you please provide us with a quick review to improve our service?",
+    "sequence_of_agents": [
+      1,
+      2,
+      9,
+      8,
+      6
+    ],
+    "final_state": {
+      "classification": 0,
+      "rag_response": "\u001b[34mRespota: The Bradesco Dental plan works by guaranteeing access to basic dental treatments, such as cleaning and treatment of cavities, with a wide national coverage of more than 27 thousand accredited dentists. It also covers procedures like extraction, root canal, and surgeries performed in the office. You can find more information about the complete coverage of the plan on their portal.\u001b[0m\n\u001b[32mFontes (id das FAQs utilizadas): [41, 42, 40, 36, 38]\u001b[0m",
+      "resolution_check_faq_path": true,
+      "general_feedback": {
+        "rating": 4,
+        "follow_up_response": "",
+        "categories": []
+      }
+    },
+    "execution_logs": [
+      {
+        "agent": 1,
+        "execution_time": 0.7021453380584717,
+        "timestamp": "2025-03-05T17:20:48.918251",
+        "response": 0
+      },
+      {
+        "agent": 2,
+        "execution_time": 2.8579084873199463,
+        "timestamp": "2025-03-05T17:20:51.776560",
+        "response": "\u001b[34mRespota: The Bradesco Dental plan works by guaranteeing access to basic dental treatments, such as cleaning and treatment of cavities, with a wide national coverage of more than 27 thousand accredited dentists. It also covers procedures like extraction, root canal, and surgeries performed in the office. You can find more information about the complete coverage of the plan on their portal.\u001b[0m\n\u001b[32mFontes (id das FAQs utilizadas): [41, 42, 40, 36, 38]\u001b[0m"
+      },
+      {
+        "agent": 9,
+        "execution_time": 0.20551514625549316,
+        "timestamp": "2025-03-05T17:20:51.985812",
+        "response": {
+          "compliance": true,
+          "violation": "No violation"
+        }
+      },
+      {
+        "agent": 8,
+        "execution_time": 0.5257086753845215,
+        "timestamp": "2025-03-05T17:20:52.515291",
+        "response": "I hope I helped, José! Were you able to understand how Bradesco dental insurance works?"
+      },
+      {
+        "agent": 6,
+        "execution_time": 8.085609197616577,
+        "timestamp": "2025-03-05T17:21:07.979623",
+        "response": {
+          "rating": 4,
+          "follow_up_response": "",
+          "categories": []
+        }
+      }
+    ]
+  },
+  {
+    "chat_history": "\n\u001b[32mUser\u001b[0m: I'm José and I would like to know how Bradesco dental insurance works.\n\u001b[36mSystem\u001b[0m: We're looking for an answer to it in the FAQ database.\n\u001b[34mAgent 2\u001b[0m: \u001b[34mRespota: The Bradesco Dental plan works by guaranteeing access to basic dental treatments, such as cleaning and treatment of cavities, with a wide national coverage of more than 27 thousand accredited dentists. It also covers procedures like extraction, root canal, and surgeries performed in the office. You can find more information about the complete coverage of the plan on their portal.\u001b[0m\n\u001b[32mFontes (id das FAQs utilizadas): [41, 42, 40, 36, 38]\u001b[0m\n\u001b[34mAgent 8\u001b[0m: I hope I helped, José! Were you able to understand how Bradesco dental insurance works?\n\u001b[32mUser\u001b[0m: N\n\u001b[36mSystem\u001b[0m: It's a shame your issue wasn't resolved. We'll forward you to a human representative.\n\u001b[34mHuman Agent (Pedro)\u001b[0m: Hello José! I'm Pedro, a Bradesco Seguros attendant, and I'm here to help you with your questions about Bradesco dental insurance. I saw that you were trying to understand how our dental plan works, but unfortunately, the previous explanations didn't quite clarify your doubts. I apologize if the information provided didn't fully meet your needs. I'm committed to helping you find the answers you're looking for. Can you tell me what specific aspects of the dental insurance are still unclear to you, so we can work together to find a solution?",
+    "sequence_of_agents": [
+      1,
+      2,
+      9,
+      8,
+      5,
+      4,
+      7,
+      6
+    ],
+    "final_state": {
+      "classification": 0,
+      "rag_response": "\u001b[34mRespota: The Bradesco Dental plan works by guaranteeing access to basic dental treatments, such as cleaning and treatment of cavities, with a wide national coverage of more than 27 thousand accredited dentists. It also covers procedures like extraction, root canal, and surgeries performed in the office. You can find more information about the complete coverage of the plan on their portal.\u001b[0m\n\u001b[32mFontes (id das FAQs utilizadas): [41, 42, 40, 36, 38]\u001b[0m",
+      "resolution_check_faq_path": false,
+      "sentiment": {
+        "positive": 0.057503942400217056,
+        "neutral": 0.8519399762153625,
+        "negative": 0.09055617451667786
+      },
+      "human_attendant_name": "Pedro",
+      "human_attendant_id": 5,
+      "general_feedback": {
+        "rating": 5,
+        "follow_up_response": "",
+        "categories": []
+      }
+    },
+    "execution_logs": [
+      {
+        "agent": 1,
+        "execution_time": 0.7711913585662842,
+        "timestamp": "2025-03-05T17:42:54.907804",
+        "response": 0
+      },
+      {
+        "agent": 2,
+        "execution_time": 2.4428558349609375,
+        "timestamp": "2025-03-05T17:42:57.350803",
+        "response": "\u001b[34mRespota: The Bradesco Dental plan works by guaranteeing access to basic dental treatments, such as cleaning and treatment of cavities, with a wide national coverage of more than 27 thousand accredited dentists. It also covers procedures like extraction, root canal, and surgeries performed in the office. You can find more information about the complete coverage of the plan on their portal.\u001b[0m\n\u001b[32mFontes (id das FAQs utilizadas): [41, 42, 40, 36, 38]\u001b[0m"
+      },
+      {
+        "agent": 9,
+        "execution_time": 0.19454622268676758,
+        "timestamp": "2025-03-05T17:42:57.548330",
+        "response": {
+          "compliance": true,
+          "violation": "No violation"
+        }
+      },
+      {
+        "agent": 8,
+        "execution_time": 0.5517375469207764,
+        "timestamp": "2025-03-05T17:42:58.103868",
+        "response": "I hope I helped, José! Were you able to understand how Bradesco dental insurance works?"
+      },
+      {
+        "agent": 5,
+        "execution_time": 0.8211221694946289,
+        "timestamp": "2025-03-05T17:43:01.556959",
+        "response": {
+          "positive": 0.057503942400217056,
+          "neutral": 0.8519399762153625,
+          "negative": 0.09055617451667786
+        }
+      },
+      {
+        "agent": 4,
+        "execution_time": 1.9876301288604736,
+        "timestamp": "2025-03-05T17:43:03.561740",
+        "response": {
+          "sentiment": {
+            "positive": 0.057503942400217056,
+            "neutral": 0.8519399762153625,
+            "negative": 0.09055617451667786
+          },
+          "chat_history": "\n\u001b[32mUser\u001b[0m: I'm José and I would like to know how Bradesco dental insurance works.\n\u001b[36mSystem\u001b[0m: We're looking for an answer to it in the FAQ database.\n\u001b[34mAgent 2\u001b[0m: \u001b[34mRespota: The Bradesco Dental plan works by guaranteeing access to basic dental treatments, such as cleaning and treatment of cavities, with a wide national coverage of more than 27 thousand accredited dentists. It also covers procedures like extraction, root canal, and surgeries performed in the office. You can find more information about the complete coverage of the plan on their portal.\u001b[0m\n\u001b[32mFontes (id das FAQs utilizadas): [41, 42, 40, 36, 38]\u001b[0m\n\u001b[34mAgent 8\u001b[0m: I hope I helped, José! Were you able to understand how Bradesco dental insurance works?\n\u001b[32mUser\u001b[0m: N\n\u001b[36mSystem\u001b[0m: It's a shame your issue wasn't resolved. We'll forward you to a human representative.",
+          "model": "llama-3.3-70b-versatile",
+          "customer_name": "José",
+          "insurance_type": 4,
+          "issue_summary": "The customer, José, wanted to know how Bradesco dental insurance works and was provided with information about the plan's coverage but still needs further assistance.",
+          "query_category": "General Questions",
+          "query_subcategory": "Product Information",
+          "human_attendant_name": "Pedro",
+          "human_attendant_id": 5,
+          "urgency_score": 38,
+          "recommended_message": "Hello José! I'm Pedro, a Bradesco Seguros attendant, and I'm here to help you with your questions about Bradesco dental insurance. I saw that you were trying to understand how our dental plan works, but unfortunately, the previous explanations didn't quite clarify your doubts. I apologize if the information provided didn't fully meet your needs. I'm committed to helping you find the answers you're looking for. Can you tell me what specific aspects of the dental insurance are still unclear to you, so we can work together to find a solution?"
+        }
+      },
+      {
+        "agent": 7,
+        "execution_time": 0.5969042778015137,
+        "timestamp": "2025-03-05T17:43:04.165180",
+        "response": {
+          "question": "How does Bradesco dental insurance work?",
+          "draft_answer": "Bradesco Dental plan covers basic dental treatments like cleaning, cavity treatment, extraction, root canal, and office surgeries, with over 27,000 accredited dentists nationwide.",
+          "category": "dental_insurance"
+        }
+      },
+      {
+        "agent": 6,
+        "execution_time": 44.36803197860718,
+        "timestamp": "2025-03-05T17:43:48.556639",
+        "response": {
+          "rating": 5,
+          "follow_up_response": "",
+          "categories": []
+        }
+      }
+    ]
+  },
+  {
+    "chat_history": "\n\u001b[32mUser\u001b[0m: I'm Gabriel, customer from the life insurance plan. I need the help of an attendant urgently.\n\u001b[36mSystem\u001b[0m: We will forward you to a human agent. Please wait a moment.\n\u001b[34mHuman Agent (Camila)\u001b[0m: Hello Gabriel! This is Camila, your attendant from the life insurance area of Bradesco Seguros. I understand that you need urgent assistance, and I'm here to help you as quickly as possible. I've taken note of your life insurance plan, and I'm ready to give you the attention you need. Can you please tell me a little more about what's happening and how I can assist you today?",
+    "sequence_of_agents": [
+      1,
+      5,
+      4,
+      7,
+      6
+    ],
+    "final_state": {
+      "classification": 2,
+      "sentiment": {
+        "positive": 0.04411618411540985,
+        "neutral": 0.4884069263935089,
+        "negative": 0.46747687458992004
+      },
+      "human_attendant_name": "Camila",
+      "human_attendant_id": 18,
+      "general_feedback": {
+        "rating": 4,
+        "follow_up_response": "5",
+        "categories": []
+      }
+    },
+    "execution_logs": [
+      {
+        "agent": 1,
+        "execution_time": 0.9423069953918457,
+        "timestamp": "2025-03-05T17:50:42.006528",
+        "response": 2
+      },
+      {
+        "agent": 5,
+        "execution_time": 0.9696931838989258,
+        "timestamp": "2025-03-05T17:50:42.976581",
+        "response": {
+          "positive": 0.04411618411540985,
+          "neutral": 0.4884069263935089,
+          "negative": 0.46747687458992004
+        }
+      },
+      {
+        "agent": 4,
+        "execution_time": 1.761300802230835,
+        "timestamp": "2025-03-05T17:50:44.753175",
+        "response": {
+          "sentiment": {
+            "positive": 0.04411618411540985,
+            "neutral": 0.4884069263935089,
+            "negative": 0.46747687458992004
+          },
+          "chat_history": "\n\u001b[32mUser\u001b[0m: I'm Gabriel, customer from the life insurance plan. I need the help of an attendant urgently.\n\u001b[36mSystem\u001b[0m: We will forward you to a human agent. Please wait a moment.",
+          "model": "llama-3.3-70b-versatile",
+          "customer_name": "Gabriel",
+          "insurance_type": 3,
+          "issue_summary": "Gabriel, a life insurance customer, needs urgent assistance from a human attendant.",
+          "query_category": "Human Support Escalations",
+          "query_subcategory": "Urgent Assistance",
+          "human_attendant_name": "Camila",
+          "human_attendant_id": 18,
+          "urgency_score": 66,
+          "recommended_message": "Hello Gabriel! This is Camila, your attendant from the life insurance area of Bradesco Seguros. I understand that you need urgent assistance, and I'm here to help you as quickly as possible. I've taken note of your life insurance plan, and I'm ready to give you the attention you need. Can you please tell me a little more about what's happening and how I can assist you today?"
+        }
+      },
+      {
+        "agent": 7,
+        "execution_time": 0.8761982917785645,
+        "timestamp": "2025-03-05T17:50:45.635865",
+        "response": {
+          "question": "How can I get urgent assistance as a life insurance plan customer?",
+          "draft_answer": "For urgent matters, life insurance plan customers can contact our Customer Service Center or request assistance through our website for immediate support.",
+          "category": "life_insurance"
+        }
+      },
+      {
+        "agent": 6,
+        "execution_time": 13.863720417022705,
+        "timestamp": "2025-03-05T17:50:59.521873",
+        "response": {
+          "rating": 4,
+          "follow_up_response": "5",
+          "categories": []
+        }
+      }
+    ]
+  },
+  {
+    "chat_history": "\n\u001b[32mUser\u001b[0m: I'm José and I would like to know how Bradesco dental insurance works.\n\u001b[36mSystem\u001b[0m: We're looking for an answer to it in the FAQ database.\n\u001b[34mAgent 2\u001b[0m: \u001b[34mAnswer: The Bradesco Dental plan works by guaranteeing access to basic dental treatments, such as cleaning and treatment of cavities, with a wide national coverage of more than 27 thousand accredited dentists. It also covers procedures like extraction, root canal, and surgeries performed in the office. You can check the complete coverage of the plan on their portal.\u001b[0m\n\u001b[32mSources (FAQ ids): [41, 42, 36, 40, 38]\u001b[0m\n\u001b[34mAgent 8\u001b[0m: I hope I helped, José! Were you able to understand how the Bradesco dental insurance works?\n\u001b[32mUser\u001b[0m: Y\n\u001b[36mSystem\u001b[0m: I'm glad your issue has been resolved! Now, could you please provide us with a quick review to improve our service?",
+    "sequence_of_agents": [
+      1,
+      2,
+      9,
+      8,
+      6
+    ],
+    "final_state": {
+      "classification": 0,
+      "rag_response": "\u001b[34mAnswer: The Bradesco Dental plan works by guaranteeing access to basic dental treatments, such as cleaning and treatment of cavities, with a wide national coverage of more than 27 thousand accredited dentists. It also covers procedures like extraction, root canal, and surgeries performed in the office. You can check the complete coverage of the plan on their portal.\u001b[0m\n\u001b[32mSources (FAQ ids): [41, 42, 36, 40, 38]\u001b[0m",
+      "resolution_check_faq_path": true,
+      "general_feedback": {
+        "rating": 4,
+        "follow_up_response": "no",
+        "categories": []
+      }
+    },
+    "execution_logs": [
+      {
+        "agent": 1,
+        "execution_time": 0.804821252822876,
+        "timestamp": "2025-04-18T13:10:16.845909",
+        "response": 0
+      },
+      {
+        "agent": 2,
+        "execution_time": 4.636596441268921,
+        "timestamp": "2025-04-18T13:10:21.482660",
+        "response": "\u001b[34mAnswer: The Bradesco Dental plan works by guaranteeing access to basic dental treatments, such as cleaning and treatment of cavities, with a wide national coverage of more than 27 thousand accredited dentists. It also covers procedures like extraction, root canal, and surgeries performed in the office. You can check the complete coverage of the plan on their portal.\u001b[0m\n\u001b[32mSources (FAQ ids): [41, 42, 36, 40, 38]\u001b[0m"
+      },
+      {
+        "agent": 9,
+        "execution_time": 0.2550640106201172,
+        "timestamp": "2025-04-18T13:10:21.741113",
+        "response": {
+          "compliance": true,
+          "violation": "No violation"
+        }
+      },
+      {
+        "agent": 8,
+        "execution_time": 0.4809591770172119,
+        "timestamp": "2025-04-18T13:10:22.226012",
+        "response": "I hope I helped, José! Were you able to understand how the Bradesco dental insurance works?"
+      },
+      {
+        "agent": 6,
+        "execution_time": 19.155460834503174,
+        "timestamp": "2025-04-18T13:10:50.291043",
+        "response": {
+          "rating": 4,
+          "follow_up_response": "no",
+          "categories": []
+        }
+      }
+    ]
+  }
+]
