@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "status": "Available",
+    "human_attendant_name": "Marcos",
+    "insurance_type": 0,
+    "query_category": "General Questions"
+  },
+  {
+    "id": 2,
+    "status": "Available",
+    "human_attendant_name": "Maria",
+    "insurance_type": 1,
+    "query_category": "Claims"
+  },
+  {
+    "id": 3,
+    "status": "Busy",
+    "human_attendant_name": "João",
+    "insurance_type": 2,
+    "query_category": "Policy Management"
+  },
+  {
+    "id": 4,
+    "status": "Available",
+    "human_attendant_name": "Ana",
+    "insurance_type": 3,
+    "query_category": "Payments"
+  },
+  {
+    "id": 5,
+    "status": "Available",
+    "human_attendant_name": "Pedro",
+    "insurance_type": 4,
+    "query_category": "General Questions"
+  },
+  {
+    "id": 6,
+    "status": "Available",
+    "human_attendant_name": "Carla",
+    "insurance_type": 5,
+    "query_category": "Human Support Escalations"
+  },
+  {
+    "id": 7,
+    "status": "Available",
+    "human_attendant_name": "Lucas",
+    "insurance_type": 6,
+    "query_category": "Regulatory or Compliance Questions"
+  },
+  {
+    "id": 8,
+    "status": "Available",
+    "human_attendant_name": "Fernanda",
+    "insurance_type": 0,
+    "query_category": "Claims"
+  },
+  {
+    "id": 9,
+    "status": "Available",
+    "human_attendant_name": "Rafael",
+    "insurance_type": 1,
+    "query_category": "Policy Management"
+  },
+  {
+    "id": 10,
+    "status": "Available",
+    "human_attendant_name": "Isabela",
+    "insurance_type": 2,
+    "query_category": "Payments"
+  },
+  {
+    "id": 11,
+    "status": "Available",
+    "human_attendant_name": "Gustavo",
+    "insurance_type": 3,
+    "query_category": "General Questions"
+  },
+  {
+    "id": 12,
+    "status": "Available",
+    "human_attendant_name": "Juliana",
+    "insurance_type": 4,
+    "query_category": "Human Support Escalations"
+  },
+  {
+    "id": 13,
+    "status": "Available",
+    "human_attendant_name": "Diego",
+    "insurance_type": 5,
+    "query_category": "Regulatory or Compliance Questions"
+  },
+  {
+    "id": 14,
+    "status": "Available",
+    "human_attendant_name": "Larissa",
+    "insurance_type": 6,
+    "query_category": "Claims"
+  },
+  {
+    "id": 15,
+    "status": "Available",
+    "human_attendant_name": "Bruno",
+    "insurance_type": 0,
+    "query_category": "Policy Management"
+  },
+  {
+    "id": 16,
+    "status": "Available",
+    "human_attendant_name": "Amanda",
+    "insurance_type": 1,
+    "query_category": "Payments"
+  },
+  {
+    "id": 17,
+    "status": "Available",
+    "human_attendant_name": "Ricardo",
+    "insurance_type": 2,
+    "query_category": "General Questions"
+  },
+  {
+    "id": 18,
+    "status": "Available",
+    "human_attendant_name": "Camila",
+    "insurance_type": 3,
+    "query_category": "Human Support Escalations"
+  },
+  {
+    "id": 19,
+    "status": "Available",
+    "human_attendant_name": "Gabriel",
+    "insurance_type": 4,
+    "query_category": "Regulatory or Compliance Questions"
+  },
+  {
+    "id": 20,
+    "status": "Available",
+    "human_attendant_name": "Renata",
+    "insurance_type": 5,
+    "query_category": "Claims"
+  },
+  {
+    "id": 21,
+    "status": "Available",
+    "human_attendant_name": "Felipe",
+    "insurance_type": 6,
+    "query_category": "Policy Management"
+  },
+  {
+    "id": 22,
+    "status": "Available",
+    "human_attendant_name": "Lívia",
+    "insurance_type": 0,
+    "query_category": "Payments"
+  },
+  {
+    "id": 23,
+    "status": "Available",
+    "human_attendant_name": "Matheus",
+    "insurance_type": 1,
+    "query_category": "General Questions"
+  },
+  {
+    "id": 24,
+    "status": "Available",
+    "human_attendant_name": "Letícia",
+    "insurance_type": 2,
+    "query_category": "Human Support Escalations"
+  },
+  {
+    "id": 25,
+    "status": "Available",
+    "human_attendant_name": "Vinicius",
+    "insurance_type": 3,
+    "query_category": "Regulatory or Compliance Questions"
+  }
+]
