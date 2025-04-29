@@ -1,6 +1,6 @@
 # STELLAR 🌟: A Structured Architecture for Reliable LLM Customer Support
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <!-- Replace with your chosen license -->
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Welcome to the official implementation of **STELLAR (Structured, Trustworthy, and Explainable LLM-Led Architecture for Reliable Customer Support)**! This repository contains the core code, experimental setup, and resources described in our upcoming paper [Link to Paper/arXiv when available].
 
@@ -151,7 +151,7 @@ Contributions are welcome! If you find bugs or have suggestions for improvements
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE). 
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). 
 
 ---
 
