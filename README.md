@@ -163,7 +163,7 @@ If you use STELLAR in your research or work, please cite our paper:
 Not published yet : )
 @article{YourLastNameYEARstellar,
   title={STELLAR: A Structured, Trustworthy, and Explainable LLM-Led Architecture for Reliable Customer Support},
-  author={Your Name and Co-authors},
-  journal={Journal or Conference Name / arXiv preprint arXiv:XXXX.XXXXX},
-  year={YYYY}
+  author={-},
+  journal={-},
+  year={-}
 }
