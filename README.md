@@ -7,7 +7,8 @@ Welcome to the official implementation of **STELLAR (Structured, Trustworthy, an
 STELLAR addresses the critical challenges of reliability, explainability, and consistency when deploying Large Language Models (LLMs) for complex customer support tasks. Instead of relying on unpredictable monolithic LLMs or overly flexible agentic frameworks, STELLAR proposes a robust **Directed Acyclic Graph (DAG)** architecture.
 
 <img src="STELLAR/images/complete_workflow_wobg.png" alt="STELLAR Complete Workflow" width="450">
-<br><em>(High-level overview of the STELLAR architecture and workflows)</em>
+<br><em>(High-level overview of the STELLAR architecture in DAG, showing all modules and the possible transitions between them, which result in the 11 predefined workflows.)</em>
+
 ---
 
 ## 🚀 What is STELLAR?
@@ -53,7 +54,7 @@ STELLAR's core is its DAG structure, orchestrating 9 distinct modules:
 The system follows one of 11 predefined workflows based on decisions at key branching points (Modules 1, 8, 9), ensuring controlled execution.
 
 <img src="STELLAR/images/simplified_workflows.png" alt="STELLAR Simplified Workflows" width="400">
-<br><em>(Conceptual view of the main pathways)</em>
+<br><em>(Simplified illustration highlighting the three main initial paths (triggered by Module 1: Routing) and the role of Modules 8 (User Verification) and 9 (Compliance Verification) as key decision and flow divergence points)</em>
 
 ---
 
