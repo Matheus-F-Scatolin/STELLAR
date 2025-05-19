@@ -6,7 +6,7 @@ Welcome to the official implementation of **STELLAR (Structured, Trustworthy, an
 
 STELLAR addresses the critical challenges of reliability, explainability, and consistency when deploying Large Language Models (LLMs) for complex customer support tasks. Instead of relying on unpredictable monolithic LLMs or overly flexible agentic frameworks, STELLAR proposes a robust **Directed Acyclic Graph (DAG)** architecture.
 
-<img src="STELLAR/images/complete_workflow_wobg.png" alt="STELLAR Complete Workflow" width="450">
+<img src="STELLAR/images/complete_workflow_wobg.png?raw=true" alt="STELLAR Complete Workflow" width="450">
 <br><em>(High-level overview of the STELLAR architecture in DAG, showing all modules and the possible transitions between them, which result in the 11 predefined workflows.)</em>
 
 ---
@@ -53,7 +53,7 @@ STELLAR's core is its DAG structure, orchestrating 9 distinct modules:
 
 The system follows one of 11 predefined workflows based on decisions at key branching points (Modules 1, 8, 9), ensuring controlled execution.
 
-<img src="STELLAR/images/simplified_workflows.png" alt="STELLAR Simplified Workflows" width="400">
+<img src="STELLAR/images/simplified_workflows.png?raw=true" alt="STELLAR Simplified Workflows" width="400">
 <br><em>(Simplified illustration highlighting the three main initial paths (triggered by Module 1: Routing) and the role of Modules 8 (User Verification) and 9 (Compliance Verification) as key decision and flow divergence points)</em>
 
 ---
@@ -126,15 +126,15 @@ Open and run the `STELLAR/experiments/experiments.ipynb` notebook. This notebook
 
 Each module plays a specific role:
 
-*   **Module 1:** Inquiry Classifier - Routes the query. <br> <img src="STELLAR/images/module_1.png" alt="Module 1 Diagram" width="400">
-*   **Module 2:** FAQ Retrieval (RAG) - Answers via RAG. <br> <img src="STELLAR/images/module_2.png" alt="Module 2 Diagram" width="400">
-*   **Module 3:** Direct Information Retrieval - Answers via In-Context Learning. <br> <img src="STELLAR/images/module_3.png" alt="Module 3 Diagram" width="400">
-*   **Module 4:** Human Support Escalation - Prepares for human agent. <br> <img src="STELLAR/images/module_4.png" alt="Module 4 Diagram" width="400">
-*   **Module 5:** Sentiment Analysis - Reads the mood. <br> <img src="STELLAR/images/module_5.png" alt="Module 5 Diagram" width="400">
+*   **Module 1:** Inquiry Classifier - Routes the query. <br> <img src="STELLAR/images/module_1.png?raw=true" alt="Module 1 Diagram" width="400">
+*   **Module 2:** FAQ Retrieval (RAG) - Answers via RAG. <br> <img src="STELLAR/images/module_2.png?raw=true" alt="Module 2 Diagram" width="400">
+*   **Module 3:** Direct Information Retrieval - Answers via In-Context Learning. <br> <img src="STELLAR/images/module_3.png?raw=true" alt="Module 3 Diagram" width="400">
+*   **Module 4:** Human Support Escalation - Prepares for human agent. <br> <img src="STELLAR/images/module_4.png?raw=true" alt="Module 4 Diagram" width="400">
+*   **Module 5:** Sentiment Analysis - Reads the mood. <br> <img src="STELLAR/images/module_5.png?raw=true" alt="Module 5 Diagram" width="400">
 *   **Module 6:** Feedback Collector - Gathers user thoughts. <br> <img src="STELLAR/images/module_6.png" alt="Module 6 Diagram" width="400">
 *   **Module 7:** Knowledge Base Builder - Suggests new FAQs. <br> <img src="STELLAR/images/module_7.png" alt="Module 7 Diagram" width="400">
-*   **Module 8:** Interaction Verification - Confirms resolution. <br> <img src="STELLAR/images/module_8.png" alt="Module 8 Diagram" width="400">
-*   **Module 9:** Compliance Checker - Ensures safety & quality. <br> <img src="STELLAR/images/module_9.png" alt="Module 9 Diagram" width="400">
+*   **Module 8:** Interaction Verification - Confirms resolution. <br> <img src="STELLAR/images/module_8.png?raw=true" alt="Module 8 Diagram" width="400">
+*   **Module 9:** Compliance Checker - Ensures safety & quality. <br> <img src="STELLAR/images/module_9.png?raw=true" alt="Module 9 Diagram" width="400">
 
 ---
 
