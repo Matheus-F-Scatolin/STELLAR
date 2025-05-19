@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Welcome to the official implementation of **STELLAR (Structured, Trustworthy, and Explainable LLM-Led Architecture for Reliable Customer Support)**! This repository contains the core code, experimental setup, and resources described in our upcoming paper [Link to Paper/arXiv when available].
+Welcome to the official implementation of **STELLAR (Structured, Trustworthy, and Explainable LLM-Led Architecture for Reliable Customer Support)**! This repository contains the core code, experimental setup, and resources described in our upcoming paper [Link to Paper when available].
 
 STELLAR addresses the critical challenges of reliability, explainability, and consistency when deploying Large Language Models (LLMs) for complex customer support tasks. Instead of relying on unpredictable monolithic LLMs or overly flexible agentic frameworks, STELLAR proposes a robust **Directed Acyclic Graph (DAG)** architecture.
 
